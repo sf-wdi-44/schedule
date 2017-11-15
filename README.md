@@ -20,7 +20,7 @@
       Orientation; Teacher Intros; <a href="https://drive.google.com/file/d/0B8yGwcJ3XjF1UXVxcGM5THVvM0k/view">Human Bingo</a>
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Portfolio</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Portfolio (Part I)</a> (MF)
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
