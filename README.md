@@ -84,7 +84,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
-      Portfolio P3
+      <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Portfolio (Part II)</a>
     </td>
   </tr>
   <tr>
