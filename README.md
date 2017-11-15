@@ -27,7 +27,7 @@
       <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part II)</a> (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning 1 -->
-      JQuery (Part I) (ESW)
+      <a href="https://github.com/sf-wdi-40/jquery-part-1">JQuery (Part I)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Morning 1 -->
       Review HTML, CSS, JavaScript (MF)
@@ -45,7 +45,7 @@
       <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/jquery-part-1">jQuery (Part II)</a> (ESW)
+      <a href="https://github.com/sf-wdi-40/jquery-part-1">JQuery (Part II)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
       Bootstrap & Grid (MF)
