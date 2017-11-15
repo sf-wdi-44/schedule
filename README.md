@@ -36,7 +36,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 1 - Monday Morning 2 -->
-      Student Intros & Icebreakers; Scenarios and Norms Brainstorming (ESW); Classroom Culture (MF)
+      Student Intros & Icebreakers; <a href="https://docs.google.com/a/generalassemb.ly/document/d/1hsQ0wEbA1Z97VM630HZjf5YpLrtdpZ5SN96PT0D6mDI/edit?usp=sharing">Scenarios</a>; Norms Brainstorming (ESW); Classroom Culture (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (MF)
