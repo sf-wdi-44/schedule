@@ -66,7 +66,7 @@
       <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (MF)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
-      Intro to Portfolio P3 (MF)
+      <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (MF)
     </td>
   </tr>
   <tr>
