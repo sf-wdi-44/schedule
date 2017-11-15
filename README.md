@@ -49,7 +49,6 @@
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
       Bootstrap & Grid (MF)
-      (AS)
     </td>
   </tr>
   <tr>
