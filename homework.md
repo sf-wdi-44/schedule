@@ -1,4 +1,4 @@
-WEEK 1: Welcome to WDI!
+<h1>WEEK 1: Welcome to WDI!</h1>
 
 Nov 27, Monday
 - Finish Site Recreation lab
