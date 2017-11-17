@@ -1,6 +1,7 @@
 <h1>Week 1: Welcome to WDI!</h1>
 
 Nov 27, Monday
+- Go through Fundamentals Assessment (open-internet test)
 - Finish Site Recreation lab
 
 Nov 28, Tuesday
