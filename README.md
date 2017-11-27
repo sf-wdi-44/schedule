@@ -21,7 +21,6 @@
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Portfolio (Part I)</a> (MF)
-      (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
       <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part II)</a> (MF)
