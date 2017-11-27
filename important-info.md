@@ -4,7 +4,7 @@
 * [Installfest](https://github.com/SF-WDI-LABS/installfest)
 * [How to turn in homework](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md)
 * [How to deploy a Node app to Heroku](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md)
-* [Google Drive folder](https://drive.google.com/drive/folders/0B8yGwcJ3XjF1aDA0TlgzaDlDYVk)
+* [Google Drive folder](https://drive.google.com/drive/folders/1ZtBbEasH4A0cngg44Iu9Bn4Sq9qoa2S8)
 
 
 ## Course Information
