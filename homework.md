@@ -3,7 +3,7 @@
 ## Nov 27, Monday
 > Note: Homework is generally listed from most important to least important each day.
 
-1. Finish the Fundamentals assessment that was handed out in class. You will turn this in tomorrow morning.
+1. Finish the Fundamentals assessment that was handed out in class. You will turn this in tomorrow morning at 9am. (Please start early on this!)
 2. Finish the Site Recreation lab begun in class.
 
 ## Nov 28, Tuesday
