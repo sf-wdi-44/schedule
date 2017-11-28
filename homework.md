@@ -1,4 +1,7 @@
-<h1>Week 1: Welcome to WDI!</h1>
+# Week 1: Welcome to WDI!
+
+## Nov 28, Tuesday
+1. Finish the [Control Flow Training](https://github.com/sf-wdi-labs/js-control-flow-training/) started in class. Submit your work using [these directions](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md) to create a pull request. In addition to creating the pull request, please add a link to your repo in the [Project Submission doc](https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit#gid=0).
 
 ## Nov 27, Monday
 > Note: Homework is generally listed from most important to least important each day.
@@ -6,8 +9,11 @@
 1. Finish the Fundamentals assessment that was handed out in class. You will turn this in tomorrow morning at 9am. (Please start early on this!)
 2. Finish the Site Recreation lab begun in class.
 
-## Nov 28, Tuesday
-- Finish Kyrel in preparation for Part II tomorrow
+---
+
+> the future
+
+---
 
 ## Nov 29, Wednesday
 - Finish JS Basics problem set
