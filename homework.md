@@ -2,7 +2,8 @@
 
 ## Nov 29, Wednesday
 1. Finish AND TURN IN (using the same directions yesterday, and in the Project Submission doc) the JS Basics problem set.
-2. Keep working on your portfolio! We will NOT have a formal review of them on Friday, but we will on Monday, and you'll have another portfolio-related assignment over the weekend.
+2. Continue the JS Objects problems from this morning.
+3. Keep working on your portfolio! We will NOT have a formal review of them on Friday, but we will on Monday, and you'll have another portfolio-related assignment over the weekend.
 
 
 ## Nov 28, Tuesday
