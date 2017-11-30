@@ -47,7 +47,7 @@
       <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> & Grid (MF)
+      Kyrel (PART III)
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
       <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (MF)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> & Grid (ESW)
     </td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Portfolio (Part II)</a>
+      <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (MF)
     </td>
   </tr>
   <tr>
