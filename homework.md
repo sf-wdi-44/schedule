@@ -1,5 +1,11 @@
 # Week 1: Welcome to WDI!
 
+## Nov 30, Thursday
+1. Fill out the Pulse Check. (This will be Slacked out every Thursday afternoon for the next 12 weeks.)
+2. Finish the Personal Portfolio that you started earlier in the week. Your goal is to get the HTML and CSS as solid as possible tonight; you'll add JS over the weekend.
+3. Finish the jQuery Playground and Fantastic Mr. Fox labs from this afternoon.
+
+
 ## Nov 29, Wednesday
 1. Finish AND TURN IN (using the same directions yesterday, and in the Project Submission doc) the JS Basics problem set.
 2. Continue the JS Objects problems from this morning.
@@ -23,10 +29,6 @@
 > the future
 
 ---
-
-## Nov 30, Thursday
-- Fill out Pulse Check
-- Prepare any remaining questions about HTML, CSS, JavaScript for tomorrow morning's review session
 
 ## Dec 1, Friday
 - Finish Portfolio (Part II)

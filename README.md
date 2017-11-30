@@ -62,7 +62,7 @@
       <a href="https://github.com/sf-wdi-40/pseudocode">Pseudocode</a>, Debugging, & <a href="https://docs.google.com/presentation/d/1oBOGiupBqTXT_Xd1HJuMYunU295vkDBfnmVUL6vLjDg/edit?usp=sharing">Intro to Functions</a> (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (MF)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (MF)
