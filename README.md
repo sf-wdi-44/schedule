@@ -29,7 +29,7 @@
       <a href="https://github.com/sf-wdi-40/jquery-part-1">JQuery (Part I)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Morning 1 -->
-      Review HTML, CSS, JavaScript (MF)
+      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part III)</a> (MF)
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
       <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part III)</a> (MF)
+      Review HTML, CSS, JavaScript (MF)
     </td>
   </tr>
   <tr>
