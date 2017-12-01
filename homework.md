@@ -1,5 +1,9 @@
 # Week 1: Welcome to WDI!
 
+## Dec 1, Friday
+1. Finish the Portfolio Part 2 assignment. To do a code review Monday morning, **we will print your code at 8:00am Monday**, so you MUST put links in the Project Submission doc before then.
+2. Re-visit any earlier assignments or topics you'd like to review.
+
 ## Nov 30, Thursday
 1. Fill out the Pulse Check. (This will be Slacked out every Thursday afternoon for the next 12 weeks.)
 2. Finish the Personal Portfolio that you started earlier in the week. Your goal is to get the HTML and CSS as solid as possible tonight; you'll add JS over the weekend.
@@ -23,12 +27,3 @@
 
 1. Finish the Fundamentals assessment that was handed out in class. You will turn this in tomorrow morning at 9am. (Please start early on this!)
 2. Finish the Site Recreation lab begun in class.
-
----
-
-> the future
-
----
-
-## Dec 1, Friday
-- Finish Portfolio (Part II)
