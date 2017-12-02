@@ -2,7 +2,12 @@
 
 ## Dec 1, Friday
 1. Finish the <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Portfolio Part 2</a> assignment. To do a code review Monday morning, **we will print your code at 8:00am Monday**, so you MUST put links in the Project Submission doc before then.
-2. Re-visit any earlier assignments or topics you'd like to review.
+2. Re-visit any earlier assignments or topics you'd like to review. Recommended topics: 
+  - FUNDAMENTALS / REVIEW: Be able to answer all questions covered in the Fundamentals assessment packet
+  - JS WARM-UP: [Data Types](https://github.com/SF-WDI-LABS/js-data-types-training), [Control Flow](https://github.com/sf-wdi-labs/js-control-flow-training/), & [Objects](https://github.com/SF-WDI-LABS/js-objects-training)
+  - JS PRACTICE: [JS Problems Set](https://github.com/SF-WDI-LABS/problem-set-js-basics)
+  - JQUERY: [jQuery playground](https://github.com/SF-WDI-LABS/jquery-playground-lab)
+  - BOOTSTRAP: Implement different Bootstrap [components](https://getbootstrap.com/docs/4.0/components/alerts/) into your Personal Portfolio
 
 ## Nov 30, Thursday
 1. Fill out the Pulse Check. (This will be Slacked out every Thursday afternoon for the next 12 weeks.)
