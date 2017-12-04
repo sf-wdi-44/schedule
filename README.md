@@ -71,7 +71,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      Iterators Jigsaw Project (ESW)
+      Iterators Jigsaw (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe Project</a> (ESW)
