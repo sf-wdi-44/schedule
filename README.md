@@ -20,7 +20,7 @@
       Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
-      Review Iterators & Iterators Jigsaw Puzzle (MF)
+      Review Iterators (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (MF)
