@@ -17,7 +17,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 2 - Monday Morning 1 -->
-      Personal Portfolio Code Review (MF)
+      Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
       Review Iterators & Iterators Jigsaw Puzzle (MF)
@@ -35,7 +35,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
-      Functions (MF)
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
       HTML Forms (MF)
@@ -53,7 +53,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      Functions Training & Intro to Iterators (ESW)
+      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> & Intro to Iterators (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
       DOM Events Review & DOM Events Lab (ESW)
