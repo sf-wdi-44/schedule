@@ -20,7 +20,7 @@
       Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
-      Review Iterators (MF)
+      Review Iterators & <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (MF)
@@ -71,7 +71,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      Iterators Jigsaw (ESW)
+      <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe Project</a> (ESW)
