@@ -56,7 +56,7 @@
       <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> & <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Iterators</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      DOM Events Review & DOM Events Lab (ESW)
+      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review & DOM Events Lab</a> (ESW)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
