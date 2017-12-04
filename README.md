@@ -23,10 +23,10 @@
       Review Iterators & Iterators Jigsaw Puzzle (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      Racing Game Project (MF)
+      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (MF)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      AJAX (ESW)
+      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       Continue working on Geoquakes Project
@@ -38,31 +38,31 @@
       <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
-      HTML Forms (MF)
+      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
-      Racing Game Project
+      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
-      Giphy Project (ESW)
+      <a href="https://github.com/arun-projects/Giphy-Search">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
-      Review Geoquakes Project (MF)
+      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (MF)
     </td>
   </tr>
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> & Intro to Iterators (ESW)
+      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> & <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Iterators</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
       DOM Events Review & DOM Events Lab (ESW)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
-      Racing Game Project
+      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
-      Geoquakes Project
+      <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
       Service Workers (MF)
@@ -74,10 +74,10 @@
       Iterators Jigsaw Project (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
-      Tic Tac Toe Project (ESW)
+      <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
-      Racing Game Project
+      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
       Outcomes
