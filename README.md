@@ -29,7 +29,7 @@
       <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
-      Continue working on Geoquakes Project
+      Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
     </td>
   </tr>
   <tr>
