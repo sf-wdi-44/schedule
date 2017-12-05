@@ -1,5 +1,13 @@
 # Week 1: Welcome to WDI!
 
+## Dec 5, Tuesday
+1. Finish DOM Events Lab
+2. Finish Tic Tac Toe Project
+
+## Dec 4, Monday
+1. Finish Functions Training
+2. Do Laundry Lab
+
 ## Dec 1, Friday
 1. Finish the <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Portfolio Part 2</a> assignment. To do a code review Monday morning, **we will print your code at 8:00am Monday**, so you MUST put links in the Project Submission doc before then.
 2. Re-visit any earlier assignments or topics you'd like to review. Recommended topics: 
