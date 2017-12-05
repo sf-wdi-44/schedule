@@ -4,7 +4,7 @@
 
 
 
-## Week 2: <!-- TOPIC -->
+## Week 2: JavaScript on the Web
 <table>
   <tr>
     <td>Dec 4-8</td>
