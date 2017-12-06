@@ -48,3 +48,6 @@
 
 ## Future: December 7, Thursday
 Get started on the <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>. Your job is to finish **Parts 1 and 2** of that lab. We will work on parts 3 and 4 in class tomorrow.
+
+## Future: December 8, Friday
+Finish AND SUBMIT VIA PULL REQUEST the [Spotify search lab](https://github.com/SF-WDI-LABS/spotify-search-lab).
