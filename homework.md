@@ -1,5 +1,8 @@
 # Week 2: JavaScript on the Web
 
+## December 6, Wednesday
+1. Finish the racing game project, and add a link in the project submission doc. In the morning, we'll present these science-fair style: you'll show your game on your computer and walk around to play others' games as well.
+
 ## Dec 5, Tuesday
 1. Finish [DOM Events Lab](https://github.com/SF-WDI-LABS/jquery-events-lab)
 2. Finish [Tic Tac Toe Project](https://github.com/SF-WDI-LABS/tic-tac-toe)
@@ -12,7 +15,7 @@
 
 ## Dec 1, Friday
 1. Finish the <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Portfolio Part 2</a> assignment. To do a code review Monday morning, **we will print your code at 8:00am Monday**, so you MUST put links in the Project Submission doc before then.
-2. Re-visit any earlier assignments or topics you'd like to review. Recommended topics: 
+2. Re-visit any earlier assignments or topics you'd like to review. Recommended topics:
   - BASICS REVIEW: Be able to answer all questions covered in the Fundamentals assessment packet
   - JS WARM-UP: [Data Types](https://github.com/SF-WDI-LABS/js-data-types-training), [Control Flow](https://github.com/sf-wdi-labs/js-control-flow-training/), & [Objects](https://github.com/SF-WDI-LABS/js-objects-training)
   - JS PRACTICE: [Problems Set](https://github.com/SF-WDI-LABS/problem-set-js-basics) & [jQuery Playground](https://github.com/SF-WDI-LABS/jquery-playground-lab)
@@ -41,3 +44,6 @@
 
 1. Finish the Fundamentals assessment that was handed out in class. You will turn this in tomorrow morning at 9am. (Please start early on this!)
 2. Finish the Site Recreation lab begun in class.
+
+## Future: December 7, Thursday
+Get started on the <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>. Your job is to finish **Parts 1 and 2** of that lab. We will work on parts 3 and 4 in class tomorrow.

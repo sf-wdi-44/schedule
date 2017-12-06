@@ -26,7 +26,7 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (MF)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
+      Science fair and review of Racing Game (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
@@ -44,7 +44,7 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
-      <a href="https://github.com/arun-projects/Giphy-Search">Giphy Project</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
       Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (MF)
@@ -62,7 +62,7 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
+      <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
       Service Workers (MF)
@@ -80,7 +80,7 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      Outcomes
+      Intro homework (MF) and Outcomes (Andy)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
       Node REPL; Node Modules (MF)
