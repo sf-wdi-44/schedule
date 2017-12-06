@@ -1,7 +1,8 @@
 # Week 2: JavaScript on the Web
 
 ## December 6, Wednesday
-1. Finish the racing game project, and add a link in the project submission doc. In the morning, we'll present these science-fair style: you'll show your game on your computer and walk around to play others' games as well.
+1. Sign up for an account at [http://git.generalassemb.ly](http://git.generalassemb.ly). (I know you already have a GitHub account. This is different.) Add your username to the project submission doc.
+2. Finish the racing game project, and add a link in the project submission doc. In the morning, we'll present these science-fair style: you'll show your game on your computer and walk around to play others' games as well.
 
 ## Dec 5, Tuesday
 1. Finish [DOM Events Lab](https://github.com/SF-WDI-LABS/jquery-events-lab)
