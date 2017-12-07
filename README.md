@@ -65,7 +65,7 @@
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a> (MF)
+      <a href="https://git.generalassemb.ly/SF-WDI-42/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a> (MF)
     </td>
   </tr>
   <tr>
