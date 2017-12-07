@@ -1,9 +1,13 @@
 # Week 2: JavaScript on the Web
 
+## December 7, Thursday
+1. Finish the Giffaw lab begun in class.
+2. Get started on the <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>. Your job is to finish **Parts 1 and 2** of that lab, which are very similar to Giffaw. We will work on parts 3 and 4 in class tomorrow.
+
 ## December 6, Wednesday
 1. Sign up for an account at [http://git.generalassemb.ly](http://git.generalassemb.ly). (I know you already have a GitHub account. This is different.) Add your username to the project submission doc.
 2. Finish the [Racing Game Project](https://github.com/sf-wdi-40/project-0), and add a link in the project submission doc. In the morning, we'll present these science-fair style: you'll show your game on your computer and walk around to play others' games as well.
-3. BONUS: Spend time reviewing JavaScript practice problems from last week, especially [JS Basics Problems Set](https://github.com/SF-WDI-LABS/problem-set-js-basics) & [Objects](https://github.com/SF-WDI-LABS/js-objects-training) 
+3. BONUS: Spend time reviewing JavaScript practice problems from last week, especially [JS Basics Problems Set](https://github.com/SF-WDI-LABS/problem-set-js-basics) & [Objects](https://github.com/SF-WDI-LABS/js-objects-training).
 
 ## Dec 5, Tuesday
 1. Finish [DOM Events Lab](https://github.com/SF-WDI-LABS/jquery-events-lab)
@@ -46,9 +50,6 @@
 
 1. Finish the Fundamentals assessment that was handed out in class. You will turn this in tomorrow morning at 9am. (Please start early on this!)
 2. Finish the Site Recreation lab begun in class.
-
-## Future: December 7, Thursday
-Get started on the <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>. Your job is to finish **Parts 1 and 2** of that lab. We will work on parts 3 and 4 in class tomorrow.
 
 ## Future: December 8, Friday
 Finish AND SUBMIT VIA PULL REQUEST the [Spotify search lab](https://github.com/SF-WDI-LABS/spotify-search-lab).
