@@ -1,8 +1,8 @@
 # Week 2: JavaScript on the Web
 ## December 8, Friday
 1. Your job this weekend is to explore a new API. You get two options for this. Whichever option you choose, **put a link to your repo into the Project Submission doc**, and consider turning on GitHub Pages in your repo settings as well.
-  a. Pick any API **that does not require OAuth** from [this list](https://github.com/toddmotto/public-apis). Build a site that uses that API based on user input. (So your site needs to allow a user to enter some information, then make an AJAX request using the information they entered.)
-  b. Complete the [Spotify search lab](https://github.com/SF-WDI-LABS/spotify-search-lab), which is a specific set of requirements with the Spotify API.
+  * Pick any API **that does not require OAuth** from [this list](https://github.com/toddmotto/public-apis). Build a site that uses that API based on user input. (So your site needs to allow a user to enter some information, then make an AJAX request using the information they entered.)
+  * Complete the [Spotify search lab](https://github.com/SF-WDI-LABS/spotify-search-lab), which is a specific set of requirements with the Spotify API.
 
 ## December 7, Thursday
 1. Finish the Giffaw lab begun in class.
