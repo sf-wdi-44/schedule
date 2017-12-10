@@ -52,13 +52,13 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
-      Test-Driven To Do App
+      Intro to Test-Driven To Do App (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
       Mongoose & Numerical Relationships (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-     Intro to Book App
+     Intro to Book App (ESW)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
       Tunely Project
