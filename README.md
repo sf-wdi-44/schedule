@@ -34,10 +34,10 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 3 - Monday Morning 2 -->
-      REST & Express Dynamic Routing (MF)
+      REST & <a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Dynamic Routing</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
-      Intro to MongoDB (ESW)
+      <a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Intro to MongoDB</a> (ESW)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
       Continue Build Day
