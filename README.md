@@ -16,7 +16,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 3 - Monday Morning 1 -->
-      [Intro to Express](https://github.com/sf-wdi-40/intro-express) (MF)
+      <a href="https://github.com/sf-wdi-40/intro-express">Intro to Express</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
       Express MVC (ESW)
@@ -25,10 +25,10 @@
       Build Day; EJS; Postman Review (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      Intro to [Tunely Project](https://github.com/SF-WDI-LABS/tunely) (ESW)
+      Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
-      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
   </tr>
   <tr>
@@ -43,10 +43,10 @@
       Continue Build Day
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
   </tr>
   <tr>
@@ -61,10 +61,10 @@
      Intro to [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app) (ESW)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
       Outcomes
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      [Tunely Project](https://github.com/SF-WDI-LABS/tunely); Intro to [Personal API Project](https://github.com/SF-WDI-LABS/express-personal-api) (MF)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to [Personal API Project](https://github.com/SF-WDI-LABS/express-personal-api) (MF)
     </td>
   </tr>
   <tr>
