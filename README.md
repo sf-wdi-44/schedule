@@ -52,7 +52,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
-      Intro to Test-Driven To Do App (MF)
+      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (MF)
@@ -70,7 +70,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 2 -->
-      Test-Driven To Do App
+      <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a>
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (MF)
