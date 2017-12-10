@@ -16,7 +16,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 3 - Monday Morning 1 -->
-      Intro to Express (MF)
+      [Intro to Express](https://github.com/sf-wdi-40/intro-express) (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
       Express MVC (ESW)
@@ -25,10 +25,10 @@
       Build Day; EJS; Postman Review (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      Intro to Tunely Project (ESW)
+      Intro to [Tunely Project](https://github.com/SF-WDI-LABS/tunely) (ESW)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
-      Tunely Project
+      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
     </td>
   </tr>
   <tr>
@@ -43,10 +43,10 @@
       Continue Build Day
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      Tunely Project
+      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      Tunely Project
+      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
     </td>
   </tr>
   <tr>
@@ -55,16 +55,16 @@
       Intro to Test-Driven To Do App (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
-      Mongoose & Numerical Relationships (MF)
+      [Mongoose](https://github.com/SF-WDI-LABS/mongoose) & [Numerical Relationships](https://github.com/SF-WDI-LABS/mongoose-associations) (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-     Intro to Book App (ESW)
+     Intro to [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app) (ESW)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      Tunely Project
+      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      Tunely Project
+      [Tunely Project](https://github.com/SF-WDI-LABS/tunely)
     </td>
   </tr>
   <tr>
@@ -73,16 +73,16 @@
       Test-Driven To Do App
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      Mongoose Relationships (MF)
+      [Mongoose Relationships](https://github.com/SF-WDI-LABS/mongoose-associations) (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
-      Book App
+      [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
       Outcomes
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      Tunely Project; Intro to Personal API Project (MF)
+      [Tunely Project](https://github.com/SF-WDI-LABS/tunely); Intro to [Personal API Project](https://github.com/SF-WDI-LABS/express-personal-api) (MF)
     </td>
   </tr>
   <tr>
