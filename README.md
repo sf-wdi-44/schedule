@@ -3,6 +3,107 @@
 > Useful links are [here](important-info.md)!
 
 
+## Week 3: Full-Stack JavaScript
+<table>
+  <tr>
+    <td>Dec 7-11</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 3 - Monday Morning 1 -->
+      Intro to Express (MF)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 1 -->
+      Express MVC (ESW)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 1 -->
+      Build Day; EJS; Postman Review (MF)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 1 -->
+      Intro to Tunely Project (ESW)
+    </td>
+    <td> <!-- Week 3 - Friday Morning 1 -->
+      Tunely Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 3 - Monday Morning 2 -->
+      REST & Express Dynamic Routing (MF)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 2 -->
+      Intro to MongoDB (ESW)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 2 -->
+      Continue Build Day
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 2 -->
+      Tunely Project
+    </td>
+    <td> <!-- Week 3 - Friday Morning 2 -->
+      Tunely Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 1 -->
+      Test-Driven To Do App
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 1 -->
+      Mongoose & Numerical Relationships (MF)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 1 -->
+     Intro to Book App
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon 1 -->
+      Tunely Project
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
+      Tunely Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 2 -->
+      Test-Driven To Do App
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 2 -->
+      Mongoose Relationships (MF)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 2 -->
+      Book App
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon 2 -->
+      Outcomes
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
+      Tunely Project; Intro to Personal API Project (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
 
 ## Week 2: JavaScript on the Web
 <table>
