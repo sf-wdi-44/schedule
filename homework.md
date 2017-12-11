@@ -1,6 +1,6 @@
 # Week 3: 
 ## December 11, Monday
-1. Review comments on your Personal AJAX Project (PR links were Slacked out).
+1. Review comments on your Personal AJAX Project (PR links were Slacked out). Address comments by adding commits to your repo (NOT merging in the PR).
 2. Finish [Test-Driven To Do App](https://github.com/sf-wdi-labs/test-driven-todo-api).
 
 # Week 2: JavaScript on the Web
