@@ -16,7 +16,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 3 - Monday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/intro-express">Intro to Express</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/express">Intro to Express</a> with <a href="https://github.com/SF-WDI-LABS/express-intro">Lab</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
       Express MVC (ESW)
@@ -34,7 +34,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 3 - Monday Morning 2 -->
-      REST & <a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Dynamic Routing</a> (MF)
+      REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
       <a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Intro to MongoDB</a> (ESW)
