@@ -6,7 +6,7 @@
 ## Week 3: Full-Stack JavaScript
 <table>
   <tr>
-    <td>Dec 7-11</td>
+    <td>Dec 11-15</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
