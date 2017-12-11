@@ -1,3 +1,8 @@
+# Week 3: 
+## December 11, Monday
+1. Review comments on your Personal AJAX Project (PR links were Slacked out).
+2. Finish [Test-Driven To Do App](https://github.com/sf-wdi-labs/test-driven-todo-api).
+
 # Week 2: JavaScript on the Web
 ## December 8, Friday
 1. Your job this weekend is to explore a new API. You get two options for this. Whichever option you choose, **put a link to your repo into the Project Submission doc**, and consider turning on GitHub Pages in your repo settings as well.
