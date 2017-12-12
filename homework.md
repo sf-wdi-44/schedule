@@ -1,7 +1,7 @@
-# Week 3: 
+# Week 3: Full-Stack JavaScript
 ## December 11, Monday
 1. Review comments on your Personal AJAX Project (PR links were Slacked out). Address comments by adding commits to your repo (NOT merging in the PR).
-2. Finish [Test-Driven To Do App](https://github.com/sf-wdi-labs/test-driven-todo-api).
+2. Get as far as possible on the Test-Driven To Do App. Try to at least get through the index, show, and create methods.
 
 # Week 2: JavaScript on the Web
 ## December 8, Friday
