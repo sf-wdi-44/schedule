@@ -1,4 +1,8 @@
 # Week 3: Full-Stack JavaScript
+## December 12, Tuesday
+1. Continue working on the Todo App v2 that we started today in class. There are solutions for each of the methods in the [README file](https://github.com/SF-WDI-42/mongoose), but try to get through as many as possible without reading through those solutions!
+2. Walk back through all the code that we wrote today, and try to break it down to the level that we did in class ("when a get request comes to this url, we look in the database... " etc.). This type of understanding is the most useful tool to have so that you can use your previous code to help you in the days/weeks to come.
+
 ## December 11, Monday
 1. Review comments on your Personal AJAX Project (PR links were Slacked out). Address comments by adding commits to your repo (NOT merging in the PR).
 2. Get as far as possible on the Test-Driven To Do App. Try to at least get through the index, show, and create methods.
