@@ -22,7 +22,7 @@
       Express MVC (ESW)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
-      Build Day; EJS; Postman Review (MF)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
       Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
@@ -40,7 +40,7 @@
       <a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Intro to MongoDB</a> (ESW)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
-      Continue Build Day
+      Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
@@ -58,7 +58,7 @@
       <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-      Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships part 2</a> (MF)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
