@@ -2,7 +2,8 @@
 
 ## December 13, Wednesday
 1. Review what [referenced data](https://github.com/SF-WDI-LABS/mongoose-associations#implementation-referenced) is and how it works in Mongo. 
-2. Finish Sprints 1-2 of the [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app), including all "Challenges".
+2. Finish Sprints 1-2 of the [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app).
+3. BONUS: Read the `seed.js` file in your Book App and reason about what the code is accomplishing.
 
 ## December 12, Tuesday
 1. Continue working on the Todo App v2 that we started today in class. There are solutions for each of the methods in the [README file](https://github.com/SF-WDI-42/mongoose), but try to get through as many as possible without reading through those solutions!
