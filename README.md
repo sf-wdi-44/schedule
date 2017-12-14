@@ -43,7 +43,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/github-collaboration">GitHub for Collaboration</a> and Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
