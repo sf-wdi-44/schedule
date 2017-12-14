@@ -1,7 +1,7 @@
 # Week 3: Full-Stack JavaScript
 
 ## December 13, Wednesday
-1. Review [Referenced data in Mongo](https://github.com/SF-WDI-LABS/mongoose-associations#implementation-referenced) from lecture. 
+1. Review what [referenced data](https://github.com/SF-WDI-LABS/mongoose-associations#implementation-referenced) is and how it works in Mongo. 
 2. Finish Sprints 1-2 of the [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app), including all "Challenges".
 
 ## December 12, Tuesday
