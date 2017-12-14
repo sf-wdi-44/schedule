@@ -1,7 +1,11 @@
 # Week 3: Full-Stack JavaScript
 
+## December 14, Thursday
+1. Fill out the weekly pulse check. Link in Slack.
+2. Finish Sprint 2 of Tunely. In the morning, you'll have a new partner, and everyone will start the beginning of sprint 3 together. (If you don't have time to finish writing all of the code yourself, you should read through the directions for Sprints 1/2 so you know what's happened when you start tomorrow.)
+
 ## December 13, Wednesday
-1. Review what [referenced data](https://github.com/SF-WDI-LABS/mongoose-associations#implementation-referenced) is and how it works in Mongo. 
+1. Review what [referenced data](https://github.com/SF-WDI-LABS/mongoose-associations#implementation-referenced) is and how it works in Mongo.
 2. Finish Sprints 1-2 of the [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app). Use POSTMAN to verify all API endpoints!
 3. BONUS: Read the `seed.js` file in your Book App and reason about what the code is accomplishing.
 
