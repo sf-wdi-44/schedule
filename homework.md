@@ -2,7 +2,7 @@
 
 ## December 13, Wednesday
 1. Review what [referenced data](https://github.com/SF-WDI-LABS/mongoose-associations#implementation-referenced) is and how it works in Mongo. 
-2. Finish Sprints 1-2 of the [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app).
+2. Finish Sprints 1-2 of the [Book App](https://github.com/SF-WDI-LABS/mongoose-books-app). Use POSTMAN to verify all API endpoints!
 3. BONUS: Read the `seed.js` file in your Book App and reason about what the code is accomplishing.
 
 ## December 12, Tuesday
