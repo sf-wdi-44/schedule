@@ -1,5 +1,9 @@
 # Week 3: Full-Stack JavaScript
 
+## December 15, Friday
+1. Finish Tunely sprints 3 and 4.
+2. Complete the Personal API project. We will present this on Monday morning.
+
 ## December 14, Thursday
 1. Fill out the weekly pulse check. Link in Slack.
 2. Finish Sprint 2 of Tunely. In the morning, you'll have a new partner, and everyone will start the beginning of sprint 3 together. (If you don't have time to finish writing all of the code yourself, you should read through the directions for Sprints 1/2 so you know what's happened when you start tomorrow.)

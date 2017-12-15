@@ -82,7 +82,7 @@
       Outcomes
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Project</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (MF)
     </td>
   </tr>
   <tr>
