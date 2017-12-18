@@ -18,13 +18,13 @@
       Personal API Presentations
     </td>
     <td> <!-- Week 4 - Tuesday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1 Approvals</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1 Approvals</a>
     </td>
     <td> <!-- Week 4 - Wednesday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Thursday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Friday Morning 1 -->
       Holiday
@@ -33,16 +33,16 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 4 - Monday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Intro to Project 1</a> (MF)
+      <a href="https://github.com/SF-WDI-42/project-01">Intro to Project 1</a> (MF)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1 Approvals</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1 Approvals</a>
     </td>
     <td> <!-- Week 4 - Wednesday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Thursday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Friday Morning 2 -->
       Holiday
@@ -54,13 +54,13 @@
       <a href="https://bit.ly/2eKrS97">Github for Collaboration, cont'd</a> (ESW)
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1 Approvals</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1 Approvals</a>
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Friday Afternoon 1 / Weekend Lab -->
       Holiday
@@ -69,13 +69,13 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 2 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1 Planning</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1 Planning</a>
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 2 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1 Approvals</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1 Approvals</a>
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 2 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Project 1</a>
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 2 -->
       Outcomes
