@@ -18,7 +18,7 @@
       Personal API Presentations
     </td>
     <td> <!-- Week 4 - Tuesday Morning 1 -->
-      
+      Project 1
     </td>
     <td> <!-- Week 4 - Wednesday Morning 1 -->
       Project 1
