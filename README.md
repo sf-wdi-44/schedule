@@ -51,7 +51,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 1 -->
-      <a href="https://bit.ly/2eKrS97">Github for Collaboration, cont'd</a> (ESW)
+      <a href="https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit?usp=sharing">Github for Collaboration, cont'd</a> (ESW)
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-42/project-01">Project 1 Approvals</a>
