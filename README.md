@@ -78,7 +78,7 @@
       <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 2 -->
-      Outcomes
+      <a href="https://github.com/SF-WDI-42/project-01">Project 1</a>
     </td>
     <td> <!-- Week 4 - Friday Afternoon 2 / Weekend Lab -->
       Holiday
