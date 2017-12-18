@@ -18,7 +18,7 @@
       Personal API Presentations
     </td>
     <td> <!-- Week 4 - Tuesday Morning 1 -->
-      Project 1
+      Project 1 Approvals
     </td>
     <td> <!-- Week 4 - Wednesday Morning 1 -->
       Project 1
@@ -36,7 +36,7 @@
       Intro to Project 1 (MF)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
-      Project 1
+      Project 1 Approvals
     </td>
     <td> <!-- Week 4 - Wednesday Morning 2 -->
       Project 1
@@ -51,16 +51,16 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 1 -->
-      Project 1
+      Github for Collaboration (ESW)
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 1 -->
-      Project 1
+      Project 1 Approvals
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 1 -->
       Project 1
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Project 1
     </td>
     <td> <!-- Week 4 - Friday Afternoon 1 / Weekend Lab -->
       Holiday
@@ -72,7 +72,7 @@
       Project 1 Planning
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 2 -->
-      Project 1
+      Project 1 Approvals
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 2 -->
       Project 1
