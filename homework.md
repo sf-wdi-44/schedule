@@ -1,3 +1,14 @@
+# Week 4: Project 1
+
+## December 21, Thursday
+1. Continue working on Project 1 over the break (reference the Git Cheat Sheet on the schedule for collaborating with your team remotely).
+- Push up to Heroku
+- Fill out README
+- Add style and polish
+- Prepare presentation
+- Make sure your project meets all technical requirements
+2. BONUS: Review Tunely from beginning to end (with and without looking at the solution branches)
+
 # Week 3: Full-Stack JavaScript
 
 ## December 15, Friday
