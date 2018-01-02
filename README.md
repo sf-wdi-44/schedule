@@ -21,10 +21,10 @@
       Finish Project 1
     </td>
     <td> <!-- Week 5 - Wednesday Morning 1 -->
-      Intro to Ruby (ESW)
+      <a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a> (ESW)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
-      Intro to RSpec (MF)
+      <a href="https://github.com/SF-WDI-LABS/rspec">Intro to RSpec</a> (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
       Ruby Practice (ESW)
@@ -39,10 +39,10 @@
       Finish & Present Project 1
     </td>
     <td> <!-- Week 5 - Wednesday Morning 2 -->
-      Username Generator lab (ESW)
+      <a href="https://github.com/SF-WDI-LABS/username-generator">Username Generator lab</a> (ESW)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
-      Go Fish lab (ESW)
+      <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish lab</a> (ESW)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
       SQL & ActiveRecord (MF)
@@ -57,13 +57,13 @@
       Project 1 Live Refactor (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 1 -->
-      Ruby Methods & OOP (MF)
+      <a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> and <a href="https://github.com/SF-WDI-LABS/ruby-oop">OOP</a>(MF)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
-      Go Fish lab (ESW)
+      <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish lab</a> (ESW)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
-      Finish ActiveRecord & Intro to Rails (MF)
+      Finish ActiveRecord & <a href="https://github.com/SF-WDI-LABS/rails-intro">Intro to Rails</a> (MF)
     </td>
   </tr>
   <tr>
@@ -75,13 +75,13 @@
       Final review of Node, SPA vs multi-page apps (ESW)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 2 -->
-      OOP Monster Lab (MF)
+      <a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">OOP Monster Lab</a> (MF)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 2 -->
       Outcomes (Andy)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
-      Rock 'n Rails (MF)
+      <a href="https://github.com/SF-WDI-LABS/rock-n-rails">Rock 'n Rails</a> (MF)
     </td>
   </tr>
   <tr>
