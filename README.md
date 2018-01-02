@@ -27,7 +27,7 @@
       <a href="https://github.com/SF-WDI-LABS/rspec">Intro to RSpec</a> (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
-      Ruby Practice (ESW)
+      <a href="https://github.com/SF-WDI-LABS/idiomatic-ruby">Ruby Practice</a> (ESW)
     </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@
       <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish lab</a> (ESW)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
-      SQL & ActiveRecord (MF)
+      <a href="https://github.com/SF-WDI-LABS/intro-sql">Intro to SQL</a> & <a href="https://github.com/SF-WDI-LABS/active-record">ActiveRecord</a> (MF)
     </td>
   </tr>
   <tr>
