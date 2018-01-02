@@ -2,6 +2,109 @@
 
 > Useful links are [here](important-info.md)!
 
+## Week 5: Ruby
+<table>
+  <tr>
+    <td>Jan 1-5</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 5 - Monday Morning 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 1 -->
+      Finish Project 1
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 1 -->
+      Intro to Ruby
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 1 -->
+      Intro to RSpec
+    </td>
+    <td> <!-- Week 5 - Friday Morning 1 -->
+      Ruby Practice
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 5 - Monday Morning 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 2 -->
+      Finish & Present Project 1
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 2 -->
+      Username Generator lab
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 2 -->
+      Go Fish lab
+    </td>
+    <td> <!-- Week 5 - Friday Morning 2 -->
+      SQL & ActiveRecord
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 1 -->
+      Project 1 Live Refactor
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 1 -->
+      Ruby Methods & OOP
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 1 -->
+      Go Fish lab
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
+      Finish ActiveRecord & Intro to Rails
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 2 -->
+      Final review of Node, SPA vs multi-page apps
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 2 -->
+      OOP Monster Lab
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 2 -->
+      Outcomes (Andy)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
+      Rock 'n Rails
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
+
 ## Week 4: Project 1
 <table>
   <tr>
