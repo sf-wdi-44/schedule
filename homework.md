@@ -1,3 +1,39 @@
+# Week 5: Ruby
+
+## January 2, Tuesday
+1. Complete a Ruby health check to make sure you're ready for tomorrow! Below, I've listed the commands I ran, and their output on my computer. Please run these on your computer and make sure they're similar (don't have to be identical). If anything doesn't work, try to fix it and reach out if you need help, because we'll start using these tools tomorrow!
+2. Read through the feedback & comments on your Project 1 code. We'll go over a couple of common themes tomorrow morning.
+Health check:
+```
+rvm -v
+> rvm 1.29.2 (latest) by Michal Papis, Piotr Kuczynski, Wayne E. Seguin [https://rvm.io/]
+
+ruby -v
+> ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin16]
+
+gem -v
+> 2.6.12
+
+bundler -v
+> Bundler version 1.15.3
+
+irb -v
+> irb 0.9.6(09/06/30)
+
+rails -v
+> Rails 5.1.3
+
+psql --version
+> psql (PostgreSQL) 9.6.3
+
+psql
+> psql (9.6.3)
+> Type "help" for help.
+>
+> michelle=#
+# control-D to exit out of psql
+```
+
 # Week 4: Project 1
 
 ## December 21, Thursday
