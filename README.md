@@ -21,13 +21,13 @@
       Finish Project 1
     </td>
     <td> <!-- Week 5 - Wednesday Morning 1 -->
-      Intro to Ruby
+      Intro to Ruby (ESW)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
-      Intro to RSpec
+      Intro to RSpec (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
-      Ruby Practice
+      Ruby Practice (ESW)
     </td>
   </tr>
   <tr>
@@ -39,13 +39,13 @@
       Finish & Present Project 1
     </td>
     <td> <!-- Week 5 - Wednesday Morning 2 -->
-      Username Generator lab
+      Username Generator lab (ESW)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
-      Go Fish lab
+      Go Fish lab (ESW)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
-      SQL & ActiveRecord
+      SQL & ActiveRecord (MF)
     </td>
   </tr>
   <tr>
@@ -54,16 +54,16 @@
       HOLIDAY
     </td>
     <td> <!-- Week 5 - Tuesday Afternoon 1 -->
-      Project 1 Live Refactor
+      Project 1 Live Refactor (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 1 -->
-      Ruby Methods & OOP
+      Ruby Methods & OOP (MF)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
-      Go Fish lab
+      Go Fish lab (ESW)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
-      Finish ActiveRecord & Intro to Rails
+      Finish ActiveRecord & Intro to Rails (MF)
     </td>
   </tr>
   <tr>
@@ -72,16 +72,16 @@
       HOLIDAY
     </td>
     <td> <!-- Week 5 - Tuesday Afternoon 2 -->
-      Final review of Node, SPA vs multi-page apps
+      Final review of Node, SPA vs multi-page apps (ESW)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 2 -->
-      OOP Monster Lab
+      OOP Monster Lab (MF)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 2 -->
       Outcomes (Andy)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
-      Rock 'n Rails
+      Rock 'n Rails (MF)
     </td>
   </tr>
   <tr>
