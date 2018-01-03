@@ -1,5 +1,9 @@
 # Week 5: Ruby
 
+## January 3, Wednesday
+1. Finish the [Ruby Monster lab](https://github.com/SF-WDI-LABS/ruby-monster-oop) from in class.
+2. Get started on the [Ruby method drills](https://github.com/SF-WDI-LABS/ruby-method-drills). Make sure to fork & clone, because you'll be submitting these later in the week.
+
 ## January 2, Tuesday
 1. Complete a Ruby health check to make sure you're ready for tomorrow! Below are the commands Michelle ran, and their output on her computer. Run these on your computer and make sure they're similar (don't have to be identical). If anything doesn't work, fix it and/or reach out if you need help, because we'll start using these tools tomorrow morning.
 2. Read through the qualitative feedback & technical comments on your Project 1 code (you should have received Slack messages from Esther and/or Michelle with both).
