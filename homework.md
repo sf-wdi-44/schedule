@@ -2,7 +2,7 @@
 
 ## January 3, Wednesday
 1. Finish the [Username Generator lab](https://github.com/SF-WDI-LABS/username-generator) through at least Level 2.
-2. Finish the [Ruby Monster lab](https://github.com/SF-WDI-LABS/ruby-monster-oop).
+2. Finish Page 1 of the [Ruby Monster lab](https://github.com/SF-WDI-LABS/ruby-monster-oop). Then, read through the [section of the Ruby OOP notes about inheritance](https://github.com/SF-WDI-LABS/ruby-oop#inheritance); we'll talk more about inheritance in the morning, but a night to sleep on it will be helpful.
 
 ## January 2, Tuesday
 1. Complete a Ruby health check to make sure you're ready for tomorrow! Below are the commands Michelle ran, and their output on her computer. Run these on your computer and make sure they're similar (don't have to be identical). If anything doesn't work, fix it and/or reach out if you need help, because we'll start using these tools tomorrow morning.

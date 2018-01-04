@@ -24,7 +24,7 @@
       <a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a> (ESW)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/rspec">Intro to RSpec</a> (MF)
+      OOP Review and <a href="https://github.com/SF-WDI-LABS/rspec">Intro to RSpec</a> (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/idiomatic-ruby">Ruby Practice</a> (ESW)
