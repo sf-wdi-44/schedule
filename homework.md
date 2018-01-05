@@ -3,6 +3,9 @@
 1. Finish Rock 'n' Rails app.
 2. For Ruby Review: go over Monster OOP lab and Go Fish lab.
 
+## January 4, Thursday
+1. Finish Go Fish lab.
+
 ## January 3, Wednesday
 1. Finish the [Username Generator lab](https://github.com/SF-WDI-LABS/username-generator) through at least Level 2.
 2. Finish Page 1 of the [Ruby Monster lab](https://github.com/SF-WDI-LABS/ruby-monster-oop). Then, read through the [section of the Ruby OOP notes about inheritance](https://github.com/SF-WDI-LABS/ruby-oop#inheritance); we'll talk more about inheritance in the morning, but a night to sleep on it will be helpful.
