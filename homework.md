@@ -1,4 +1,7 @@
 # Week 5: Ruby
+## January 5, Friday
+1. Finish Rock 'n' Rails app.
+2. For Ruby Review: go over Monster OOP lab and Go Fish lab.
 
 ## January 3, Wednesday
 1. Finish the [Username Generator lab](https://github.com/SF-WDI-LABS/username-generator) through at least Level 2.
