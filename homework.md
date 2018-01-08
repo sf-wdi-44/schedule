@@ -1,3 +1,7 @@
+# Week 6: Rails
+## January 8, Monday
+1. Finish Bog App Project
+
 # Week 5: Ruby
 ## January 5, Friday
 1. Finish Rock 'n' Rails app.
