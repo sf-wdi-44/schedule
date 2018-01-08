@@ -37,7 +37,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views, Partials, & Helpers</a> (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-associations"Associations</a> and Lab (MF)
+      <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a> and Lab (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
