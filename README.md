@@ -19,7 +19,7 @@
       Review Rock 'n' Rails App (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      Bog App Recap; <a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> and <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
+      Recap Bog App; <a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> and <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a>; <a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster App</a> (ESW)
@@ -28,7 +28,7 @@
       Recap Library App; Security Basics (MF)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
-      Project 2: Vagabond
+      <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a>
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@
       Intro to <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a> (ESW)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
-      Project 2: Vagabond
+      <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a>
     </td>
   </tr>
   <tr>
@@ -61,10 +61,10 @@
       Intro to <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App - Part I</a> (MF)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
-      Project 2: Vagabond
+      <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a>
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
-      Project 2: Vagabond
+      <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a>
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
-      Project 2: Vagabond (MF)
+      <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a>
     </td>
   </tr>
   <tr>
