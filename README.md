@@ -58,7 +58,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Rails Validations</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Intro to Library App - Part I (MF)
+      Intro to <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App - Part I</a> (MF)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       Project 2: Vagabond
@@ -76,7 +76,7 @@
       Intro to <a href="https://github.com/SF-WDI-LABS/rails-pet-lab">Pet Lab</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
-      Library App Project - Part I (MF)
+      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App - Part I</a> (MF)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
       Outcomes (Andy)
