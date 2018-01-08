@@ -34,7 +34,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 6 - Monday Morning 2 -->
-      Views, Partials, & Helpers (MF)
+      <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views, Partials, & Helpers</a> (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
       Associations; Associations Lab (MF)
@@ -52,7 +52,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 1 -->
-      Debugging Strategies; Intro to Bog App (ESW)
+      Debugging Strategies; Intro to <a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (ESW)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
       Rails Validations (ESW)
@@ -70,7 +70,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 2 -->
-      Bog App Project (ESW)
+      <a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (ESW)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
       Intro to Pet Lab Project (ESW)
