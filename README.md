@@ -22,7 +22,7 @@
       Bog App Recap; <a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> and <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      Cookies and Sessions; Cookie Monster App (ESW)
+      <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a>; <a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster App</a> (ESW)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
       Recap Library App; Security Basics (MF)
