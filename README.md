@@ -19,7 +19,7 @@
       Review Rock 'n' Rails App (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      Bog App Recap; Migrations and Associations
+      Bog App Recap; <a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> and <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
       Cookies and Sessions; Cookie Monster App (ESW)
@@ -37,13 +37,13 @@
       <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views, Partials, & Helpers</a> (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      Associations; Associations Lab (MF)
+      <a href="https://github.com/SF-WDI-LABS/rails-associations"Associations</a> and Lab (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
-      Auth in Rails (ESW)
+      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Intro to Project 2: Vagabond (ESW)
+      Intro to <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a> (ESW)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
       Project 2: Vagabond
@@ -55,7 +55,7 @@
       Debugging Strategies; Intro to <a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (ESW)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
-      Rails Validations (ESW)
+      <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Rails Validations</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
       Intro to Library App - Part I (MF)
@@ -73,7 +73,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (ESW)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
-      Intro to Pet Lab Project (ESW)
+      Intro to <a href="https://github.com/SF-WDI-LABS/rails-pet-lab">Pet Lab</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
       Library App Project - Part I (MF)
