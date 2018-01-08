@@ -2,6 +2,110 @@
 
 > Useful links are [here](important-info.md)!
 
+
+## Week 6: Rails
+<table>
+  <tr>
+    <td>Jan 8-12</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 6 - Monday Morning 1 -->
+      Review Rock 'n' Rails App (MF)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning 1 -->
+      Bog App Recap; Migrations and Associations
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning 1 -->
+      Cookies and Sessions; Cookie Monster App (ESW)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning 1 -->
+      Recap Library App; Security Basics (MF)
+    </td>
+    <td> <!-- Week 6 - Friday Morning 1 -->
+      Project 2: Vagabond
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 6 - Monday Morning 2 -->
+      Views, Partials, & Helpers (MF)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning 2 -->
+      Associations; Associations Lab (MF)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning 2 -->
+      Auth in Rails (ESW)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning 2 -->
+      Intro to Project 2: Vagabond (ESW)
+    </td>
+    <td> <!-- Week 6 - Friday Morning 2 -->
+      Project 2: Vagabond
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon 1 -->
+      Debugging Strategies; Intro to Bog App (ESW)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon 1 -->
+      Rails Validations (ESW)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon 1 -->
+      Intro to Library App - Part I (MF)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon 1 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
+      Project 2: Vagabond
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon 2 -->
+      Bog App Project (ESW)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon 2 -->
+      Intro to Pet Lab Project (ESW)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon 2 -->
+      Library App Project - Part I (MF)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon 2 -->
+      Outcomes (Andy)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
+      Project 2: Vagabond (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
+
 ## Week 5: Ruby
 <table>
   <tr>
