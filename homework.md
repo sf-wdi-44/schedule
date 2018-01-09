@@ -1,6 +1,7 @@
 # Week 6: Rails
 ## January 8, Monday
-1. Finish Bog App Project
+1. Finish the Bog App at least 3 times total, timing yourself each time. 
+2. Remember to follow the submission directions for the Bog App (Github README, Project Submission Doc, etc.).
 
 # Week 5: Ruby
 ## January 5, Friday
