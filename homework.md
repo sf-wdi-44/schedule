@@ -1,7 +1,7 @@
 # Week 6: Rails
 
 ## January 9, Tuesday
-1. Finish the [Pet lab](https://github.com/SF-WDI-LABS/rails-pet-lab). Prioritize Part 1 and Part 5, but if you have time, doing at least parts 1, 2 and 5 would be best for your learning. (parts 3 and 4 also useful.)
+1. Finish the [Pet lab](https://github.com/SF-WDI-LABS/rails-pet-lab). Prioritize Part 1 and Part 5, but if you have time, doing at least parts 1, 2 and 5 would be best for your learning. (parts 3 and 4 also useful, if you have time/if you've already finished part 1.)
 
 ## January 8, Monday
 1. Finish the Bog App at least 3 times total, timing yourself each time.
