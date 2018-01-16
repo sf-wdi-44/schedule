@@ -76,7 +76,7 @@
       Project 2: Vagabond
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 2 -->
-      Project 2: Vagabond
+      Project 2: Vagabond Presentations
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 2 -->
       Outcomes (Andy)
