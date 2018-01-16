@@ -3,6 +3,108 @@
 > Useful links are [here](important-info.md)!
 
 
+## Week 7: More Rails; Project 2 Week
+<table>
+  <tr>
+    <td>Jan 15-19</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 7 - Monday Morning 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 7 - Tuesday Morning 1 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Wednesday Morning 1 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Thursday Morning 1 -->
+      Coding Etiquette 
+    </td>
+    <td> <!-- Week 7 - Friday Morning 1 -->
+      Lightning Talk Presentations
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 7 - Monday Morning 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 7 - Tuesday Morning 2 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Wednesday Morning 2 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Thursday Morning 2 -->
+      Asset Pipeline and Turbolinks
+    </td>
+    <td> <!-- Week 7 - Friday Morning 2 -->
+      Interviews Practice
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 7 - Monday Afternoon 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 7 - Tuesday Afternoon 1 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Wednesday Afternoon 1 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Thursday Afternoon 1 -->
+      Intro to Lightning Talks; Prepare for Lightning Talks
+    </td>
+    <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
+      Publify Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 7 - Monday Afternoon 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 7 - Tuesday Afternoon 2 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Wednesday Afternoon 2 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 7 - Thursday Afternoon 2 -->
+      Outcomes (Andy)
+    </td>
+    <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
+      Publify Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 ## Week 6: Rails
 <table>
   <tr>
