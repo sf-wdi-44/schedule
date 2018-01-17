@@ -1,5 +1,8 @@
 # Week 6: Rails
 
+## January 11, Thursday through January 16, Tuesday
+VAGABOND
+
 ## January 10, Wednesday
 1. Finish Library App, Part I
 2. Finish the Pet Lab – Prioritize Parts 1 & 5, but attempt working through Part 2 as time permits
