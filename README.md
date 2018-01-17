@@ -25,7 +25,7 @@
       Project 2: Vagabond
     </td>
     <td> <!-- Week 7 - Thursday Morning 1 -->
-      Coding Etiquette 
+      Algorithms: LinkedLists (MF)
     </td>
     <td> <!-- Week 7 - Friday Morning 1 -->
       Lightning Talk Presentations
@@ -43,10 +43,10 @@
       Project 2: Vagabond
     </td>
     <td> <!-- Week 7 - Thursday Morning 2 -->
-      Asset Pipeline and Turbolinks
+      Asset Pipeline and Turbolinks (ESW); intro Lightning Talks (MF)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
-      Interviews Practice
+      Algorithms: Intro to Technical Interviews (MF) and start Publify
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@
       Project 2: Vagabond
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 1 -->
-      Intro to Lightning Talks; Prepare for Lightning Talks
+      Prepare for Lightning Talks
     </td>
     <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
       Publify Project
