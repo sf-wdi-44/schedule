@@ -39,13 +39,13 @@
       JS OOP Theory
     </td>
     <td> <!-- Week 8 - Wednesday Morning 2 -->
-      React ATM Lab (MF)
+      <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM Lab</a> (MF)
     </td>
     <td> <!-- Week 8 - Thursday Morning 2 -->
       Intro to Axios (MF); <a href="<a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF)
     </td>
     <td> <!-- Week 8 - Friday Morning 2 -->
-      React Giphy Lab (MF)
+      <a href="https://github.com/SF-WDI-LABS/react-giphy">React Giphy Lab</a> (MF)
     </td>
   </tr>
   <tr>
