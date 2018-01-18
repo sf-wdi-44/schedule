@@ -3,7 +3,7 @@
 > Useful links are [here](important-info.md)!
 
 ## Week 8: React
-<!-- <table>
+<table>
   <tr>
     <td>Jan 22-26</td>
     <th>Monday</th>
@@ -102,7 +102,7 @@
       <a href="homework.md">See HW page</a>
     </td>
   </tr>
-</table> -->
+</table>
 
 ## Week 7: More Rails; Project 2 Week
 <table>
