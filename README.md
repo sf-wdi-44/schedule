@@ -33,7 +33,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 8 - Monday Morning 2 -->
-      Passport.js Lab
+      Intro to Passport.js Lab (MF)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 2 -->
       JS OOP Theory
@@ -103,7 +103,6 @@
     </td>
   </tr>
 </table>
-
 
 ## Week 7: More Rails; Project 2 Week
 <table>
