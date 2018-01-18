@@ -43,7 +43,7 @@
       Project 2: Vagabond
     </td>
     <td> <!-- Week 7 - Thursday Morning 2 -->
-      Asset Pipeline and Turbolinks (ESW); intro Lightning Talks (MF)
+      <a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> and <a href="https://github.com/SF-WDI-LABS/turbolinks-challenge-2">Turbolinks Challenge</a> (ESW); intro Lightning Talks (MF)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
       Algorithms: Intro to Technical Interviews (MF) and start Publify
