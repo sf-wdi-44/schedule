@@ -46,7 +46,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> and <a href="https://github.com/SF-WDI-LABS/turbolinks-challenge-2">Turbolinks Challenge</a> (ESW); intro <a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Lightning Talks</a> (MF)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
-      Algorithms: Intro to Technical Interviews (MF) and start Publify
+      Algorithms: Intro to Technical Interviews (MF) and start <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify Project</a> (ESW)
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
       Prepare for <a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Lightning Talks</a>
     </td>
     <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
-      Publify Project
+      <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify Project</a>
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
-      Publify Project
+      <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify Project</a>
     </td>
   </tr>
   <tr>
