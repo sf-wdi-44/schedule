@@ -3,7 +3,7 @@
 > Useful links are [here](important-info.md)!
 
 ## Week 8: React
-<table>
+<!-- <table>
   <tr>
     <td>Jan 22-26</td>
     <th>Monday</th>
@@ -27,7 +27,7 @@
       Algorithms – Trees (MF); Review <a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Lifecycle Methods</a>
     </td>
     <td> <!-- Week 8 - Friday Morning 1 -->
-      Algorithms – Trees Interviews(MF); React Review (MF)
+      Algorithms – Trees Interviews (MF); React Review (MF)
     </td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@
       <a href="homework.md">See HW page</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 ## Week 7: More Rails; Project 2 Week
 <table>
