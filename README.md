@@ -2,6 +2,107 @@
 
 > Useful links are [here](important-info.md)!
 
+## Week 8: React
+<table>
+  <tr>
+    <td>Jan 22-26</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 8 - Monday Morning 1 -->
+      Algorithms – Implementing <a href="https://github.com/SF-WDI-LABS/js-linked-list">Linked Lists in JS</a> (ESW); <a href="https://docs.google.com/document/d/1L1xh2achS6pdt2pxdn3d5q42yLR3SBMwNp_WnuUEYxI/edit?usp=sharing">Technical Interview Common Questions</a> (ESW)
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 1 -->
+      Review Passport.js Lab; Algorithms: LinkedList Interview (MF)
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 1 -->
+      Algorithms – Implementing <a href="https://github.com/SF-WDI-LABS/stacks">Stacks and Queues</a> in JS
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 1 -->
+      Algorithms – Trees (MF); Review <a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Lifecycle Methods</a>
+    </td>
+    <td> <!-- Week 8 - Friday Morning 1 -->
+      Algorithms – Trees Interviews(MF); React Review (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 8 - Monday Morning 2 -->
+      Passport.js Lab
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 2 -->
+      JS OOP Theory
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 2 -->
+      React ATM Lab (MF)
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 2 -->
+      Intro to Axios (MF); React Todo App - Axios (MF)
+    </td>
+    <td> <!-- Week 8 - Friday Morning 2 -->
+      React Giphy Lab (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 1 -->
+      Passport.js Lab
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 1 -->
+      Project 2: Vagabond
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 1 -->
+      <a href="https://github.com/SF-WDI-LABS/react-intro">Intro to React (ESW)</a>
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 1 -->
+      React Todo App - Axios (MF)
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
+      Intro to <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit MERN Stack Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 2 -->
+      Passport.js Lab
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 2 -->
+      <a href="https://github.com/SF-WDI-LABS/react-intro-2">Intro to React, cont'd (ESW)</a>
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 2 -->
+      <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Router</a> (ESW)
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 2 -->
+      Outcomes (Andy)
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
+      <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit MERN Stack Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
 
 ## Week 7: More Rails; Project 2 Week
 <table>
