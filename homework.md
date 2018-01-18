@@ -1,5 +1,8 @@
 # Week 6: Rails
 
+## January 18, Thursday
+1. Continue preparing for Lightning Talks
+
 ## January 17, Wednesday
 1. Finish the [reflection survey on Project 2: Codename Vagabond](https://goo.gl/forms/5zcZqAIQPLY4BQM23).
 2. Fix any security holes in your Vagabond app.
