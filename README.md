@@ -165,7 +165,7 @@
       Prepare for <a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Lightning Talks</a>
     </td>
     <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
-      Intro to <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify Project</a> (ESW)
+      Intro to <a href="https://github.com/SF-WDI-42/publify-debugging-lab">Publify Project</a> (ESW)
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify Project</a>
+      <a href="https://github.com/SF-WDI-42/publify-debugging-lab">Publify Project</a>
     </td>
   </tr>
   <tr>
