@@ -1,5 +1,9 @@
 # Week 6: Rails
 
+## January 19, Friday
+1. Make sure to add the link to your lightning talk gist to the Project Submission doc.
+2. Continue working on the Publify lab. Keep sending us your pull requests; we'll respond to them sporadically throughout the weekend.
+
 ## January 18, Thursday
 1. Continue preparing for Lightning Talks
 
