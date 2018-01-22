@@ -33,7 +33,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 8 - Monday Morning 2 -->
-      Intro to ejs/codealong (MF)
+      <a href="https://github.com/sf-wdi-40/intro-express">Intro to EJS & server-side Node apps</a> with <a href="https://github.com/SF-WDI-42/Chirp-Network">Chirp! lab</a> (MF)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 2 -->
       JS OOP Theory
@@ -51,7 +51,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 8 - Monday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/express-microblog-add-auth/tree/ejs">Passport.js Lab</a>
+      Finish <a href="https://github.com/SF-WDI-42/Chirp-Network">Chirp! lab</a> and start <a href="https://github.com/SF-WDI-LABS/express-microblog-add-auth/tree/ejs">Passport.js Lab</a>
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/react-intro">Intro to React (ESW)</a>
