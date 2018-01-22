@@ -33,7 +33,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 8 - Monday Morning 2 -->
-      Intro to Passport.js Lab (MF)
+      Intro to ejs/codealong (MF)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 2 -->
       JS OOP Theory
@@ -51,7 +51,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 8 - Monday Afternoon 1 -->
-      Passport.js Lab
+      <a href="https://github.com/SF-WDI-LABS/express-microblog-add-auth/tree/ejs">Passport.js Lab</a>
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/react-intro">Intro to React (ESW)</a>
@@ -69,7 +69,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 8 - Monday Afternoon 2 -->
-      Passport.js Lab
+      <a href="https://github.com/SF-WDI-LABS/express-microblog-add-auth/tree/ejs">Passport.js Lab</a>
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/react-intro-2">Intro to React, cont'd (ESW)</a>
