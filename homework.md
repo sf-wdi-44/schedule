@@ -1,4 +1,9 @@
-# Week 6: Rails
+# Week 8: React
+## January 22, Monday
+1. Finish remaining Linked List methods, and ensure they work by testing in your Terminal's Node REPL (`node`, `.load singly-linked-list.js`)
+2. Review Common Technical Interview questions (will hold mock interview Wednesday morning)
+
+# Week 7:  More Rails; Project 2 Week
 
 ## January 19, Friday
 1. Make sure to add the link to your lightning talk gist to the Project Submission doc.
@@ -10,6 +15,8 @@
 ## January 17, Wednesday
 1. Finish the [reflection survey on Project 2: Codename Vagabond](https://goo.gl/forms/5zcZqAIQPLY4BQM23).
 2. Fix any security holes in your Vagabond app.
+
+# Week 6: Rails
 
 ## January 11, Thursday through January 16, Tuesday
 VAGABOND
