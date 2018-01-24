@@ -1,4 +1,9 @@
 # Week 8: React
+
+## January 24, Wednesday
+1. Read through two pages of Facebook's quick start guide to React: the pages on [Components and Props](https://reactjs.org/docs/components-and-props.html) and [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html). These give a good overview of the difference between state and props, how to work with state and props effectively, and an intro to the component lifecycle, which we'll recap in the morning.
+2. Finish the Twitter project.
+
 ## January 22, Monday
 1. Finish remaining Linked List methods, and ensure they work by testing in your Terminal's Node REPL (`node`, `.load singly-linked-list.js`)
 2. Review Common Technical Interview questions (will hold mock interview Wednesday morning)
