@@ -60,7 +60,7 @@
       React Review: Where does the data go? (MF)
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 1 -->
-      Intro to Axios (MF); <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF) (MF)
+      Intro to Axios (MF); <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
       Intro to <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit MERN Stack Project</a>
