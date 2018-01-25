@@ -42,7 +42,7 @@
       <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM Lab</a> (MF)
     </td>
     <td> <!-- Week 8 - Thursday Morning 2 -->
-      Intro to Axios (MF); <a href="<a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Router</a>
     </td>
     <td> <!-- Week 8 - Friday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/react-giphy">React Giphy Lab</a> (MF)
@@ -60,7 +60,7 @@
       React Review: Where does the data go? (MF)
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 1 -->
-      <a href="<a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF)
+      Intro to Axios (MF); <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF) (MF)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
       Intro to <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit MERN Stack Project</a>
