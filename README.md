@@ -63,7 +63,7 @@
       Intro to Axios (MF); <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
-      Intro to <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit MERN Stack Project</a>
+      Intro to <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
     </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit MERN Stack Project</a>
+      <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
     </td>
   </tr>
   <tr>
