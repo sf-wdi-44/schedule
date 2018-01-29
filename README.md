@@ -3,7 +3,7 @@
 > Useful links are [here](important-info.md)!
 
 
-## Week 9: React & Redux 
+## Week 9: React & Redux
 <table>
   <tr>
     <td>Jan 29-Feb 2</td>
@@ -16,7 +16,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 9 - Monday Morning 1 -->
-      Review Todo App / Algorithms
+      Review Todo App / Algorithms: Sorting 1 (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
       Intro to React Build Day
@@ -36,7 +36,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 9 - Monday Morning 2 -->
-      React Review
+      React Review (either/both instructors)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 2 -->
       React Build Day
@@ -56,7 +56,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 1 -->
-      Intro to <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
+      Intro to <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a> (ESW)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
       React Build Day
@@ -76,7 +76,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 2 -->
-      <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
+      <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a> (ESW)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
       React Build Day
