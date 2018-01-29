@@ -22,8 +22,7 @@
       Intro to React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
-      Drill
-      (tbd)
+      Intro to Redux
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
       Drill
@@ -43,8 +42,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
-      Topic
-      (tbd)
+      Redux, cont'd
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
       Topic
@@ -64,8 +62,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
-      Topic
-      (tbd)
+      Redux Shopping Cart Lab
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
       Topic
@@ -85,8 +82,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
-      Topic
-      (tbd)
+      Redux Shopping Cart Lab
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
       Topic
