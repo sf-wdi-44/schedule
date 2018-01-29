@@ -155,7 +155,7 @@
       <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Router</a>
     </td>
     <td> <!-- Week 8 - Friday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/react-giphy">React Giphy Lab</a> (MF)
+      React Overview – Twitter App Architecture Breakdown
     </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@
       Intro to Axios (MF); <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
-      Intro to <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
+      Todo App Remix 1 – Single File App
     </td>
   </tr>
   <tr>
@@ -191,7 +191,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
+      Todo App Remix 1 – Single File App
     </td>
   </tr>
   <tr>
