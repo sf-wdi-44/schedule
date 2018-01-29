@@ -2,6 +2,125 @@
 
 > Useful links are [here](important-info.md)!
 
+
+## Week 9: React & Redux 
+<table>
+  <tr>
+    <td>Jan 29-Feb 2</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 9 - Monday Morning 1 -->
+      Review Todo App / Algorithms
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Morning 1 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 9 - Monday Morning 2 -->
+      React Review
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon 1 -->
+      Intro to <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon 2 -->
+      <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 ## Week 8: React
 <table>
   <tr>
