@@ -19,8 +19,7 @@
       Review Todo App / Algorithms
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      Intro to React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
       Drill
@@ -41,8 +40,7 @@
       React Review
     </td>
     <td> <!-- Week 9 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
       Topic
@@ -63,8 +61,7 @@
       Intro to <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
       Topic
@@ -85,8 +82,7 @@
       <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a>
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
       Topic
