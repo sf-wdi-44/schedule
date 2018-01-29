@@ -85,8 +85,7 @@
       Redux Shopping Cart Lab
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
-      Topic
-      (tbd)
+      Outcomes (Andy)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
