@@ -19,7 +19,7 @@
       Review Todo App / Algorithms: Sorting 1 (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
-      Intro to React Build Day
+      Review Reddit MERN Stack Project
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
       Intro to Redux
@@ -36,10 +36,10 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 9 - Monday Morning 2 -->
-      React Review (either/both instructors)
+      React Review (ESW)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 2 -->
-      React Build Day
+      Intro to React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
       Redux, cont'd
