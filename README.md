@@ -22,7 +22,7 @@
       Review Reddit MERN Stack Project
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
-      Intro to Redux
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/01_introduction.md">Intro to Redux</a> and <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/02_getting_started_redux.md">Getting Started in Redux</a>
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
       Drill
