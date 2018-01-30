@@ -1,4 +1,11 @@
 # Week 8: React
+
+## January 29, Monday
+1. Work on the [MERN Stack App](https://github.com/mnfmnfm/reddit-clone-mern/blob/master/README.md). Specifically:
+  1. Fill in the `TextPosts` controller.
+  2. Fill in the `Comments` controller.
+  3. Fill in the `seed.js` file with a few `TextPost`s & `Comment`s.
+  4. BONUS (recommended): Use POSTMAN to test that your RESTful CRUD routes are all working.
 ## January 26, Friday
 1. Take the revised, everything-in-`TodosContainer.js` version of the [Todo app](https://github.com/SF-WDI-LABS/react_todo_walkthrough) and consider which pieces of the `TodosContainer.js` file feel unwieldy. At a minimum, you likely want to break out the logic for displaying, editing and deleting a single Todo into its own component, `Todo.js`. Break that logic out into a separate file.
 2. One common real-world practice is to use, not just React components you write yourself, but other components written by your teammates or by other people. To that end, try to incorporate the generic React components found in [Michelle's package](https://github.com/mnfmnfm/generic-react-components) into your app. Importantly, you should NOT use your own form, and should instead use the `CreateOneItemForm` component given to you by Michelle's package. The package GitHub repo has installation instructions, documentation, and a link to a [demo app](https://github.com/mnfmnfm/demo-generic-react-components/).
