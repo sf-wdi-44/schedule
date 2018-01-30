@@ -19,7 +19,7 @@
       Review Todo App / Algorithms: Sorting 1 (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
-      Review Reddit MERN Stack Project
+      Review Reddit MERN Stack Project - Back-end
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/01_introduction.md">Intro to Redux</a>; <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/02_getting_started_redux.md">Getting Started in Redux</a>
@@ -39,7 +39,7 @@
       React Review (ESW)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 2 -->
-      Intro to React Build Day
+      Reddit MERN Stack Project – Front-End
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/03_reducers_actions.md">Redux Reducers & Actions</a>; <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/04_adding_redux.md">Adding Redux</a>
@@ -59,7 +59,7 @@
       Intro to <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a> (ESW)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
-      React Build Day
+      Review Reddit MERN Stack Project – Front-End
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/05_review_of_redux.md">Redux Review</a>; Intro to <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
@@ -79,7 +79,7 @@
       <a href="https://github.com/sf-wdi-42/reddit-clone-mern">Reddit MERN Stack Project</a> (ESW)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
-      React Build Day
+      Intro to React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
