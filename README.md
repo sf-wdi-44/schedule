@@ -78,7 +78,7 @@
       Intro to React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
-      React Build Day
+      React Build Day Presentations
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
       Outcomes (Andy)
