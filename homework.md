@@ -1,5 +1,9 @@
 # Week 8: React
 
+## January 31, Wednesday
+1. Get ready for React Build Day Science Fair tomorrow morning
+2. Start thinking of a pitch for Project 3 (full-stack – Node or Ruby on Rails back-end, React or vanilla JS front-end)
+
 ## January 30, Tuesday
 1. Add functionality for deleting a TextPost in the Reddit MERN Stack Project
 2. Add functionality for adding a comment to a TextPost on the SinglePostPage in the Reddit MERN Stack Project
