@@ -1,4 +1,4 @@
-# Week 8: React
+# Week 9: More React and Project 3
 
 ## January 31, Wednesday
 1. Get ready for React Build Day Science Fair tomorrow morning
@@ -15,6 +15,8 @@
   2. Fill in the `Comments` controller.
   3. Fill in the `seed.js` file with a few `TextPost`s & `Comment`s.
   4. BONUS (recommended): Use POSTMAN to test that your RESTful CRUD routes are all working.
+
+# Week 8: React
 
 ## January 26, Friday
 1. Take the revised, everything-in-`TodosContainer.js` version of the [Todo app](https://github.com/SF-WDI-LABS/react_todo_walkthrough) and consider which pieces of the `TodosContainer.js` file feel unwieldy. At a minimum, you likely want to break out the logic for displaying, editing and deleting a single Todo into its own component, `Todo.js`. Break that logic out into a separate file.
