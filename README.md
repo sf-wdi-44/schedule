@@ -43,7 +43,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/03_reducers_actions.md">Redux Reducers & Actions</a>; <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/04_adding_redux.md">Adding Redux</a>
+      React Build Day Presentations; <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/03_reducers_actions.md">Redux Reducers & Actions</a>; <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/04_adding_redux.md">Adding Redux</a>
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
       Review
@@ -62,7 +62,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
-      React Build Day Presentations; <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/05_review_of_redux.md">Redux Review</a>; Intro to <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/05_review_of_redux.md">Redux Review</a>; Intro to <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
