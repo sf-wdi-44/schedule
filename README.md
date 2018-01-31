@@ -3,7 +3,7 @@
 > Useful links are [here](important-info.md)!
 
 
-## Week 9: More React
+## Week 9: More React and Project 3
 <table>
   <tr>
     <td>Jan 29-Feb 2</td>
