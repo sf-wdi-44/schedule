@@ -28,7 +28,7 @@
       React Build Day Science Fair; Algorithms – Mergesort (Iteratively & Recursively)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
-      Review <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
+      Project 3
     </td>
   </tr>
   <tr>
@@ -46,8 +46,7 @@
       Project 3 Pitches
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
-      Review
-      (team)
+      Project 3
     </td>
   </tr>
   <tr>
@@ -65,8 +64,7 @@
       Project 3 Proposals and Approvals
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Project 3
     </td>
   </tr>
   <tr>
