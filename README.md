@@ -43,7 +43,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
-      Project 3 Proposals and Approvals
+      Project 3 Pitches
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
       Review
