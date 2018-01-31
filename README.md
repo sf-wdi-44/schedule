@@ -25,7 +25,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
-      React Build Day Presentations; Intro to Project 3
+      React Build Day Presentations; Algorithms – Mergesort (Iteratively & Recursively)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
       Review <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
