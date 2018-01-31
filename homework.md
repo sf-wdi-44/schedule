@@ -1,5 +1,10 @@
 # Week 8: React
 
+## January 30, Tuesday
+1. Add functionality for deleting a TextPost in the Reddit MERN Stack Project
+2. Add functionality for adding a comment to a TextPost on the SinglePostPage in the Reddit MERN Stack Project
+3. Think of a simple game you may want to build for React Build Day tomorrow – keep it simple!
+
 ## January 29, Monday
 1. Work on the "CREATING THE BACK-END" section of the [MERN Stack App](https://github.com/mnfmnfm/reddit-clone-mern/blob/master/README.md). Specifically:
   1. Fill in the `TextPosts` controller.
