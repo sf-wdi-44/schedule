@@ -82,8 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Project 3
     </td>
   </tr>
   <tr>
