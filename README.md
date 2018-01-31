@@ -62,7 +62,7 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/05_review_of_redux.md">Redux Review</a>; Intro to <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
+      React Build Day Presentations; <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/05-redux/05_review_of_redux.md">Redux Review</a>; Intro to <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
@@ -78,7 +78,7 @@
       Intro to React Build Day
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
-      React Build Day Presentations
+      React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
       Outcomes (Andy)
