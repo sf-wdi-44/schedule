@@ -1,7 +1,7 @@
 # Week 9: More React and Project 3
 
 ## February 1, Thursday
-1. Review `mergeSort` function – understand what each line of code is doing. BONUS: re-implement `merge` and `mergeSort`.
+1. Review `mergeSort` algorithm – be able to explain in human terms what it is doing, and understand what each line of the solution code is doing. BONUS: re-implement `merge` and `mergeSort`.
 2. Work on Project 3 with your teammates.
 
 ## January 31, Wednesday
