@@ -28,7 +28,7 @@
       React Build Day Science Fair; Algorithms – Mergesort (Iteratively & Recursively)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
-      Project 3
+      <a href="https://git.generalassemb.ly/SF-WDI-42/project3">Project 3</a>
     </td>
   </tr>
   <tr>
@@ -43,10 +43,10 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
-      Project 3 Pitches
+      <a href="https://git.generalassemb.ly/SF-WDI-42/project3">Project 3</a> Pitches
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
-      Project 3
+      <a href="https://git.generalassemb.ly/SF-WDI-42/project3">Project 3</a>
     </td>
   </tr>
   <tr>
@@ -61,10 +61,10 @@
       React Build Day
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
-      Project 3 Proposals and Approvals
+      <a href="https://git.generalassemb.ly/SF-WDI-42/project3">Project 3</a> Proposals and Approvals
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
-      Project 3
+      <a href="https://git.generalassemb.ly/SF-WDI-42/project3">Project 3</a>
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
-      Project 3
+      <a href="https://git.generalassemb.ly/SF-WDI-42/project3">Project 3</a>
     </td>
   </tr>
   <tr>
