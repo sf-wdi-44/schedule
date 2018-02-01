@@ -1,5 +1,9 @@
 # Week 9: More React and Project 3
 
+## February 1, Thursday
+1. Review `mergeSort` function – understand what each line of code is doing. BONUS: re-implement `merge` and `mergeSort`.
+2. Work on Project 3 with your teammates.
+
 ## January 31, Wednesday
 1. Get ready for React Build Day Science Fair tomorrow morning
 2. Start thinking of a pitch for Project 3 (full-stack – Node or Ruby on Rails back-end, React or vanilla JS front-end)
