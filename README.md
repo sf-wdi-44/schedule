@@ -43,7 +43,7 @@
       Project 3
     </td>
     <td> <!-- Week 10 - Thursday Morning 2 -->
-      Project 3 – Feature Freeze
+      Project 3 – Feature Freeze & Presentation Preparation
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
       Review
