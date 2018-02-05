@@ -62,7 +62,7 @@
       Project 3
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 1 -->
-      Project 3 – Presentations
+      Project 3 – Presentation Preparation & Presentations
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
