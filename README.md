@@ -81,7 +81,7 @@
       Project 3
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 2 -->
-      Project 3 – Presentations
+      Outcomes (Andy)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
