@@ -28,7 +28,7 @@
       Project 3
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
-      Project 3 Live Refactor
+      Algorithms
     </td>
   </tr>
   <tr>
@@ -46,8 +46,7 @@
       Project 3 – Feature Freeze & Presentation Preparation
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
-      Review
-      (team)
+      Project 3 Live Refactor
     </td>
   </tr>
   <tr>
@@ -65,8 +64,7 @@
       Project 3 – Presentation Preparation & Presentations
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Project 3 Code Review & Rails API Lab
     </td>
   </tr>
   <tr>
@@ -84,8 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Review Rails API Lab
     </td>
   </tr>
   <tr>
