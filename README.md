@@ -3,6 +3,111 @@
 > Useful links are [here](important-info.md)!
 
 
+## Week 10: Project 3
+<table>
+  <tr>
+    <td>Feb 5-9</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 10 - Monday Morning 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Thursday Morning 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Friday Morning 1 -->
+      Project 3 Live Refactor
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 10 - Monday Morning 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Thursday Morning 2 -->
+      Project 3 – Feature Freeze
+    </td>
+    <td> <!-- Week 10 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon 1 -->
+      Project 3 – Presentations
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon 2 -->
+      Project 3 – Presentations
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 ## Week 9: More React and Project 3
 <table>
   <tr>
