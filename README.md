@@ -28,7 +28,7 @@
       Project 3
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
-      Algorithms
+      Algorithms - Binary Search Trees (ESW)
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@
       Project 3 – Feature Freeze & Presentation Preparation
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
-      Project 3 Live Refactor
+      Project 3 Live Refactor & Code Review
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
       Project 3 – Presentation Preparation & Presentations
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
-      Project 3 Code Review & Rails API Lab
+      Intro Immers-athon; Rails API Lab
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
-      Review Rails API Lab
+      Rails API Lab
     </td>
   </tr>
   <tr>
