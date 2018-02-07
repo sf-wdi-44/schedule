@@ -64,7 +64,7 @@
       Project 3 – Presentation Preparation & Presentations
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
-      Intro Immers-athon; Rails API Lab
+      Intro Immers-athon; Refactor Project 3 based on code review
     </td>
   </tr>
   <tr>
