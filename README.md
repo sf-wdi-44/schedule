@@ -28,7 +28,7 @@
       Project 3
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
-      Algorithms - Binary Search Trees (ESW)
+      <a href="https://github.com/SF-WDI-LABS/binary-search-trees">Algorithms - Binary Search Trees</a> (ESW)
     </td>
   </tr>
   <tr>
