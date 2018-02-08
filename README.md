@@ -28,8 +28,7 @@
       Algorithms; Real-World Engineering
     </td>
     <td> <!-- Week 11 - Friday Morning 1 -->
-      Review
-      (team)
+      Algorithms
     </td>
   </tr>
   <tr>
@@ -47,8 +46,7 @@
       Scraping with Beautiful Soup (MF)
     </td>
     <td> <!-- Week 11 - Friday Morning 2 -->
-      Review
-      (team)
+      Final Project
     </td>
   </tr>
   <tr>
@@ -66,8 +64,7 @@
       Scraping with Beautiful Soup (MF)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Final Project
     </td>
   </tr>
   <tr>
@@ -85,8 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Final Project
     </td>
   </tr>
   <tr>
