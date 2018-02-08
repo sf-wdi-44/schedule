@@ -3,6 +3,112 @@
 > Useful links are [here](important-info.md)!
 
 
+## Week 11: Python / Django
+<table>
+  <tr>
+    <td>Feb 12-16</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 11 - Monday Morning 1 -->
+      <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 1 -->
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 1 -->
+      Immers-a-thon
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 1 -->
+      Algorithms; Real-World Engineering
+    </td>
+    <td> <!-- Week 11 - Friday Morning 1 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 11 - Monday Morning 2 -->
+      <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 2 -->
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 2 -->
+      Immers-a-thon
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 2 -->
+      Scraping with Beautiful Soup (MF)
+    </td>
+    <td> <!-- Week 11 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 1 -->
+      <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon 1 -->
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon 1 -->
+      Immers-a-thon
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon 1 -->
+      Scraping with Beautiful Soup (MF)
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 2 -->
+      <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon 2 -->
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon 2 -->
+      Immers-a-thon
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon 2 -->
+      Outcomes (Andy)
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 ## Week 10: Project 3
 <table>
   <tr>
