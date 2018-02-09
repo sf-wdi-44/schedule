@@ -2,7 +2,8 @@
 
 ## February 9, Friday
 1. Implement feedback from your Project 3 Code Review session (collaborate with teammates)
-2. Get ready for Python! Follow the "Installation" steps [here](https://github.com/SF-WDI-42/python) and type `python` into a terminal to make sure it opens a python REPL for you (similar to running `node` to get into the node REPL).
+2. Finish Rails API Lab in preparation for the Immers-a-thon
+3. Get ready for Python! Follow the "Installation" steps [here](https://github.com/SF-WDI-42/python) and type `python` into a terminal to make sure it opens a python REPL for you (similar to running `node` to get into the node REPL).
 
 # Week 9: More React and Project 3
 
