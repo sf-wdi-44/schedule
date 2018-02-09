@@ -184,7 +184,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
-      Rails API Lab
+      <a href="https://github.com/SF-WDI-LABS/con-pletionist/blob/master/instructions.md">Rails API Lab</a>
     </td>
   </tr>
   <tr>
