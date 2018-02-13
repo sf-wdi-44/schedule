@@ -8,7 +8,6 @@
 - `ends_with_a.py` – write a function `ends_with_a` that returns whether or not a string ends with the letter A, case insensitive
   (e.g. `ends_with_a('banana') # => True`, `ends_with_a('bananAAAAAA') # => True`, `ends_with_a('bananas') # => False`)
 - `same_first_and_last.py` - write a function `same_first_and_last` that returns whether or not a string starts and ends with the same letter (e.g. `same_first_and_last('neon') # => True`, `same_first_and_last('fluff') # => True`, `same_first_and_last('telephone') # => False`)
-- `check_password.py` - write a function `check_password` that returns if a string is at least 8 characters, contains at least 1 uppercase and 1 lowercase letter, and has at least one of `!#$%&*`
 - `get_scrabble_score.py` - write a function `get_scrabble_score` that returns the score for a word (e.g. `get_scrabble_score('hello') # => 8`)
 
 You can look up the score for each letter in a word using the dict below:
@@ -42,7 +41,8 @@ letter_scoring_dict = {
 	'Z': 10
 }
 ```
-- BONUS: `ransom_note.py` – write a function `ransom_note` that takes in a string and capitalizes each letter with 50% probability
+- EASY BONUS: `check_password.py` - write a function `check_password` that returns if a string is at least 8 characters, contains at least 1 uppercase and 1 lowercase letter, and has at least one of `!#$%&*`
+- MEDIUM BONUS: `ransom_note.py` – write a function `ransom_note` that takes in a string and capitalizes each letter with 50% probability
 - SUPER BONUS: [Task 1: Diamond Pattern](http://cs111.wellesley.edu/archive/cs111_fall17/public_html/psets/ps03#task1)
 # Week 10: Project 3
 
