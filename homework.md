@@ -43,7 +43,7 @@ letter_scoring_dict = {
 }
 ```
 - BONUS: `ransom_note.py` – write a function `ransom_note` that takes in a string and capitalizes each letter with 50% probability
-
+- SUPER BONUS: [Task 1: Diamond Pattern](http://cs111.wellesley.edu/archive/cs111_fall17/public_html/psets/ps03#task1)
 # Week 10: Project 3
 
 ## February 9, Friday
