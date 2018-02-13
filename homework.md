@@ -1,3 +1,46 @@
+# Week 11: Python and Django
+
+## February 12, Monday
+1. Create a directory called `python_exercises` and create a file for each of the following problems
+- `ends_with_a.py` – write a function `ends_with_a` that returns whether or not a string ends with the letter A, case insensitive
+  (e.g. `ends_with_a('banana') # => True`, `ends_with_a('bananAAAAAA') # => True`, `ends_with_a('bananas') # => False`)
+- `same_first_and_last.py` - write a function `same_first_and_last` that returns whether or not a string starts and ends with the same letter (e.g. `same_first_and_last('neon') # => True`, `same_first_and_last('fluff') # => True`, `same_first_and_last('telephone') # => False`)
+- `check_password.py` - write a function `check_password` that returns if a string is at least 8 characters, contains at least 1 uppercase and 1 lowercase letter, and has at least one of `!#$%&*`
+- `get_scrabble_score.py` - write a function `get_scrabble_score` that returns the score for a word (e.g. `get_scrabble_score('hello') # => 8`)
+
+You can look up the score for each letter in a word using the dict below:
+```python
+letter_scoring_dict = {
+	'A': 1,
+	'B': 3,
+	'C': 3,
+	'D': 2,
+	'E': 1,
+	'F': 4,
+	'G': 2,
+	'H': 4,
+	'I': 1,
+	'J': 8,
+	'K': 5,
+	'L': 1,
+	'M': 3,
+	'N': 1,
+	'O': 1,
+	'P': 3,
+	'Q': 10,
+	'R': 1,
+	'S': 1,
+	'T': 1,
+	'U': 1,
+	'V': 4,
+	'W': 4,
+	'X': 8,
+	'Y': 4,
+	'Z': 10
+}
+```
+- BONUS: `ransomNote` takes in a string and capitalizes each letter with 50% probability
+
 # Week 10: Project 3
 
 ## February 9, Friday
