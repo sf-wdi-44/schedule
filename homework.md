@@ -41,9 +41,9 @@ letter_scoring_dict = {
 	'Z': 10
 }
 ```
-- EASY BONUS: `check_password.py` - write a function `check_password` that returns if a string is at least 8 characters, contains at least 1 uppercase and 1 lowercase letter, and has at least one of `!#$%&*`
+- BASIC BONUS: `check_password.py` - write a function `check_password` that returns if a string is at least 8 characters, contains at least 1 uppercase and 1 lowercase letter, and has at least one of `!#$%&*`
 - MEDIUM BONUS: `ransom_note.py` – write a function `ransom_note` that takes in a string and capitalizes each letter with 50% probability
-- SUPER BONUS: [Task 1: Diamond Pattern](http://cs111.wellesley.edu/archive/cs111_fall17/public_html/psets/ps03#task1)
+- SUPER CHALLENGING BONUS: [Task 1: Diamond Pattern](http://cs111.wellesley.edu/archive/cs111_fall17/public_html/psets/ps03#task1)
 # Week 10: Project 3
 
 ## February 9, Friday
