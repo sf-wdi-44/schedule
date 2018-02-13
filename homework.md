@@ -1,7 +1,10 @@
 # Week 11: Python and Django
 
 ## February 12, Monday
-1. Create a directory called `python_exercises` and create a file for each of the following problems
+1. Finish writing the functions `letter_count` and `add_stars` if you did not finish them in class
+- `letter_count('hello', 'l') # => 2)`
+- `add_stars('hello') # => 'h*e*l*l*o'`
+2. Create a directory called `python_exercises` and create a file for each of the following problems
 - `ends_with_a.py` – write a function `ends_with_a` that returns whether or not a string ends with the letter A, case insensitive
   (e.g. `ends_with_a('banana') # => True`, `ends_with_a('bananAAAAAA') # => True`, `ends_with_a('bananas') # => False`)
 - `same_first_and_last.py` - write a function `same_first_and_last` that returns whether or not a string starts and ends with the same letter (e.g. `same_first_and_last('neon') # => True`, `same_first_and_last('fluff') # => True`, `same_first_and_last('telephone') # => False`)
