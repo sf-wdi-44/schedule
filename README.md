@@ -25,10 +25,10 @@
       Immers-a-thon
     </td>
     <td> <!-- Week 11 - Thursday Morning 1 -->
-      Algorithms; Real-World Engineering
+      Algorithms – Hash Tables (ESW); Real-World Engineering
     </td>
     <td> <!-- Week 11 - Friday Morning 1 -->
-      Algorithms
+      Algorithms – Graphs (MF)
     </td>
   </tr>
   <tr>
