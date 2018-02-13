@@ -44,7 +44,7 @@ letter_scoring_dict = {
 - BASIC BONUS: `check_password.py` - write a function `check_password` that returns if a string is at least 8 characters, contains at least 1 uppercase and 1 lowercase letter, and has at least one of `!#$%&*`
 - MEDIUM BONUS: `ransom_note.py` – write a function `ransom_note` that takes in a string and capitalizes each letter with 50% probability
 - SUPER CHALLENGING BONUS: [Task 1: Diamond Pattern](http://cs111.wellesley.edu/archive/cs111_fall17/public_html/psets/ps03#task1)
-3. In preparation for the Immers-a-thon, it is highly recommended you having a working version of a Node backend or Rails backend, so that you can reference it as you build your team's back-end from scratch. The [Reddit Clone](https://github.com/sf-wdi-40/reddit-clone-mern) is a good example of a Node back-end. The [Rails API lab](https://github.com/SF-WDI-LABS/con-pletionist) for conferences is a good example of a Rails back-end.
+3. In preparation for the Immers-a-thon, it is highly recommended you having a working version of a Node or Rails back-end, so that you can reference it as you build your team's back-end from scratch. The [Reddit Clone](https://github.com/sf-wdi-40/reddit-clone-mern) is a good example of a Node back-end. The [Rails API lab](https://github.com/SF-WDI-LABS/con-pletionist) for conferences is a good example of a Rails back-end.
 
 # Week 10: Project 3
 
