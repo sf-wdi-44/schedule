@@ -39,7 +39,7 @@ letter_scoring_dict = {
 	'Z': 10
 }
 ```
-- BONUS: `ransomNote` takes in a string and capitalizes each letter with 50% probability
+- BONUS: `ransom_note.py` – write a function `ransom_note` that takes in a string and capitalizes each letter with 50% probability
 
 # Week 10: Project 3
 
