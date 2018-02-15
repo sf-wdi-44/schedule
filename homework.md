@@ -4,6 +4,7 @@
 1. Add code to your `hashTable.js` file to make your functions `getItem()` and `removeItem()` more robust:
 	- `getItem()` – make sure the `targetBucket` exists and has a length before iterating through it
 	- `removeItem()` – make sure the `targetBucket` exists and has a length before filtering it
+	- After you've fixed `getItem()` and `removeItem()`, run the example code at the bottom of [this file](https://github.com/esthersweon/hashTables/blob/master/hashTable.js) in your Node REPL – they should all execute successfully or return a nice error message
 2. Review solution [here](https://github.com/esthersweon/hashTables/blob/master/solution/hashTable.js)
 
 ## February 12, Monday
