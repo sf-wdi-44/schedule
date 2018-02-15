@@ -5,7 +5,8 @@
 	- `getItem()` – make sure the `targetBucket` exists and has a length before iterating through it
 	- `removeItem()` – make sure the `targetBucket` exists and has a length before filtering it
 	- After you've fixed `getItem()` and `removeItem()`, run the example code at the bottom of [this file](https://github.com/esthersweon/hashTables/blob/master/hashTable.js) in your Node REPL – they should all execute successfully or return a nice error message you wrote
-2. Review solution [here](https://github.com/esthersweon/hashTables/blob/master/solution/hashTable.js)
+	- Review solution [here](https://github.com/esthersweon/hashTables/blob/master/solution/hashTable.js)
+2. Think about Final Project ideas!!!
 
 ## February 12, Monday
 1. Finish writing the functions `letter_count` and `add_stars` if you did not finish them in class
