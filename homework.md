@@ -1,5 +1,11 @@
 # Week 11: Python and Django
 
+## February 15, Thursday
+1. Add code to your `hashTable.js` file to make your functions `getItem()` and `removeItem()` more robust:
+	- `getItem()` – make sure the `targetBucket` exists and has a length before iterating through it
+	- `removeItem()` – make sure the `targetBucket` exists and has a length before filtering it
+2. Review solution [here](https://github.com/esthersweon/hashTables/blob/master/solution/hashTable.js)
+
 ## February 12, Monday
 1. Finish writing the functions `letter_count` and `add_stars` if you did not finish them in class
 - `letter_count('hello', 'l') # => 2)`
