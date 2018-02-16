@@ -46,7 +46,7 @@
       Scraping with Beautiful Soup (MF)
     </td>
     <td> <!-- Week 11 - Friday Morning 2 -->
-      Final Project
+      <a href="https://github.com/SF-WDI-42/final-project">Final Project</a>
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
       Scraping with Beautiful Soup (MF)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
-      Final Project
+      <a href="https://github.com/SF-WDI-42/final-project">Final Project</a>
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
-      Final Project
+      <a href="https://github.com/SF-WDI-42/final-project">Final Project</a>
     </td>
   </tr>
   <tr>
