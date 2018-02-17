@@ -1,10 +1,12 @@
 # Week 11: Python and Django
 
 ## February 16, Friday
-1. If you have not gotten approved yet
-- Please send your materials to Michelle / Esther over the weekend via Slack to get feedback before coding
-- If you start writing code before you are approved, that is fine, but be prepared to change your models possibly
-- A better option may be working on your front-end over the long weekend – get all views up and running, even if they are not yet hooked up to anything
+1. If you have not gotten approved yet: 
+	- Please send your materials to Michelle / Esther over the weekend via Slack to get feedback before coding
+	- If you start writing code before you are approved, that is fine, but be prepared to change your models possibly
+	- A better option may be working on your front-end over the long weekend – get all views up and running, even if they are not yet hooked up to anything
+2. If you have been approved: 
+	- Happy coding!
 
 
 ## February 15, Thursday
