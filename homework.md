@@ -1,5 +1,11 @@
 # Week 11: Python and Django
 
+## February 23, Friday
+**Weekend Reminders**
+As you head into the weekend, look back at your sprints & milestones. Make sure you're making progress on one feature at a time, building towards your MVP, and try not to get bogged down in any one bug for too long. Esther and I will both be intermittently online, so please send us your questions as you continue working this weekend! Remember to continue pushing to Heroku regularly, and debugging things that are broken before you work on new features.
+
+By about **Monday at noon**, you should be thinking about a **feature freeze** for your app. This means no working on new features, and instead focusing on polishing the features you have, making sure the style is polished, getting a friend/classmate/WDI 43 developer/someone to walk through using your app and seeing if they get lost or confused anywhere. **This means you should aim to have your app at or beyond MVP by Monday at noon, so you can feature freeze on time.**
+
 ## February 16, Friday
 1. If you have not gotten approved yet: 
 	- Please send your materials to Michelle / Esther over the weekend via Slack to get feedback before coding
