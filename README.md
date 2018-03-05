@@ -1,17 +1,15 @@
 <h1>Welcome to WDI 44!</h1>
 
 ## General Info
-Class runs from 9AM - 5PM daily – being more than 10 minutes late will count as a tardy. 
+Class runs from 9AM - 5PM daily – being 10+ minutes late will count as a tardy. <a href="homework.md">Homework</a> is assigned daily; we will occasionally ask you to submit your homework via the class <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Document</a> for review.
 
-<a href="homework.md">Homework</a> is assigned daily, and we will occasionally ask you to submit your homework to our class <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Document</a> for review.
-
-Schedule one-on-ones with your instructors throughout the cohort as needed, either via Slack or in person. We highly recommend that you check in regularly with your instructors, even when you are not looking for any specific technical help – keeping us updated on your progress will better equip us to support you throughout this program. 
+Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend that you check in regularly with your instructors throughout the 12 weeks; keeping us updated on your progress will better equip us to support you throughout the program. 
 
 ## Pro Tips (i.e. What Our Most Successful Students in the Past Have Done)
-- Ask questions CONSTANTLY (during lectures, labs, etc.)
-- Work on homework with TAs & other students after class hours to reinforce learning
-- Don't stay stuck – apart from in-person collaboration, you can look at solutions or Slack fellow students, TAs, & instructors for help
-- Raise a red flag as soon as you feel yourself falling behind
+- Ask questions CONSTANTLY (during lectures and labs, via Slack after class hours, etc.)
+- Work on homework with TAs & other students after class to reinforce learning
+- Don't stay stuck – Slack fellow students, TAs, & instructors for help or look at provided solutions as needed
+- Raise a red flag as soon as you feel yourself falling behind – we can better support you if you are 1 day behind, vs. 1 week
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
