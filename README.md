@@ -1,9 +1,17 @@
 <h1>Welcome to WDI 44!</h1>
 
 ## General Info
-Class runs from 9AM - 5PM daily – being more than 10 minutes late will count as a tardy; more than 3 tardies or unexcused absences will be cause for possible removal from the course.
+Class runs from 9AM - 5PM daily – being more than 10 minutes late will count as a tardy. 
 
-Homework is assigned daily – please refer to the homework link below.
+<a href="homework.md">Homework</a> is assigned daily, and we will occasionally ask you to submit your homework to our class <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Document</a> for review.
+
+Schedule one-on-ones with your instructors throughout the cohort as needed, either via Slack or in person. We highly recommend that you check in regularly with your instructors, even when you are not looking for any specific technical help – keeping us updated on your progress will better equip us to support you throughout this program. 
+
+## Pro Tips (i.e. What Our Most Successful Students in the Past Have Done)
+- Ask questions CONSTANTLY (during lectures, labs, etc.)
+- Work on homework with TAs & other students after class hours to reinforce learning
+- Don't stay stuck – apart from in-person collaboration, you can look at solutions or Slack fellow students, TAs, & instructors for help
+- Raise a red flag as soon as you feel yourself falling behind
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
@@ -132,7 +140,7 @@ Homework is assigned daily – please refer to the homework link below.
       Class Schedule & Policies (1:1 Signups); <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part I)</a> (FAQ)
+      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (FAQ)
