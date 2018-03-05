@@ -5,6 +5,9 @@
 - <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
 - <a href="homework.md">Daily Homework</a>
 
+## Other Links
+- <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md">Deploying Node + Mongoose App on Heroku</a>
+
 ## Week 2: JavaScript on the Web
 <table>
   <tr>
