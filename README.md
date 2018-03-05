@@ -46,7 +46,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> and <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a>(FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
@@ -64,7 +64,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> & <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
