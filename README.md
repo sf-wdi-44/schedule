@@ -1,9 +1,10 @@
 <h1>Welcome to WDI 44!</h1>
 
 ## Important Links
+- <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
 - <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
 - <a href="homework.md">Daily Homework</a>
-      
+
 ## Week 2: JavaScript on the Web
 <table>
   <tr>
