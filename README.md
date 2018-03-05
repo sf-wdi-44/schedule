@@ -37,7 +37,8 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      Science fair and review of Racing Game (FAQ)
+      Science fair and review of Racing Game (FAQ);
+      HTML Forms (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
