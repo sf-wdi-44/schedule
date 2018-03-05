@@ -132,7 +132,7 @@ Homework is assigned daily – please refer to the homework link below.
       Class Schedule & Policies (1:1 Signups); <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (FAQ)
+      <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part I)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (FAQ)
