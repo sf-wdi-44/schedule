@@ -37,20 +37,19 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      Science fair and review of Racing Game (FAQ);
-      HTML Forms (FAQ)
+      Science fair and review of Racing Game (FAQ); <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
-      Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
+      <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
     </td>
   </tr>
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> and <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a>(FAQ)
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (FAQ) 
     </td>
-    <td> <!-- Week 2 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
+    <td> <!-- Week 2 - Tuesday Morning 2 --> 
+      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
@@ -59,7 +58,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
-      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
+      Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -77,7 +76,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://git.generalassemb.ly/SF-WDI-42/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a> (FAQ)
+      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
     </td>
   </tr>
   <tr>
