@@ -5,11 +5,7 @@ Class runs from 9AM - 5PM daily – being 10+ minutes late will count as a tard
 
 Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend that you check in regularly with your instructors throughout the 12 weeks; keeping us updated on your progress will better equip us to support you throughout the program. 
 
-## Pro Tips (i.e. What Our Most Successful Students in the Past Have Done)
-- Ask questions CONSTANTLY (during lectures and labs, via Slack after class hours, etc.)
-- Work on homework with TAs & other students after class to reinforce learning
-- Don't stay stuck – Slack fellow students, TAs, & instructors for help or look at provided solutions as needed
-- Raise a red flag as soon as you feel yourself falling behind – we can better support you if you are 1 day behind, vs. 1 week
+Read some more WDI pro-tips <a href="extra-info.md">here</a>.
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
