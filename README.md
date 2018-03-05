@@ -91,7 +91,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      Intro homework (FAQ) and Outcomes (Andy)
+      Intro homework (FAQ) and Outcomes (Vanessa)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
       Node REPL; Node Modules (FAQ)
@@ -176,7 +176,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/SF-WDI-LABS/problem-set-js-basics">JS Basics Problem Set</a> (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
-      Outcomes (Andy)
+      Outcomes (Vanessa)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
       <a href="https://github.com/sf-wdi-44/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (FAQ)
