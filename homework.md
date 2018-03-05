@@ -16,6 +16,11 @@
   - returns the word 'fizz' if the input is divisible by 3
   - returns the word 'buzz' if the input is divisible by 5
   - returns the word 'fizzbuzz' if the input is divisible by both 3 and 5
+- BONUS: Write a function called `calculator` that takes in 2 numbers and a mathematical operation as a string (i.e. 'add', 'subtract', 'multiply', or 'divide') and
+  - returns the sum of the 2 numbers if the operation is 'add'
+  - returns the difference if the operation is 'subtract'
+  - returns the product if the operation is 'multiply'
+  - returns the quotient if the operation is 'divide'
 
 ## Tues, March 13
 - Finish Personal Portfolio (Part I) project
