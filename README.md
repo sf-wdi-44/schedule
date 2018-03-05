@@ -5,7 +5,7 @@ Class runs from 9AM - 5PM daily – being 10+ minutes late will count as a tard
 
 Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend that you check in regularly with your instructors throughout the 12 weeks; keeping us updated on your progress will better equip us to support you throughout the program. 
 
-Read some more WDI pro-tips <a href="extra-info.md">here</a>.
+Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
