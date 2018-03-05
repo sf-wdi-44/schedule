@@ -6,7 +6,7 @@
 ## Week 11: Python / Django
 <table>
   <tr>
-    <td>Feb 12-16</td>
+    <td>May 21 - 25</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -19,7 +19,7 @@
       <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
     </td>
     <td> <!-- Week 11 - Tuesday Morning 1 -->
-      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (FAQ)
     </td>
     <td> <!-- Week 11 - Wednesday Morning 1 -->
       Immers-a-thon
@@ -28,7 +28,7 @@
       Algorithms – Hash Tables (ESW); Real-World Engineering
     </td>
     <td> <!-- Week 11 - Friday Morning 1 -->
-      Algorithms – Graphs (MF)
+      Algorithms – Graphs (FAQ)
     </td>
   </tr>
   <tr>
@@ -37,13 +37,13 @@
       <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
     </td>
     <td> <!-- Week 11 - Tuesday Morning 2 -->
-      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (FAQ)
     </td>
     <td> <!-- Week 11 - Wednesday Morning 2 -->
       Immers-a-thon
     </td>
     <td> <!-- Week 11 - Thursday Morning 2 -->
-      Scraping with Beautiful Soup (MF)
+      Scraping with Beautiful Soup (FAQ)
     </td>
     <td> <!-- Week 11 - Friday Morning 2 -->
       <a href="https://github.com/SF-WDI-42/final-project">Final Project</a>
@@ -55,13 +55,13 @@
       <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
     </td>
     <td> <!-- Week 11 - Tuesday Afternoon 1 -->
-      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (FAQ)
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon 1 -->
       Immers-a-thon
     </td>
     <td> <!-- Week 11 - Thursday Afternoon 1 -->
-      Scraping with Beautiful Soup (MF)
+      Scraping with Beautiful Soup (FAQ)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-42/final-project">Final Project</a>
@@ -73,7 +73,7 @@
       <a href="https://github.com/SF-WDI-42/python">Python</a> (ESW)
     </td>
     <td> <!-- Week 11 - Tuesday Afternoon 2 -->
-      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (MF)
+      <a href="https://git.generalassemb.ly/ga-wdi-lessons/django-workshop">Django</a> (FAQ)
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon 2 -->
       Immers-a-thon
@@ -108,7 +108,7 @@
 ## Week 10: Project 3
 <table>
   <tr>
-    <td>Feb 5-9</td>
+    <td>May 14 - 18</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -210,7 +210,7 @@
 ## Week 9: More React and Project 3
 <table>
   <tr>
-    <td>Jan 29-Feb 2</td>
+    <td>May 7 - 11</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -220,7 +220,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 9 - Monday Morning 1 -->
-      Review Todo App / Algorithms: Sorting 1 (MF)
+      Review Todo App / Algorithms: Sorting 1 (FAQ)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
       Review Reddit MERN Stack Project - Back-end
@@ -312,7 +312,7 @@
 ## Week 8: React
 <table>
   <tr>
-    <td>Jan 22-26</td>
+    <td>April 30 - May 4</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -325,28 +325,28 @@
       Algorithms – Implementing <a href="https://github.com/SF-WDI-LABS/js-linked-list">Linked Lists in JS</a> (ESW); <a href="https://docs.google.com/document/d/1L1xh2achS6pdt2pxdn3d5q42yLR3SBMwNp_WnuUEYxI/edit?usp=sharing">Technical Interview Common Questions</a> (ESW)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 1 -->
-      Review Passport.js Lab; Algorithms: LinkedList Interview (MF)
+      Review Passport.js Lab; Algorithms: LinkedList Interview (FAQ)
     </td>
     <td> <!-- Week 8 - Wednesday Morning 1 -->
       Algorithms – Implementing <a href="https://github.com/SF-WDI-LABS/stacks">Stacks and Queues</a> in JS
     </td>
     <td> <!-- Week 8 - Thursday Morning 1 -->
-      Algorithms – Trees (MF); Review <a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Lifecycle Methods</a>
+      Algorithms – Trees (FAQ); Review <a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Lifecycle Methods</a>
     </td>
     <td> <!-- Week 8 - Friday Morning 1 -->
-      Algorithms – Trees Interviews (MF); React Review (MF)
+      Algorithms – Trees Interviews (FAQ); React Review (FAQ)
     </td>
   </tr>
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 8 - Monday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/intro-express">Intro to EJS & server-side Node apps</a> with <a href="https://github.com/SF-WDI-42/Chirp-Network">Chirp! lab</a> (MF)
+      <a href="https://github.com/sf-wdi-40/intro-express">Intro to EJS & server-side Node apps</a> with <a href="https://github.com/SF-WDI-42/Chirp-Network">Chirp! lab</a> (FAQ)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 2 -->
       JS OOP Theory
     </td>
     <td> <!-- Week 8 - Wednesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM Lab</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM Lab</a> (FAQ)
     </td>
     <td> <!-- Week 8 - Thursday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Router</a>
@@ -364,10 +364,10 @@
       <a href="https://github.com/SF-WDI-LABS/react-intro">Intro to React (ESW)</a>
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon 1 -->
-      React Review: Where does the data go? (MF)
+      React Review: Where does the data go? (FAQ)
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 1 -->
-      Intro to Axios (MF); <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (MF)
+      Intro to Axios (FAQ); <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App - Axios</a> (FAQ)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
       Todo App Remix 1 – Single File App
@@ -414,7 +414,7 @@
 ## Week 7: More Rails; Project 2 Week
 <table>
   <tr>
-    <td>Jan 15-19</td>
+    <td>April 23 - 27</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -433,7 +433,7 @@
       Project 2: Vagabond
     </td>
     <td> <!-- Week 7 - Thursday Morning 1 -->
-      Algorithms: LinkedLists (MF)
+      Algorithms: LinkedLists (FAQ)
     </td>
     <td> <!-- Week 7 - Friday Morning 1 -->
       Lightning Talk Presentations
@@ -451,10 +451,10 @@
       Project 2: Vagabond
     </td>
     <td> <!-- Week 7 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> and <a href="https://github.com/SF-WDI-LABS/turbolinks-challenge-2">Turbolinks Challenge</a> (ESW); intro <a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Lightning Talks</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> and <a href="https://github.com/SF-WDI-LABS/turbolinks-challenge-2">Turbolinks Challenge</a> (ESW); intro <a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Lightning Talks</a> (FAQ)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
-      Algorithms: Intro to Technical Interviews (MF)
+      Algorithms: Intro to Technical Interviews (FAQ)
     </td>
   </tr>
   <tr>
@@ -516,7 +516,7 @@
 ## Week 6: Rails
 <table>
   <tr>
-    <td>Jan 8-12</td>
+    <td>April 16 - 20</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -526,7 +526,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 6 - Monday Morning 1 -->
-      Review Rock 'n' Rails App (MF)
+      Review Rock 'n' Rails App (FAQ)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
       Recap Bog App; <a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> and <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
@@ -544,16 +544,16 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 6 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views, Partials, & Helpers</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views, Partials, & Helpers</a> (FAQ)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a> and start <a href="https://github.com/SF-WDI-LABS/rails-pet-lab">Pet Lab</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a> and start <a href="https://github.com/SF-WDI-LABS/rails-pet-lab">Pet Lab</a> (FAQ)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Recap Library App Part II (ESW); Security Basics (MF)
+      Recap Library App Part II (ESW); Security Basics (FAQ)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a>
@@ -568,7 +568,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Rails Validations</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Intro to <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App - Part I</a> (MF)
+      Intro to <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App - Part I</a> (FAQ)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       Intro to <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Vagabond</a>
@@ -586,7 +586,7 @@
       Intro to <a href="https://github.com/SF-WDI-LABS/rails-pet-lab">Pet Lab</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App - Part I</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App - Part I</a> (FAQ)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
       Outcomes (Andy)
@@ -619,7 +619,7 @@
 ## Week 5: Ruby
 <table>
   <tr>
-    <td>Jan 1-5</td>
+    <td>April 9 - 13</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -638,7 +638,7 @@
       <a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a> (ESW)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
-      OOP Review and <a href="https://github.com/SF-WDI-LABS/rspec">Intro to RSpec</a> (MF)
+      OOP Review and <a href="https://github.com/SF-WDI-LABS/rspec">Intro to RSpec</a> (FAQ)
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/idiomatic-ruby">Ruby Practice</a> (ESW)
@@ -659,7 +659,7 @@
       <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish lab</a> (ESW)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/intro-sql">Intro to SQL</a> & <a href="https://github.com/SF-WDI-LABS/active-record">ActiveRecord</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/intro-sql">Intro to SQL</a> & <a href="https://github.com/SF-WDI-LABS/active-record">ActiveRecord</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -668,16 +668,16 @@
       HOLIDAY
     </td>
     <td> <!-- Week 5 - Tuesday Afternoon 1 -->
-      Project 1 Live Refactor (MF)
+      Project 1 Live Refactor (FAQ)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> and <a href="https://github.com/SF-WDI-LABS/ruby-oop">OOP</a>(MF)
+      <a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> and <a href="https://github.com/SF-WDI-LABS/ruby-oop">OOP</a>(FAQ)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish lab</a> (ESW)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
-      Finish ActiveRecord & <a href="https://github.com/SF-WDI-LABS/rails-intro">Intro to Rails</a> (MF)
+      Finish ActiveRecord & <a href="https://github.com/SF-WDI-LABS/rails-intro">Intro to Rails</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -689,13 +689,13 @@
       Final review of Node, SPA vs multi-page apps (ESW)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">OOP Monster Lab</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">OOP Monster Lab</a> (FAQ)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 2 -->
       Outcomes (Andy)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/rock-n-rails">Rock 'n Rails</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/rock-n-rails">Rock 'n Rails</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -722,7 +722,7 @@
 ## Week 4: Project 1
 <table>
   <tr>
-    <td>Dec 18-22</td>
+    <td>April 2 - 6</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -750,7 +750,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 4 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-42/project-01">Intro to Project 1</a> (MF)
+      <a href="https://github.com/SF-WDI-42/project-01">Intro to Project 1</a> (FAQ)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
       <a href="https://github.com/SF-WDI-42/project-01">Project 1 Approvals</a>
@@ -824,7 +824,7 @@
 ## Week 3: Full-Stack JavaScript
 <table>
   <tr>
-    <td>Dec 11-15</td>
+    <td>March 26 - 30</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -834,16 +834,16 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 3 - Monday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/express">Intro to Express</a> with <a href="https://github.com/SF-WDI-LABS/express-intro">Lab</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/express">Intro to Express</a> with <a href="https://github.com/SF-WDI-LABS/express-intro">Lab</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
       Express MVC (ESW)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships part 2</a> (MF) and <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a>
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships part 2</a> (FAQ) and <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a>
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
@@ -852,13 +852,13 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 3 - Monday Morning 2 -->
-      REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a> (MF)
+      REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
       <a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Intro to MongoDB</a> (ESW)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/github-collaboration">GitHub for Collaboration</a> and Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
@@ -870,10 +870,10 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
-      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (MF)
+      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (MF)
+      <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
       Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
@@ -891,7 +891,7 @@
       <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a>
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
@@ -900,7 +900,7 @@
       Outcomes
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -926,7 +926,7 @@
 ## Week 2: JavaScript on the Web
 <table>
   <tr>
-    <td>Dec 4-8</td>
+    <td>March 19 - 23</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -936,16 +936,16 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 2 - Monday Morning 1 -->
-      Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (MF)
+      Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
-      Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (MF)
+      Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (MF)
+      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      Science fair and review of Racing Game (MF)
+      Science fair and review of Racing Game (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
@@ -954,10 +954,10 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
@@ -966,7 +966,7 @@
       <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
-      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (MF)
+      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -984,7 +984,7 @@
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://git.generalassemb.ly/SF-WDI-42/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a> (MF)
+      <a href="https://git.generalassemb.ly/SF-WDI-42/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -999,10 +999,10 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      Intro homework (MF) and Outcomes (Andy)
+      Intro homework (FAQ) and Outcomes (Andy)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
-      Node REPL; Node Modules (MF)
+      Node REPL; Node Modules (FAQ)
     </td>
   </tr>
   <tr>
@@ -1028,7 +1028,7 @@
 ## Week 1: Welcome to WDI!
 <table>
   <tr>
-    <td>November 27 - December 1</td>
+    <td>March 12 - 17</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -1038,43 +1038,44 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 1 - Monday Morning 1 -->
-      Orientation; Teacher Intros; Human Bingo
+      Orientation; Teacher Intros; Human Bingo; Student Intros and Icebreakers
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Portfolio (Part I)</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/sf-wdi-44/personal-portfolio">Personal Portfolio (Part I)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part II)</a> (MF)
+      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part II)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Thursday Morning 1 -->
       <a href="https://github.com/sf-wdi-40/jquery-part-1">JQuery (Part I)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part III)</a> (MF)
+    JS Whiteboarding
     </td>
   </tr>
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 1 - Monday Morning 2 -->
-      Student Intros & Icebreakers; <a href="https://docs.google.com/a/generalassemb.ly/document/d/1720LKs3k40cE1HM5rJD2pvAhmr_861eLukfJguKjVP8/edit?usp=sharing">Scenarios</a> (ESW); <a href="https://docs.google.com/a/generalassemb.ly/document/d/1kt_e_XWvdnZ01eJIBIx99MXE9v--llD1dV6gkWt0aII/edit?usp=sharing">Norms Brainstorming</a> (ESW); Classroom Culture (MF)
+     <a href="https://docs.google.com/a/generalassemb.ly/document/d/1720LKs3k40cE1HM5rJD2pvAhmr_861eLukfJguKjVP8/edit?usp=sharing">Scenarios</a>;  <a href="https://docs.google.com/a/generalassemb.ly/document/d/1kt_e_XWvdnZ01eJIBIx99MXE9v--llD1dV6gkWt0aII/edit?usp=sharing">Norms Brainstorming</a>; Classroom Culture; 
+      Class Schedule & Policies (1:1 Signups); <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (MF)
+      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
-      Review HTML, CSS, JavaScript (MF)
+      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part III)</a> (FAQ)
     </td>
   </tr>
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 1 -->
-      Class Schedule & Policies (1:1 Signups); Google Drive Folder; <a href="https://github.com/sf-wdi-40/html-css-review">HTML & CSS Review</a> (ESW)
+      <a href="https://github.com/sf-wdi-40/html-css-review">HTML & CSS Review</a> (ESW)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/js-data-types">JS Types & Variables</a> (ESW)
@@ -1083,7 +1084,7 @@
       <a href="https://github.com/sf-wdi-40/pseudocode">Pseudocode</a>, Debugging, & <a href="https://docs.google.com/presentation/d/1oBOGiupBqTXT_Xd1HJuMYunU295vkDBfnmVUL6vLjDg/edit?usp=sharing">Intro to Functions</a> (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> & Grid (ESW)
@@ -1092,7 +1093,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/site-recreation">Site Recreation Training</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/site-recreation">Site Recreation Training</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/js-control-flow">JS Control Flow</a> (ESW)
@@ -1104,7 +1105,7 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (MF)
+      <a href="https://github.com/sf-wdi-44/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (FAQ)
     </td>
   </tr>
   <tr>
