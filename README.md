@@ -1,7 +1,9 @@
 <h1>Welcome to WDI 44!</h1>
 
-> [IMPORTANT LINKS HERE](important-info.md)
-
+## Important Links
+- <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
+- <a href="homework.md">Daily Homework</a>
+      
 ## Week 2: JavaScript on the Web
 <table>
   <tr>
