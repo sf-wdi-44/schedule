@@ -1,5 +1,10 @@
 <h1>Welcome to WDI 44!</h1>
 
+## General Info
+Class runs from 9AM - 5PM daily – being more than 10 minutes late will count as a tardy; more than 3 tardies or unexcused absences will be cause for possible removal from the course.
+
+Homework is assigned daily – please refer to the homework link below.
+
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
 - <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
@@ -90,24 +95,6 @@
       Node REPL; Node Modules (FAQ)
     </td>
   </tr>
-  <tr>
-    <td><strong>HW</strong></td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-  </tr>
 </table>
 
 ## Week 1: Welcome to WDI!
@@ -191,24 +178,6 @@
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
       <a href="https://github.com/sf-wdi-44/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (FAQ)
-    </td>
-  </tr>
-  <tr>
-    <td><strong>HW</strong></td>
-    <td> <!-- Week 1 - Monday Homework -->
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td> <!-- Week 1 - Tuesday Homework -->
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td> <!-- Week 1 - Wednesday Homework -->
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td> <!-- Week 1 - Thursday Homework -->
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td> <!-- Week 1 - Friday -->
-      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
