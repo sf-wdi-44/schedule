@@ -94,7 +94,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       Outcomes (Vanessa)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
-      Node REPL; Node Modules (FAQ)
+      Node REPL; Node Modules (ESW)
     </td>
   </tr>
 </table>
