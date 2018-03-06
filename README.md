@@ -1,11 +1,8 @@
 <h1>Welcome to WDI 44!</h1>
 
-## General Info
 Class runs from 9AM - 5PM daily – being 10+ minutes late will count as a tardy. <a href="homework.md">Homework</a> is assigned daily; we will occasionally ask you to submit your homework via the class <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Document</a> for review.
 
-Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend that you check in regularly with your instructors throughout the 12 weeks; keeping us updated on your progress will better equip us to support you throughout the program. 
-
-Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
+Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend that you check in regularly with your instructors throughout the 12 weeks; keeping us updated on your progress will better equip us to support you throughout the program. Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
@@ -31,13 +28,13 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
-      Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (FAQ)
+      Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      Science fair and review of Racing Game (FAQ); <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
+      Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
@@ -82,7 +79,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> and <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> and <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe Project</a> (ESW)
