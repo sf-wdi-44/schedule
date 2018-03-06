@@ -40,7 +40,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       Science fair and review of Racing Game (FAQ); <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
+      <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      Intro homework (FAQ) and Outcomes (Vanessa)
+      Outcomes (Vanessa)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
       Node REPL; Node Modules (FAQ)
