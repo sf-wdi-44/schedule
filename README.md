@@ -82,7 +82,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> and <a href="https://github.com/SF-WDI-LABS/js-iterators-laundry-lab">Laundry Lab</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe Project</a> (ESW)
