@@ -35,7 +35,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
+      JS Review & Whiteboarding; Node REPL; Node Modules (ESW)
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
-      Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
+      <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
+      Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Outcomes (Vanessa)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
-      Node REPL; Node Modules (ESW)
+      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
     </td>
   </tr>
 </table>
