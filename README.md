@@ -49,7 +49,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 --> 
-      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
+      Team Whiteboarding Challenge
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
