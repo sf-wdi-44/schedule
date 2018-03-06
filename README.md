@@ -58,13 +58,13 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
-      Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
+      Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
     </td>
   </tr>
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
@@ -76,7 +76,7 @@ Read some more WDI pro-tips <a href="pro-tips.md">here</a>.
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
+      Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
     </td>
   </tr>
   <tr>
