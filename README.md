@@ -41,7 +41,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> and <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 --> 
       Team Whiteboarding Challenge
@@ -59,7 +59,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
@@ -77,7 +77,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> and <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe Project</a> (ESW)
