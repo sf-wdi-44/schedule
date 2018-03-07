@@ -4,7 +4,7 @@ Class runs 9AM - 5PM daily – being 5+ minutes late will count as a tardy. You
 
 <a href="homework.md">Homework</a> is assigned daily; we will occasionally ask you to submit via the <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Document</a> for review.
 
-Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend you check in regularly with your instructors throughout the 12 weeks; keeping us updated on your progress will better equip us to support you throughout the program. Read past students' WDI pro-tips <a href="pro-tips.md">here</a>.
+Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend you check in regularly with your instructors; keeping us updated on your progress will better equip us to support you throughout the 12 weeks. Read past students' pro-tips <a href="pro-tips.md">here</a>.
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
