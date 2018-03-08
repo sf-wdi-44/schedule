@@ -1,6 +1,6 @@
 <h1>Welcome to WDI 44!</h1>
 
-Class runs 9AM - 5PM daily – being 5+ minutes late will count as a tardy. You are allotted 3 unexcused absences (3 tardies will count as an absence) before you will be asked to leave the program.
+Class runs 9:15AM - 5PM daily – being 5+ minutes late will count as a tardy. You are allotted 3 unexcused absences (3 tardies will count as an absence) before you will be asked to leave the program.
 
 <a href="homework.md">Homework</a> is assigned daily; we will occasionally ask you to submit via the <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Document</a> for review.
 
