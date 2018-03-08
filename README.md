@@ -34,7 +34,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
+      Outcomes (Vanessa)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       JS Review & Whiteboarding; Node REPL; Node Modules (ESW)
@@ -52,7 +52,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
+      Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
@@ -64,7 +64,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
@@ -88,7 +88,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      Outcomes (Vanessa)
+      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
       Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
@@ -137,7 +137,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
+      Outcomes (Vanessa)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part III)</a> (FAQ)
@@ -155,7 +155,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/sf-wdi-40/pseudocode">Pseudocode</a>, Debugging, & <a href="https://docs.google.com/presentation/d/1oBOGiupBqTXT_Xd1HJuMYunU295vkDBfnmVUL6vLjDg/edit?usp=sharing">Intro to Functions</a> (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (FAQ)
+      <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> & Grid (ESW)
@@ -173,7 +173,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/problem-set-js-basics">JS Basics Problem Set</a> (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
-      Outcomes (Vanessa)
+      <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
       <a href="https://github.com/sf-wdi-44/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (FAQ)
