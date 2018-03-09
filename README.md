@@ -2,11 +2,13 @@
 
 Class runs 9:15AM - 5PM daily. You are allotted 3 unexcused absences (3 tardies = 1 absence) before you will be asked to leave the program.
 
-<a href="homework.md">Homework</a> is assigned daily; we will occasionally ask you to submit via the <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Doc</a> for review.
+<a href="homework.md">Homework</a> is assigned daily; your instructors will occasionally ask you to submit via the <a href="https://docs.google.com/spreadsheets/d/1Phbzp7kwryUhv3C7con25LoUYU8yEoHw7K5-dLSvOnU/edit?usp=sharing">Project Submission Doc</a> for review.
 
-All curriculum-related communication will happen in Slack in the `wdi_sf_44_strictlybiz` channel (`wdi_sf_44_funnybiz` for everything else). This Slack channel will prompt you to fill out a <a href="https://goo.gl/forms/UPjmSkD0RBhNKgW32">Weekly Pulse Check</a> every Thursday morning – make sure your notifications are on! Use this Pulse Check to decide for yourself if you need to schedule a one-on-one with an instructor.
+All class communication will happen in Slack, in the `wdi_sf_44_strictlybiz` channel. Please turn your notifications on! We encourage you to Slack your instructors and each other regularly for help. 
 
-Schedule one-on-ones with your instructors as needed, either via Slack or in person. We highly recommend you check in regularly with your instructors; keeping us updated on your progress will better equip us to support you throughout the 12 weeks. Read past students' pro-tips <a href="pro-tips.md">here</a>.
+Every Thursday morning, `wdi_sf_44_strictlybiz` will prompt you to fill out a <a href="https://goo.gl/forms/UPjmSkD0RBhNKgW32">Weekly Pulse Check</a> – use this Pulse Check to decide if you need to schedule a one-on-one with an instructor.
+
+Schedule one-on-ones with your instructors as needed, either via Slack or in person. Keeping your instructors updated on your progress will better equip them to support you throughout the 12 weeks. Read past students' pro-tips <a href="pro-tips.md">here</a>.
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
