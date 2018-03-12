@@ -66,7 +66,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-42/html-css-review">HTML & CSS Review</a> (ESW)
+      <a href="https://github.com/sf-wdi-44/html-css-review">HTML & CSS Review</a> (ESW)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/js-data-types">JS Types & Variables</a> (ESW)
