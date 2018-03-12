@@ -29,7 +29,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 1 - Monday Morning 1 -->
-      Orientation; Teacher Intros; Human Bingo; Student Intros and Icebreakers
+      Orientation; Teacher Intros; Student Intros and Icebreakers
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/sf-wdi-44/personal-portfolio">Personal Portfolio (Part I)</a> (FAQ)
