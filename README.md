@@ -32,6 +32,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Orientation; Teacher Intros; <a href="https://drive.google.com/open?id=1N64hBZPXB3dfKO7C1gmCaB80KP3R5ziyoAthBebQaVk">Class Values & Culture; Student Intros and Icebreakers
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
+      Memory Game (Pre-work);
       <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/sf-wdi-44/personal-portfolio">Personal Portfolio (Part I)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
@@ -51,7 +52,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Class Schedule & Policies (1:1 Signups)
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (FAQ)
+      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (FAQ)
