@@ -48,7 +48,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 1 - Monday Morning 2 -->
      <a href="https://docs.google.com/a/generalassemb.ly/document/d/1720LKs3k40cE1HM5rJD2pvAhmr_861eLukfJguKjVP8/edit?usp=sharing">Scenarios</a>;  <a href="https://docs.google.com/a/generalassemb.ly/document/d/1kt_e_XWvdnZ01eJIBIx99MXE9v--llD1dV6gkWt0aII/edit?usp=sharing">Norms Brainstorming</a>; </a>
-      Class Schedule & Policies (1:1 Signups); <a href="https://drive.google.com/open?id=1bhe0fjylaZnq19-NYTrNO3unhxZJQnXV">Google Drive Folder</a>
+      Class Schedule & Policies (1:1 Signups)
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/kyrel">Kyrel (Part I)</a> (FAQ)
