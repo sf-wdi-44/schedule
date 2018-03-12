@@ -32,5 +32,6 @@
 
 ## Mon, March 12
 - Complete Site Recreation lab
+- Review [Memory Game Solution](https://github.com/falqas/memory-game/tree/master/memory_game) and come with specific questions for tomorrow morning's review
 - *Schedule your 2 One-on-Ones in Project Submission Doc*
 - *Fill out Github usernames in Project Submission Doc*
