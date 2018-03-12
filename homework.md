@@ -27,6 +27,7 @@
 - Finish Kyrel (Part I)
 - Finish JS Types and Variables training lab
 - Finish JS Control Flow training lab
+- *Submit the Github URL for your JS Control Flow lab in Project Submission Doc*
 - *Submit the Github URL for your Personal Portfolio project in Project Submission Doc*
 
 ## Mon, March 12
