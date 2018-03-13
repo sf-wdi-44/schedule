@@ -26,7 +26,7 @@
 - Finish Training: JavaScript Data Types
 - Finish JS Control Flow training lab – *Submit the Github URL for your JS Control Flow lab in Project Submission Doc*
 - Finish Personal Portfolio (Part I) project – *Submit the Github URL for your Personal Portfolio project in Project Submission Doc* (you will be having a feedback session with an instructor on your progress this Friday)
-- *BONUS:* Write some code that has 2 variables: `let dividend = 21;` and `let divider = 4;`. It should divide the `dividend` by the `divider` and give a sentence that looks like this: `21 divided by 4 equals 5 with a remainder of 1`. (Think of the modulus in JavaScript!)
+- *BONUS:* Write some code that has 2 variables: `let dividend = 21;` and `let divider = 4;`. Your code should divide the `dividend` by the `divider` and `console.log` a sentence that looks like this: `21 divided by 4 equals 5, with a remainder of 1!`. (Think of the modulus in JavaScript!)
 
 ## Mon, March 12
 - Complete Site Recreation lab
