@@ -12,10 +12,10 @@
 - Finish JS Objects training lab
 - Finish JS Basics Problem Set
 - *BONUS:* 
-  - Write a function called `fizzbuzz` that takes in a single number as an argument and 
-    - returns the word 'fizz' if the input is divisible by 3
-    - returns the word 'buzz' if the input is divisible by 5
-    - returns the word 'fizzbuzz' if the input is divisible by both 3 and 5
+  - Write a function called `fizzbuzz` that takes in an array of numbers as an argument and 
+    - returns the word 'fizz' for each number in the array that is divisible by 3
+    - returns the word 'buzz' for each number in the array that is divisible by 5
+    - returns the word 'fizzbuzz' for each number in the array that is divisible by both 3 and 5
   - Write a function called `calculator` that takes in 2 numbers and a mathematical operation as a string (i.e. 'add', 'subtract', 'multiply', or 'divide') and
     - returns the sum of the 2 numbers if the operation is 'add'
     - returns the difference if the operation is 'subtract'
@@ -26,6 +26,7 @@
 - Finish Training: JavaScript Data Types
 - Finish JS Control Flow training lab – *Submit the Github URL for your JS Control Flow lab in Project Submission Doc*
 - Finish Personal Portfolio (Part I) project – *Submit the Github URL for your Personal Portfolio project in Project Submission Doc* (you will be having a feedback session with an instructor on your progress this Friday)
+- *BONUS:* Write some code that has 2 variables: `let dividend = 21;` and `let divider = 4;`. It should divide the `dividend` by the `divider` and give a sentence that looks like this: `21 divided by 4 equals 5 with a remainder of 1`. (Think of the modulus in JavaScript!)
 
 ## Mon, March 12
 - Complete Site Recreation lab
