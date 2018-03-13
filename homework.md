@@ -9,7 +9,6 @@
 - Finish Fantastic Mr. Fox
 
 ## Wed, March 14
-- Finish Kyrel (Part II)
 - Finish JS Objects training lab
 - Finish JS Basics Problem Set
 - *BONUS:* 
@@ -24,8 +23,7 @@
     - returns the quotient if the operation is 'divide'
 
 ## Tues, March 13
-- Finish Kyrel (Part I)
-- Finish JS Types and Variables training lab
+- Finish Kyrel (Part II)
 - Finish JS Control Flow training lab – *Submit the Github URL for your JS Control Flow lab in Project Submission Doc*
 - Finish Personal Portfolio (Part I) project – *Submit the Github URL for your Personal Portfolio project in Project Submission Doc* (you will be having a feedback session with an instructor on your progress this Friday)
 
