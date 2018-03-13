@@ -36,7 +36,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a>; <a href="https://github.com/sf-wdi-44/personal-portfolio">Personal Portfolio (Part I)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
-      <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part II)</a> (FAQ)
+      Review JS Control Flow & <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part II)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Thursday Morning 1 -->
       <a href="https://github.com/sf-wdi-40/jquery-part-1">JQuery (Part I)</a> (ESW)
