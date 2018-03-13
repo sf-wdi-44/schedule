@@ -23,7 +23,6 @@
     - returns the quotient if the operation is 'divide'
 
 ## Tues, March 13
-- Finish Kyrel (Part II)
 - Finish Training: JavaScript Data Types
 - Finish JS Control Flow training lab – *Submit the Github URL for your JS Control Flow lab in Project Submission Doc*
 - Finish Personal Portfolio (Part I) project – *Submit the Github URL for your Personal Portfolio project in Project Submission Doc* (you will be having a feedback session with an instructor on your progress this Friday)
