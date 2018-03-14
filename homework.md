@@ -9,6 +9,10 @@
 - Finish Fantastic Mr. Fox
 
 ## Wed, March 14
+- Continue working on Personal Portfolio
+  - Spend most of your time styling
+  - Make sure you are hitting all [requirements](https://github.com/sf-wdi-44/personal-portfolio#deliverables)
+  - Some helpful examples of portfolio pages [here](https://jkwr.github.io/), [here](https://conmart.github.io/), and [here](https://supertrunkes.github.io/)
 - Finish JS Objects training lab
 - Finish JS Basics Problem Set
 - *BONUS:* 
