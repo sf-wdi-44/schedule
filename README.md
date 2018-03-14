@@ -55,7 +55,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part I)</a> (ESW)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a> (FAQ)
+      <a href="https://github.com/sf-wdi-44/js-objects">JS Objects</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
       Outcomes (Vanessa)
