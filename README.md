@@ -73,7 +73,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/js-data-types">JS Types & Variables</a> (ESW)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-40/pseudocode">Pseudocode</a>, Debugging, & <a href="https://docs.google.com/presentation/d/1oBOGiupBqTXT_Xd1HJuMYunU295vkDBfnmVUL6vLjDg/edit?usp=sharing">Intro to Functions</a> (ESW)
+      <a href="https://guides.github.com/features/mastering-markdown/">Markdown</a>, <a href="https://docs.google.com/presentation/d/1oBOGiupBqTXT_Xd1HJuMYunU295vkDBfnmVUL6vLjDg/edit?usp=sharing">Intro to Functions</a>, <a href="https://github.com/sf-wdi-40/pseudocode">Pseudocode</a>, & Debugging (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
       <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
