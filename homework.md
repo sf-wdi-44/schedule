@@ -8,29 +8,29 @@
   - Review examples [here](https://jkwr.github.io/), [here](https://conmart.github.io/), and [here](https://supertrunkes.github.io/)
 
 ## Thurs, March 15
-- Use [repl.it](https://repl.it/languages/javascript) as a sandbox to write your following functions
-	- Write a function that counts how many 0s there are in an array: 
+- Use [repl.it](https://repl.it/languages/javascript) as a sandbox to write the following functions:
+	- `countZeros` – counts how many 0s there are in an array: 
 		- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
-	- Write a function that counts how many vowels there are in an array:
+	- `countVowels` – counts how many vowels there are in an array:
 		- ex: `countVowels([0, 2, 0, 6, 4, 0]) // => 3`
 		- Hint: declare a `var vowels = [‘a’, ‘e’, ‘I, ‘o’, ‘u’]` variable
 		- Hint: use JavaScript’s `.indexOf()` function to test if a letter is in that `vowels` array (look up what `.indexOf()` does if you are not sure!)
 
-	- Write a function that adds all numbers up to a given max number
+	- `addUpTo` – adds all numbers up to a given max number
 	    - ex. `addUpTo(5) // => 15 (bc 1 + 2 + 3 + 4 + 5 = 15`
 
-	- Write a function that formats an object (with `name`, `age`, and `city` keys) into a sentence
+	- `getPersonSentence` – formats an object (with `name`, `age`, and `city` keys) into a sentence
 	    - ex. `getPersonSentence({name: ’Sam’, age: 28, city: 'Los Angeles'}) // => 'Sam is 28 years old and lives in Los Angeles'`
-	- Write a function that formats an object (with `name`, `yearOfBirth`, and `city` keys) into a sentence
-	    - ex. `getPersonSentence({name: ’Sam’, yearOfBirth: 1990, city: 'Los Angeles'}) // => 'Sam is 28 years old and lives in Los Angeles'`
+	- `getPersonSentence_v2` – formats an object (with `name`, `yearOfBirth`, and `city` keys) into a sentence
+	    - ex. `getPersonSentence_v2({name: ’Sam’, yearOfBirth: 1990, city: 'Los Angeles'}) // => 'Sam is 28 years old and lives in Los Angeles'`
 
-	- Write a function that takes in an array of objects (with `name` and `age` keys), and prints out each object’s name
+	- `getNames` – takes in an array of objects (with `name` and `age` keys), and prints out each object’s name
 	    - ex: `getNames([{name: ’Sam’, age: 20}, {name: ’Charlotte’, age: 30}, {name: ’Dany’, age: 40}]) => [‘Sam’, ‘Charlotte’, ‘Dany’]`
-	- Write a function that takes in an array of objects (with `name` and `age` keys), and prints out the longest name
+	- `getLongestName` – takes in an array of objects (with `name` and `age` keys), and prints out the longest name
 	    - ex: `getLongestName([{name: ’Sam’, age: 20}, {name: ’Charlotte’, age: 30}, {name: ’Dany’, age: 40}]) => ‘Charlotte’`
 	    - Hint: Use the previously written `getNames()` function to help you
 
-	- Write a function that takes in an array of numbers and returns a sentence with the highest number, lowest number, and the difference between them
+	- `getDifference` – takes in an array of numbers and returns a sentence with the highest number, lowest number, and the difference between them
 	    - ex: `getDifference([5, 2, 3, 8, 1]) // => 'The highest number is 8. The lowest number is 1. The difference is 7'`
 
 ## Wed, March 14
