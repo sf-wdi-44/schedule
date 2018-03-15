@@ -2,11 +2,24 @@
 
 ## Fri, March 16
 - Finish Kyrel (Part III)
-- Finish Personal Portfolio (Part II)
-
-## Thurs, March 15
 - Finish JQuery Playground
 - Finish Fantastic Mr. Fox
+- Continue working on Personal Portfolio 
+  - Add Bootstrap for easy styling
+  - Review examples [here](https://jkwr.github.io/), [here](https://conmart.github.io/), and [here](https://supertrunkes.github.io/)
+
+## Thurs, March 15
+- Write a function that counts how many 0s there are in an array: 
+	- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
+- Write a function that counts how many vowels there are in an array:
+	- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
+	- Hint: declare a `var vowels = [‘a’, ‘e’, ‘I, ‘o’, ‘u’]` variable
+	- Hint: use JavaScript’s `.indexOf()` function to test if a letter is in that `vowels` array (look up what `.indexOf()` does if you are not sure!)
+- Write a function that takes in an array of objects, and prints out each object’s name
+    - ex: `getNames([{name: ’Sam’, age: 20}, {name: ’Charlotte’, age: 30}, {name: ’Dany’, age: 40}]) => [‘Sam’, ‘Charlotte’, ‘Dany’]`
+- Write a function that takes in an array of objects, and prints out the longest name
+    - ex: `getLongestName([{name: ’Sam’, age: 20}, {name: ’Charlotte’, age: 30}, {name: ’Dany’, age: 40}]) => ‘Charlotte’`
+    - Hint: Use the previously written `getNames()` function to help you
 
 ## Wed, March 14
 - Continue working on Personal Portfolio
