@@ -8,7 +8,7 @@
   - Review examples [here](https://jkwr.github.io/), [here](https://conmart.github.io/), and [here](https://supertrunkes.github.io/)
 
 ## Thurs, March 15
-- Use [repl.it](https://repl.it/languages/javascript) as a sandbox to write the functions below – – *Submit your repl.it URL in Project Submission Doc*
+- Use [repl.it](https://repl.it/languages/javascript) as a sandbox to write the functions below – *Submit your repl.it URL in Project Submission Doc*
 	- `countZeros` – counts how many 0s there are in an array: 
 		- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
 	- `countVowels` – counts how many vowels there are in an array:
