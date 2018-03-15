@@ -39,10 +39,10 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Review JS Control Flow; <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part II)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Thursday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/jquery-part-1">JQuery (Part I)</a> (ESW)
+      
     </td>
     <td> <!-- Week 1 - Friday Morning 1 -->
-    JS Whiteboarding
+      Review homework; Review Jeopardy
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Outcomes (Vanessa)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
-      <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part III)</a> (FAQ)
+      <a href="https://github.com/sf-wdi-40/jquery-part-1">JQuery (Part I)</a> (ESW)
     </td>
   </tr>
   <tr>
@@ -76,10 +76,10 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://guides.github.com/features/mastering-markdown/">Markdown</a>, <a href="https://docs.google.com/presentation/d/1oBOGiupBqTXT_Xd1HJuMYunU295vkDBfnmVUL6vLjDg/edit?usp=sharing">Intro to Functions</a>, <a href="https://github.com/sf-wdi-40/pseudocode">Pseudocode</a>, & Debugging (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
+      <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part III)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> & Grid (ESW)
+      <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a> (ESW)
     </td>
   </tr>
   <tr>
@@ -94,10 +94,10 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/problem-set-js-basics">JS Basics Problem Set</a> (ESW)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (FAQ)
+      More JS Whiteboarding
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/sf-wdi-44/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> (ESW); <a href="https://github.com/sf-wdi-44/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (FAQ)
     </td>
   </tr>
 </table>
