@@ -14,6 +14,9 @@
 	- ex: `countVowels([0, 2, 0, 6, 4, 0]) // => 3`
 	- Hint: declare a `var vowels = [‘a’, ‘e’, ‘I, ‘o’, ‘u’]` variable
 	- Hint: use JavaScript’s `.indexOf()` function to test if a letter is in that `vowels` array (look up what `.indexOf()` does if you are not sure!)
+	
+- Write a function that adds all numbers up to a given max number
+    - ex. `addUpTo(5) // => 15 (bc 1 + 2 + 3 + 4 + 5 = 15`
 
 - Write a function that formats an object (with `name`, `age`, and `city` keys) into a sentence
     - ex. `getPersonSentence({name: ’Sam’, age: 28, city: 'Los Angeles'}) // => 'Sam is 28 years old and lives in Los Angeles'`
