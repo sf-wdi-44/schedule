@@ -12,12 +12,18 @@
 - Write a function that counts how many 0s there are in an array: 
 	- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
 - Write a function that counts how many vowels there are in an array:
-	- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
+	- ex: `countVowels([0, 2, 0, 6, 4, 0]) // => 3`
 	- Hint: declare a `var vowels = [‘a’, ‘e’, ‘I, ‘o’, ‘u’]` variable
 	- Hint: use JavaScript’s `.indexOf()` function to test if a letter is in that `vowels` array (look up what `.indexOf()` does if you are not sure!)
-- Write a function that takes in an array of objects, and prints out each object’s name
+
+- Write a function that formats an object (with `name`, `age`, and `city` keys) into a sentence
+    - ex. `getPersonSentence({name: ’Sam’, age: 28, city: 'Los Angeles'}) // => 'Sam is 28 years old and lives in Los Angeles'`
+- Write a function that formats an object (with `name`, `yearOfBirth`, and `city` keys) into a sentence
+    - ex. `getPersonSentence({name: ’Sam’, yearOfBirth: 1990, city: 'Los Angeles'}) // => 'Sam is 28 years old and lives in Los Angeles'`
+
+- Write a function that takes in an array of objects (with `name` and `age` keys), and prints out each object’s name
     - ex: `getNames([{name: ’Sam’, age: 20}, {name: ’Charlotte’, age: 30}, {name: ’Dany’, age: 40}]) => [‘Sam’, ‘Charlotte’, ‘Dany’]`
-- Write a function that takes in an array of objects, and prints out the longest name
+- Write a function that takes in an array of objects (with `name` and `age` keys), and prints out the longest name
     - ex: `getLongestName([{name: ’Sam’, age: 20}, {name: ’Charlotte’, age: 30}, {name: ’Dany’, age: 40}]) => ‘Charlotte’`
     - Hint: Use the previously written `getNames()` function to help you
 
