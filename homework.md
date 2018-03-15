@@ -9,7 +9,7 @@
 ## Thurs, March 15
 - Finish Kyrel (Part III)
 - Use [repl.it](https://repl.it/languages/javascript) as a sandbox to write the functions below – *Submit your repl.it URL in Project Submission Doc*
-	- `countZeros` – counts how many 0s there are in an array: 
+	- `countZeros` – counts how many 0s there are in an array
 		- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
 	- `addUpTo` – adds all numbers up to a given max number
 	    - ex. `addUpTo(5) // => 15 (bc 1 + 2 + 3 + 4 + 5 = 15`
@@ -20,7 +20,7 @@
 	- `getDifference` – takes in an array of numbers and returns a sentence with the highest number, lowest number, and the difference between them
 	    - ex: `getDifference([5, 2, 3, 8, 1]) // => 'The highest number is 8. The lowest number is 1. The difference is 7'`
 	    
-	- `countVowels` – counts how many vowels there are in an array:
+	- `countVowels` – counts how many vowels there are in an array
 		- ex: `countVowels(['a', 'b', 'u', 'c', 'g', 'o']) // => 3`
 		- Hint: declare a `var vowels = [‘a’, ‘e’, ‘i', ‘o’, ‘u’]` variable
 		- Hint: use JavaScript’s `.indexOf()` function to test if a letter is in that `vowels` array (look up how `.indexOf()` works, if you are not sure!)
