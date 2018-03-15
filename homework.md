@@ -26,6 +26,9 @@
     - ex: `getLongestName([{name: ’Sam’, age: 20}, {name: ’Charlotte’, age: 30}, {name: ’Dany’, age: 40}]) => ‘Charlotte’`
     - Hint: Use the previously written `getNames()` function to help you
 
+- Write a function that takes in an array of numbers and returns a sentence with the highest number, lowest number, and the difference between them
+    - ex: `getDifference([5, 2, 3, 8, 1]) // => 'The highest number is 8. The lowest number is 1. The difference is 7'`
+
 ## Wed, March 14
 - Continue working on Personal Portfolio
   - Spend most of your time styling
