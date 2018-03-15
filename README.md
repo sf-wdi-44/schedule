@@ -97,7 +97,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       More JS Whiteboarding
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> (ESW); <a href="https://github.com/sf-wdi-44/personal-portfolio/blob/master/part-2.md">Intro to Portfolio (Part II)</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a> (ESW)
     </td>
   </tr>
 </table>
