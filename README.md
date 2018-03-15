@@ -39,7 +39,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Review JS Control Flow; <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part II)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Thursday Morning 1 -->
-      
+      Review homework; JS Whiteboarding
     </td>
     <td> <!-- Week 1 - Friday Morning 1 -->
       Review homework; Review Jeopardy
