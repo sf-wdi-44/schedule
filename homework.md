@@ -13,6 +13,7 @@
 		- ex: `countZeros([0, 2, 0, 6, 4, 0]) // => 3`
 	- `addUpTo` – adds all numbers up to a given max number
 	    - ex. `addUpTo(5) // => 15 (bc 1 + 2 + 3 + 4 + 5 = 15`
+	    - Hint: define a `var currentSum = 0;` variable in the beginning, and keep adding to it as you loop through all the numbers in the array
 	- `getPersonSentence` – formats an object (with `name`, `age`, and `city` keys) into a sentence
 	    - ex. `getPersonSentence({name: ’Sam’, age: 28, city: 'Los Angeles'}) // => 'Sam is 28 years old and lives in Los Angeles'`
 	- `getNames` – takes in an array of objects (with `name` and `age` keys), and prints out each object’s name
