@@ -13,8 +13,9 @@
   - Spend most of your time styling
   - Make sure you are hitting all [requirements](https://github.com/sf-wdi-44/personal-portfolio#deliverables)
   - Some helpful examples of portfolio pages [here](https://jkwr.github.io/), [here](https://conmart.github.io/), and [here](https://supertrunkes.github.io/)
-- Finish JS Objects training lab
+- Finish Kyrel, Part II
 - Finish JS Basics Problem Set
+- *BONUS:* – Finish JS Objects training lab
 - *BONUS:* 
   - Write a function called `fizzbuzz` that takes in an array of numbers as an argument and 
     - returns the word 'fizz' for each number in the array that is divisible by 3
