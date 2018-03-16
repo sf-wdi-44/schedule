@@ -6,7 +6,7 @@
 - Continue working on Personal Portfolio 
   - Add Bootstrap for easy styling
   - Review examples [here](https://jkwr.github.io/), [here](https://conmart.github.io/), and [here](https://supertrunkes.github.io/)
-- BONUS: <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a>
+- JQUERY BONUS: <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a>
 
 ## Thurs, March 15
 - Finish Kyrel (Part III)
