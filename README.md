@@ -79,7 +79,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/sf-wdi-44/kyrel">Kyrel (Part III)</a> (FAQ)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://github.com/sf-wdi-40/jquery-part-2">JQuery (Part II)</a>; <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (ESW)
+      <a href="https://github.com/sf-wdi-44/jquery-part-2">JQuery (Part II)</a>; <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a> (ESW)
     </td>
   </tr>
   <tr>
