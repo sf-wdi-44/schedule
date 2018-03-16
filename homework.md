@@ -1,10 +1,12 @@
 # Week 1: Welcome to WDI!
 
 ## Fri, March 16
-- Finish <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a> and <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a>
+- Do <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">jQuery Playground</a>
+- Revisit all the JavaScript function exercises from yesterday (try to do them from start to finish without looking at solutions)
 - Continue working on Personal Portfolio 
   - Add Bootstrap for easy styling
   - Review examples [here](https://jkwr.github.io/), [here](https://conmart.github.io/), and [here](https://supertrunkes.github.io/)
+- BONUS: <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a>
 
 ## Thurs, March 15
 - Finish Kyrel (Part III)
