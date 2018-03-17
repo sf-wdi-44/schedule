@@ -30,7 +30,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 2 - Monday Morning 1 -->
-      Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (FAQ)
+      JQuery Playground Review; Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
       Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (FAQ)
