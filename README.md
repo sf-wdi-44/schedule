@@ -69,13 +69,13 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
       Continue working on <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a>
@@ -93,7 +93,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
       Review <a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes Project</a> (FAQ)
