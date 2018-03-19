@@ -36,7 +36,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (ESW)
+      <a href="https://github.com/sf-wdi-40/project-0">Review Tic-Tac-Toe Project; Intro to Racing Game Project</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
