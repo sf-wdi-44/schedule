@@ -69,7 +69,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      Team Whiteboarding Challenge
+      Team Whiteboarding Challenge – Jeopardy Edition
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
