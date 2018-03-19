@@ -1,3 +1,9 @@
+# Week 2: JavaScript on the Web
+
+## Mon, March 19
+- Complete Functions Training lab – *Submit your Functions Training solution in Project Submission Doc*
+- Sign up for a One-on-One with either Esther or Faisal this week to go over your Personal Portfolio (*One-on-One timeslots can be found in Project Submission Doc*)
+
 # Week 1: Welcome to WDI!
 
 ## Fri, March 16
