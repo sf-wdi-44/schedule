@@ -36,7 +36,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (FAQ)
+      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
@@ -51,7 +51,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a> and <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 --> 
-      Team Whiteboarding Challenge
+      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
@@ -69,7 +69,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/iterator-methods">Intro to Callbacks & Iterator Functions</a> (ESW)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (ESW)
+      Team Whiteboarding Challenge
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
       <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
