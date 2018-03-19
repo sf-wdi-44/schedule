@@ -1,7 +1,8 @@
 # Week 2: JavaScript on the Web
 
 ## Mon, March 19
-- Complete Functions Training lab – *Submit your Functions Training solution in Project Submission Doc*
+- Complete Functions Training lab – *Submit your Functions Training in Project Submission Doc, under Functions Training, II*
+- Complete JS Iterators lab – *Submit your JS Iterators Lab REPL link in Project Submission Doc*
 - Sign up for a One-on-One with either Esther or Faisal this week to go over your Personal Portfolio (*One-on-One timeslots can be found in Project Submission Doc*)
 
 # Week 1: Welcome to WDI!
