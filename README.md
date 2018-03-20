@@ -33,7 +33,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       JQuery Playground Review; Fantastic Mr. Fox Review; Personal Portfolio <a href="https://github.com/SF-WDI-LABS/code-review">Code Review</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
-      Review Callbacks & Iterator Functions & <a href="https://github.com/SF-WDI-LABS/js-iterators">JS Iterators Lab</a> (FAQ)
+      Review Functions Training & JS Iterators Lab (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
       Review Tic-Tac-Toe Project; <a href="https://github.com/sf-wdi-40/project-0">Intro to Project 0: Racing Game Project</a> (FAQ)
