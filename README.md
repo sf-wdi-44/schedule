@@ -36,7 +36,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Review Functions Training & JS Iterators Lab (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      Review Tic-Tac-Toe Project; <a href="https://github.com/sf-wdi-40/project-0">Intro to Project 0: Racing Game Project</a> (FAQ)
+      Review Tic-Tac-Toe Project; <a href="https://github.com/sf-wdi-44/project-0">Intro to Project 0: Racing Game Project</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
