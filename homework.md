@@ -3,7 +3,7 @@
 ## Wed, March 21
 - IMPORTANT: Continue reviewing JS Iterators Lab and Functions Training homework from Monday
 - IMPORTANT: Review Tic-Tac-Toe solution (in Slack channel)
-- Continue working on your Racing Game and be ready to present tomorrow (*Submit Github link in Project Submission Doc*
+- Continue working on your Racing Game and be ready to demo it during our Science Fair tomorrow (*Submit Github link in Project Submission Doc*
 
 ## Tues, March 20
 - IMPORTANT: Finish and submit your JS Iterators Lab and Functions Training homework from last night (*Submit in Project Submission Doc, if you haven't already*)
