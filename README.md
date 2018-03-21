@@ -54,7 +54,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events Review</a> & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">DOM Events Lab</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
-      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
+      <a href="https://github.com/sf-wdi-44/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
       Outcomes (Vanessa)
