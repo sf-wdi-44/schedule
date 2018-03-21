@@ -2,8 +2,8 @@
 ## Tues, March 20
 - IMPORTANT: Finish and submit your JS Iterators Lab and Functions Training homework from last night (*Submit in Project Submission Doc, if you haven't already*)
 - Finish the DOM Events Lab
-- Finish the basic requirements for [Tic Tac Toe](https://github.com/esthersweon/tic-tac-toe/blob/master/README.md)
-- BONUS: Go on to the challenges / bonuses for [Tic Tac Toe](https://github.com/esthersweon/tic-tac-toe/blob/master/README.md)
+- Finish the basic requirements for [Tic Tac Toe](https://github.com/SF-WDI-LABS/tic-tac-toe/blob/master/README.md)
+- BONUS: Go on to the challenges / bonuses for [Tic Tac Toe](https://github.com/SF-WDI-LABS/tic-tac-toe/blob/master/README.md)
 
 ## Mon, March 19
 - Complete Functions Training lab – *Submit your Functions Training in Project Submission Doc, under Functions Training, II*
