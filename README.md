@@ -90,7 +90,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe Project</a> (ESW)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
-      <a href="https://github.com/sf-wdi-40/project-0">Racing Game Project</a>
+      <a href="https://github.com/sf-wdi-44/project-0">Racing Game Project</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Project</a> (ESW)
