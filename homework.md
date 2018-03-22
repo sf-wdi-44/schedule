@@ -1,5 +1,8 @@
 # Week 2: JavaScript on the Web
 
+## Thurs, March 22
+- IMPORTANT: Complete HTML Forms Lab (*Submit GitHub link in Project Submission Doc*)
+
 ## Wed, March 21
 - IMPORTANT: Continue reviewing JS Iterators Lab and Functions Training homework from Monday
 - IMPORTANT: Review Tic-Tac-Toe solution (in Slack channel)
