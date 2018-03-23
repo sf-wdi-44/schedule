@@ -1,5 +1,6 @@
 # Week 2: JavaScript on the Web
 ## Fri, March 23
+- Elaborate on your Racing Game! Get it portfolio-ready
 - Finish Doggos JQuery Project to practice JS iterators and JQuery (solution [here](https://github.com/esthersweon/doggos-jquery/tree/soln))
 	- DRY up your code after you've finished adding Bootstrap card styles (solution [here](https://github.com/esthersweon/doggos-jquery/commit/08e75d48776ba436337eea34a6b02f55d6f79019))
 - Finish Giffaw's bonus ("Load More" button) to practice JS iterators and AJAX (solution [here](https://github.com/SF-WDI-LABS/giffaw/blob/soln-bonus/scripts/app.js))
