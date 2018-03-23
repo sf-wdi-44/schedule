@@ -2,6 +2,8 @@
 
 ## Thurs, March 22
 - IMPORTANT: Complete HTML Forms Lab (*Submit GitHub link in Project Submission Doc*)
+- Read through the Giphy project solution and be able to explain each line
+- BONUS: Finish the Giphy project bonus feature ("Add More" gifs to the page)
 
 ## Wed, March 21
 - IMPORTANT: Continue reviewing JS Iterators Lab and Functions Training homework from Monday
