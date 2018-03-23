@@ -42,7 +42,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       Racing Game Science Fair; <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (FAQ)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
-      JS Review & Whiteboarding; Node REPL; Node Modules (ESW)
+      HTML Form Homework Review (FAQ); Giphy Project BONUS Review (ESW); JS Review & Whiteboarding (ESW)
     </td>
   </tr>
   <tr>
