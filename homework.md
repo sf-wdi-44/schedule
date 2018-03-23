@@ -1,4 +1,8 @@
 # Week 2: JavaScript on the Web
+## Fri, March 23
+- Finish Doggos JQuery Project to practice JS iterators and JQuery
+- Finish Giffaw's bonus ("Load More" button) to practice JS iterators and AJAX (solution [here](https://github.com/SF-WDI-LABS/giffaw/blob/soln-bonus/scripts/app.js))
+- Finish Geoquakes Project to practice JS iterators and AJAX
 
 ## Thurs, March 22
 - IMPORTANT: Complete HTML Forms Lab (*Submit GitHub link in Project Submission Doc*)
