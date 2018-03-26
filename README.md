@@ -65,7 +65,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
-      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (FAQ)
+      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (ESW)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (FAQ)
@@ -83,7 +83,7 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 2 -->
-      <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a>
+      <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (ESW)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
