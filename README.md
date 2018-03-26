@@ -16,6 +16,108 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
 - <a href="homework.md">Homework</a>
 - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md">Deploying Node + Mongoose App on Heroku</a>
 
+## Week 3: Full-Stack JavaScript
+<table>
+  <tr>
+    <td>March 26 - 30</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 3 - Monday Morning 1 -->
+      <a href="https://github.com/SF-WDI-LABS/express">Intro to Express</a> with <a href="https://github.com/SF-WDI-LABS/express-intro">Lab</a> (FAQ)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 1 -->
+      Express MVC (ESW)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 1 -->
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 1 -->
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships part 2</a> (FAQ) and <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a>
+    </td>
+    <td> <!-- Week 3 - Friday Morning 1 -->
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 3 - Monday Morning 2 -->
+      REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a> (FAQ)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Intro to MongoDB</a> (ESW)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 2 -->
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 2 -->
+      <a href="https://github.com/SF-WDI-LABS/github-collaboration">GitHub for Collaboration</a> and Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
+    </td>
+    <td> <!-- Week 3 - Friday Morning 2 -->
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 1 -->
+      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (FAQ)
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 1 -->
+      <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (FAQ)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 1 -->
+      Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon 1 -->
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 2 -->
+      <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a>
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 2 -->
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 2 -->
+      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon 2 -->
+      Outcomes
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (FAQ)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 
 ## Week 2: JavaScript on the Web
 <table>
