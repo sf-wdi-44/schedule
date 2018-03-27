@@ -1,3 +1,14 @@
+# Week 3: Full-Stack JavaScript
+## Mon, March 26
+- [Test-driven Todo App](https://github.com/sf-wdi-labs/test-driven-todo-api)
+	- Fork and clone to your machine
+	- Follow instructions up until this point:
+	```
+	0 passing (84ms)
+	9 failing
+	```
+	- Make sure you are seeing the output that says `9 failing`!
+
 # Week 2: JavaScript on the Web
 ## Fri, March 23
 - Elaborate on your **Racing Game** to get it portfolio-ready 
