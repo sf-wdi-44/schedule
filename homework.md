@@ -8,6 +8,19 @@
 	9 failing
 	```
 	- Make sure you are seeing the output that says `9 failing`!
+- Review the Node.js / Express.js labs we did today. Make sure you are solid on the following concepts:
+	- What is `package.json`? What command do I run to create one?
+	- What command do I run to install a dependency like `express`?
+	- What are the `/node_modules`?
+	- Why is it best practice to put `/node_modules` inside our `.gitignore` file? (Please Google-fu your way through this!)
+	- What is the difference between Node.js and Express.js?
+	- What role do routes play in a server-side application?
+	- How do I start a Node server? What is the benefit of using `nodemon`?
+	- What is the difference between `req.params` vs. `req.query`?
+	- What are the 4 HTTP methods you'd use for a server-side application?
+	- Why is it best practice to put `/api` in front of API routes?
+	- Each Node route takes in a callback function that looks like `function(request, response) { ... }` – are `request` and `response` keywords I have to use, or "potato" words?
+	- What is the difference between `res.send` and `res.json`?
 
 # Week 2: JavaScript on the Web
 ## Fri, March 23
