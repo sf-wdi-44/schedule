@@ -1,7 +1,7 @@
 # Week 3: Full-Stack JavaScript
 
 ## Tues, March 27
-- Continue working on Mongoose lab – converting Todos app's server from hard-coded functions to mongoose calls
+- Continue working on Mongoose lab (converting Todos app's server to mongoose calls) – solution [here](https://github.com/sf-wdi-44/mongoose/tree/master/solution)
 - Continue implementing feedback on your Personal Portfolio Project – requirements [here](https://github.com/sf-wdi-44/personal-portfolio/blob/master/README.md#deliverables)
 
 ## Mon, March 26
