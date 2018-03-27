@@ -86,7 +86,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a>, cont'd (ESW)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
+      <a href="https://github.com/SF-WDI-44/mongoose">Mongoose</a>, cont'd (FAQ)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
