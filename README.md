@@ -68,7 +68,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (FAQ)
+      <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a>
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
       Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
@@ -96,24 +96,6 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (FAQ)
-    </td>
-  </tr>
-  <tr>
-    <td><strong>HW</strong></td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
