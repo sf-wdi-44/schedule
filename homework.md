@@ -1,5 +1,10 @@
 # Week 3: Full-Stack JavaScript
 
+## Wed, March 28
+- Finish Sprint 3 of Book App
+- Review Book App LIKE YOUR LIFE DEPENDS ON IT (just kidding, just your next 2 projects do)
+- Keep working on Personal Portfolio feedback
+
 ## Tues, March 27
 - Continue working on Mongoose lab (converting Todos app's server to mongoose calls) – solution [here](https://github.com/sf-wdi-44/mongoose/tree/master/solution)
 - Continue implementing feedback on your Personal Portfolio Project – requirements [here](https://github.com/sf-wdi-44/personal-portfolio/blob/master/README.md#deliverables)
