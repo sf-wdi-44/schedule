@@ -95,7 +95,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
     </td>
   </tr>
 </table>
