@@ -74,7 +74,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
+      Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
