@@ -56,7 +56,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/github-collaboration">GitHub for Collaboration</a> and Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
+      Outcomes
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
@@ -74,7 +74,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      <a href="https://github.com/SF-WDI-LABS/github-collaboration">GitHub for Collaboration</a> and Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
@@ -92,7 +92,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
-      Outcomes
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (FAQ)
