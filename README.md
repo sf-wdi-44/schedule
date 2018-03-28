@@ -38,10 +38,10 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      Whiteboarding (FAQ); Review <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a>; Review Jeopardy
+      Iterators Whiteboarding (FAQ); Review <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a>
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Whiteboarding; Review Jeopardy (ESW)
     </td>
   </tr>
   <tr>
