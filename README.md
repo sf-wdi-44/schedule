@@ -41,7 +41,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       Fill out Pulse Check! Iterators Whiteboarding (FAQ); Review <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a> (ESW)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
-      Whiteboarding; Review Jeopardy (ESW)
+      Whiteboarding Practice; Homework Review (ESW)
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       High-Level Node MVC Review & Review Jeopardy (ESW); Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Go Over <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
+      Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
     </td>
   </tr>
 </table>
