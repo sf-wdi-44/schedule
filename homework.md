@@ -1,5 +1,35 @@
 # Week 3: Full-Stack JavaScript
 
+## Thurs, March 29
+- Create a Github repo or a REPL.it link to store the following whiteboarding questions
+	- Write a function called `namesOverFiveChars` that takes in an array of objects like `[{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}]` and outputs just the objects with names over 5 characters like `[{name: 'Christine'}]` (think of `.filter()`!)
+	- Write a function called `nameLengths` that takes in an array of objects like `[{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}]` and outputs an array of name lengths like `[4, 9, 5]` (think of `.map()`!)
+	- Write a function called `getMostFrequentLetter` that takes in a word and finds the most frequently used letter – don't worry about ties (hmm, deja vu..)
+	- Write a function called `countVowels` that takes in a word and counts how many vowels there are in that word (more deja vu..)
+	- Write a function called `getMostFrequentVowel` that takes in a word and finds the most frequently used vowel – don't worry about ties
+
+Some boilerplate for you to use:
+```js
+var people = [{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}];
+
+let namesOverFiveChars = () => {}
+
+let nameLengths = () => {}
+
+let getMostFrequentLetter = () => {}
+
+let countVowels = () => {}
+
+let getMostFrequentVowel = () => {}
+
+// make sure your functions work for these invoked expressions
+namesOverFiveChars(people);
+nameLengths(people);
+getMostFrequentLetter('Alabama');
+countVowels('Apple');
+getMostFrequentVowel('Airplane');
+```
+
 ## Wed, March 28
 - Finish Sprint 3 of Book App
 - Review Book App LIKE YOUR LIFE DEPENDS ON IT (just kidding, just your next 2 projects do)
