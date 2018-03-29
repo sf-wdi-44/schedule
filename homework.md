@@ -1,3 +1,67 @@
+# Week 3: Full-Stack JavaScript
+
+## Thurs, March 29
+- Create a Github repo or REPL.it link to code the following functions. *Submit repo or REPL.it link in Project Submission Doc, under Whiteboarding Practice I*
+	- Function called `namesOverFiveChars` that takes in an array of objects like `[{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}]` and outputs just the objects with names over 5 characters like `[{name: 'Christine'}]` (think of `.filter()`!)
+	- Function called `nameLengths` that takes in an array of objects like `[{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}]` and outputs an array of name lengths like `[4, 9, 5]` (think of `.map()`!)
+	- Function called `getMostFrequentLetter` that takes in a word and finds the most frequently used letter – don't worry about ties (hmm, deja vu..)
+	- Function called `countVowels` that takes in a word and counts how many vowels there are in that word (more deja vu..)
+	- Function called `getMostFrequentVowel` that takes in a word and finds the most frequently used vowel – don't worry about ties
+
+Some boilerplate for you to use:
+```js
+var people = [{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}];
+
+let namesOverFiveChars = () => {}
+
+let nameLengths = () => {}
+
+let getMostFrequentLetter = () => {}
+
+let countVowels = () => {}
+
+let getMostFrequentVowel = () => {}
+
+// make sure your functions work for these invoked expressions
+namesOverFiveChars(people);
+nameLengths(people);
+getMostFrequentLetter('Alabama');
+countVowels('Apple');
+getMostFrequentVowel('Airplane');
+```
+
+## Wed, March 28
+- Finish Sprint 3 of Book App
+- Review Book App LIKE YOUR LIFE DEPENDS ON IT (just kidding, just your next 2 projects do)
+- Keep working on Personal Portfolio feedback
+
+## Tues, March 27
+- Continue working on Mongoose lab (converting Todos app's server to mongoose calls) – solution [here](https://github.com/sf-wdi-44/mongoose/tree/master/solution)
+- Continue implementing feedback on your Personal Portfolio Project – requirements [here](https://github.com/sf-wdi-44/personal-portfolio/blob/master/README.md#deliverables)
+
+## Mon, March 26
+- [Test-driven Todo App](https://github.com/sf-wdi-labs/test-driven-todo-api)
+	- Fork and clone to your machine
+	- Follow instructions up until this point:
+	```
+	0 passing (84ms)
+	9 failing
+	```
+	- Make sure you are seeing the output that says `9 failing`!
+- Review the Node.js / Express.js labs we did today. Make sure you are solid on the following concepts:
+	- What is `package.json`? What command do I run to create one?
+	- What command do I run to install a dependency like `express`?
+	- What are the `/node_modules`?
+	- Why is it best practice to put `/node_modules` inside our `.gitignore` file? (Please Google-fu your way through this!)
+	- What is the difference between Node.js and Express.js?
+	- What role do routes play in a server-side application?
+	- How do I start a Node server? What is the benefit of using `nodemon`?
+	- What is the difference between `req.params` vs. `req.query`?
+	- What are the 4 HTTP methods you'd use for a server-side application?
+	- Why is it best practice to put `/api` in front of API routes?
+	- Each Node route takes in a callback function that looks like `function(request, response) { ... }` – are `request` and `response` keywords I have to use, or "potato" words?
+	- What is the difference between `res.send` and `res.json`?
+
 # Week 2: JavaScript on the Web
 ## Fri, March 23
 - Elaborate on your **Racing Game** to get it portfolio-ready 

@@ -8,7 +8,7 @@ All class communication will happen in Slack, in the `wdi_sf_44_strictlybiz` cha
 
 Every Thursday morning, `wdi_sf_44_strictlybiz` will prompt you to fill out a <a href="https://goo.gl/forms/UPjmSkD0RBhNKgW32">Weekly Pulse Check</a> – use this Pulse Check to decide if you need to schedule a one-on-one with an instructor.
 
-Schedule one-on-ones with your instructors as needed, either via Slack or in person. Keeping your instructors updated on your progress will better equip them to support you throughout the 12 weeks. Read past students' pro-tips <a href="pro-tips.md">here</a>.
+Schedule one-on-ones with your instructors as needed – keeping them updated on your progress will better equip them to support you throughout the 12 weeks. Read past students' pro-tips <a href="pro-tips.md">here</a>.
 
 ## Important Links
 - <a href="https://github.com/SF-WDI-LABS/installfest">Installfest</a>
@@ -29,25 +29,25 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 3 - Monday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/express">Intro to Express</a> with <a href="https://github.com/SF-WDI-LABS/express-intro">Lab</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/express">Intro to Express</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
-      Express MVC (ESW)
+      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a>
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships part 2</a> (FAQ) and <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a>
+      Fill out Pulse Check! Iterators Whiteboarding (FAQ); Review <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a> (ESW)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Whiteboarding Practice; Homework Review (ESW)
     </td>
   </tr>
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 3 - Monday Morning 2 -->
-      REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a> (FAQ)
+      <a href="https://github.com/SF-WDI-LABS/express-intro">Express Lab</a> 
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
       <a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Intro to MongoDB</a> (ESW)
@@ -56,64 +56,46 @@ Schedule one-on-ones with your instructors as needed, either via Slack or in per
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/github-collaboration">GitHub for Collaboration</a> and Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (ESW)
+      Outcomes
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Continue Working on <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
   </tr>
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
-      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (ESW)
+      REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-42/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a> (FAQ)
+      <a href="https://github.com/SF-WDI-44/mongoose">Mongoose</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
       Intro to <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a> (ESW)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      High-Level Node MVC Review & Review Jeopardy (ESW); Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Go Over <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
     </td>
   </tr>
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 2 -->
-      <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Dynamic Routing</a>, cont'd (ESW)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
+      <a href="https://github.com/SF-WDI-44/mongoose">Mongoose</a>, cont'd (FAQ)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
-      Outcomes
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (FAQ)
-    </td>
-  </tr>
-  <tr>
-    <td><strong>HW</strong></td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
-    </td>
-    <td>
-      <a href="homework.md">See HW page</a>
+      Start on <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
     </td>
   </tr>
 </table>
