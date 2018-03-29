@@ -38,7 +38,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      Iterators Whiteboarding (FAQ); Review <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a> (ESW)
+      Fill out Pulse Check! Iterators Whiteboarding (FAQ); Review <a href="https://github.com/SF-WDI-LABS/mongoose-books-app/blob/master/docs/sprint3.md">Book App: Sprint 3</a> (ESW)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Whiteboarding; Review Jeopardy (ESW)
