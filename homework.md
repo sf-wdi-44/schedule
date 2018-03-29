@@ -1,8 +1,9 @@
 # Week 3: Full-Stack JavaScript
 
 ## Thurs, March 29
+- Finish Sprint 0 ~ Sprint 1 of the Tunely Project
 - Create a Github repo or REPL.it link to code the following functions. *Submit repo or REPL.it link in Project Submission Doc, under Whiteboarding Practice I*
-	- Function called `namesOverFiveChars` that takes in an array of objects like `[{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}]` and outputs just the objects with names over 5 characters like `[{name: 'Christine'}]` (think of `.filter()`!)
+	- Function called `namesWithFiveOrMoreChars` that takes in an array of objects like `[{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}]` and outputs just the objects with names over 5 characters like `[{name: 'Christine'}, {name: 'Terry'}]` (think of `.filter()`!)
 	- Function called `nameLengths` that takes in an array of objects like `[{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}]` and outputs an array of name lengths like `[4, 9, 5]` (think of `.map()`!)
 	- Function called `getMostFrequentLetter` that takes in a word and finds the most frequently used letter – don't worry about ties (hmm, deja vu..)
 	- Function called `countVowels` that takes in a word and counts how many vowels there are in that word (more deja vu..)
@@ -12,7 +13,7 @@ Some boilerplate for you to use:
 ```js
 var people = [{name: 'Tina'}, {name: 'Christine'}, {name: 'Terry'}];
 
-let namesOverFiveChars = () => {}
+let namesWithFiveOrMoreChars = () => {}
 
 let nameLengths = () => {}
 
@@ -23,11 +24,11 @@ let countVowels = () => {}
 let getMostFrequentVowel = () => {}
 
 // make sure your functions work for these invoked expressions
-namesOverFiveChars(people);
-nameLengths(people);
-getMostFrequentLetter('Lilac'); // => 'l'
-countVowels('Apple'); // => 2
-getMostFrequentVowel('Elephant'); // => 'e'
+namesOverFiveChars(people); // should return [{name: 'Christine'}, {name: 'Terry'}]
+nameLengths(people); // should return [4, 9, 5]
+getMostFrequentLetter('Lilac'); // should return 'l'
+countVowels('Apple'); // should return 2
+getMostFrequentVowel('Elephant'); // should return 'e'
 ```
 
 ## Wed, March 28
