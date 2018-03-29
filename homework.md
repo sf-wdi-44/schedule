@@ -25,7 +25,7 @@ let getMostFrequentVowel = () => {}
 // make sure your functions work for these invoked expressions
 namesOverFiveChars(people);
 nameLengths(people);
-getMostFrequentLetter('Alabama'); // => 'a'
+getMostFrequentLetter('Lilac'); // => 'l'
 countVowels('Apple'); // => 2
 getMostFrequentVowel('Elephant'); // => 'e'
 ```
