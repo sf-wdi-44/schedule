@@ -32,7 +32,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/express">Intro to Express</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
-      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a>; Express MVC (ESW)
+      Intro to <a href="https://github.com/sf-wdi-labs/test-driven-todo-api">Test-Driven To Do App</a>
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Relationships</a> (FAQ)
