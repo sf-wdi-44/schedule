@@ -59,7 +59,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       Outcomes
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Continue Working on <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       High-Level Node MVC Review & Review Jeopardy (ESW); Intro to <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a> (FAQ)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      Go Over <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
+      Go Over <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>; Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely Project</a>
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      Intro to <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
+      Start on <a href="https://github.com/SF-WDI-42/express-personal-api">Personal API Project</a> (ESW)
     </td>
   </tr>
 </table>
