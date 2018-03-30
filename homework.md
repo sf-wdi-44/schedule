@@ -6,8 +6,8 @@
 	- GET route for '/api/profile'
 	- GET route for 'api/whateverYourModelIs'
 	- POST route for 'api/whateverYourModelIs' 
-	- (don't worry about the '/api' endpoint in the directions)
-	- Heroku link from which to present 
+	- Heroku link from which to present your front-end (should have AJAX calls to all your 3 endpoints and show them on the page)
+	- IMPORTANT: Don't worry about the '/api' endpoint in the directions
 - RECOMMENDED BONUS: Code last night's function exercises again from scratch to practice
 
 ## Thurs, March 29
