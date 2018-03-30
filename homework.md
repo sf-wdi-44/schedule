@@ -24,7 +24,7 @@ let countVowels = () => {}
 let getMostFrequentVowel = () => {}
 
 // make sure your functions work for these invoked expressions
-namesOverFiveChars(people); // should return [{name: 'Christine'}, {name: 'Terry'}]
+namesWithFiveOrMoreChars(people); // should return [{name: 'Christine'}, {name: 'Terry'}]
 nameLengths(people); // should return [4, 9, 5]
 getMostFrequentLetter('Lilac'); // should return 'l'
 countVowels('Apple'); // should return 2
