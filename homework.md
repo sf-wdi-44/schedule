@@ -1,7 +1,7 @@
 # Week 3: Full-Stack JavaScript
 
 ## Fri, March 30
-- Finish Tunely Project (Sprints 0 ~ 6) and review, review, review! This lab is a great reference for your Personal API and future Node projects
+- Finish Tunely Project (Sprints 0 ~ 3) and review, review, review! This lab is a great reference for your Personal API and future Node projects
 - Finish Personal API and get ready to present on it Monday morning. You must have:
 	- GET route for '/api/profile'
 	- GET route for 'api/whateverYourModelIs'
