@@ -76,9 +76,9 @@
 
 | April 2: 6      | Monday                                 | Tuesday                | Wednesday      | Thursday       | Friday         |
 | --------------- | -------------------------------------- | ---------------------- | -------------- | -------------- | -------------- |
-| **9:00-10:20**  | Whiteboarding; Review Tunely; Review Jeopardy | [Proj 1 Approvals][47] | [Proj 1][47]   | [Proj 1][47]   | Holiday        |
+| **9:00-10:20**  | Whiteboarding; Review Tunely (ESW)     | [Proj 1 Approvals][47] | [Proj 1][47]   | [Proj 1][47]   | Holiday        |
 | **10:30-12:30** | Personal API Presentations            | [Proj 1 Approvals][47] | [Proj 1][47]   | [Proj 1][47]   | Holiday        |
-| **1:30-2:50**   | [Intro to Proj 1][47] & [Github for Collab., cont'd][48] (FAQ) | [Proj 1 Approvals][47] | [Proj 1][47]   | [Proj 1][47]   | Holiday        |
+| **1:30-2:50**   | [Intro to Proj 1][47] & [Github Collaboration][48] (FAQ) | [Proj 1 Approvals][47] | [Proj 1][47]   | [Proj 1][47]   | Holiday        |
 | **3:00-4:20**   | [Proj 1 Planning][47]                  | [Proj 1 Approvals][47] | [Proj 1][47]   | [Proj 1][47]   | Holiday        |
 
 [1]: https://github.com/SF-WDI-42/python
