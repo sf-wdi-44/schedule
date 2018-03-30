@@ -2,8 +2,12 @@
 
 ## Fri, March 30
 - Finish Tunely Project (Sprints 0 ~ 6) and review, review, review! This lab is a great reference for your Personal API and future Node projects
-- Finish Personal API and get ready to present on it Monday morning
-	- You must have a GET route for '/api/profile', a GET route for 'api/whateverYourModelIs', and a POST route for 'api/whateverYourModelIs' (don't worry about the '/api' endpoint in the directions)
+- Finish Personal API and get ready to present on it Monday morning. You must have:
+	- GET route for '/api/profile'
+	- GET route for 'api/whateverYourModelIs'
+	- POST route for 'api/whateverYourModelIs' 
+	- (don't worry about the '/api' endpoint in the directions)
+	- Heroku link from which to present 
 - RECOMMENDED BONUS: Code last night's function exercises again from scratch to practice
 
 ## Thurs, March 29
