@@ -1,5 +1,12 @@
 # Week 3: Full-Stack JavaScript
 
+## Fri, March 30
+- Finish Tunely Project and review, review, review! This lab is a great reference for your Personal API and future Node projects
+- Finish Personal API and get ready to present on it Monday morning
+- Review the function exercises from last night – try again from scratch to practice
+	- BONUS: Review the `letterWithLongestRun` function Faisal assigned for warmup 
+	- BONUS: Review the `mostFrequentLetterInWord` function Esther assigned for warmup
+
 ## Thurs, March 29
 - Finish Sprint 0 ~ Sprint 1 of the Tunely Project
 - Code the following functions in a REPL *Submit REPL link in Project Submission Doc, under Whiteboarding Practice I*
