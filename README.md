@@ -19,12 +19,13 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 
 ## Week 4: Project 1
 
-| April 2: 6      | Monday                                 | Tuesday                | Wednesday      | Thursday       | Friday         |
+
+| April 2 - 6      | Monday                                 | Tuesday                | Wednesday      | Thursday       | Friday         |
 | --------------- | -------------------------------------- | ---------------------- | -------------- | -------------- | -------------- |
-| **9:00-10:20**  | Whiteboarding; Review Tunely (ESW)     | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01] | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]        |
-| **10:30-12:30** | Personal API Presentations            | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01] | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]        |
-| **1:30-2:50**   | [Intro to Proj 1][https://github.com/SF-WDI-42/project-01] & [Git Collaboration][48] (FAQ) | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01] | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]        |
-| **3:00-4:20**   | [Proj 1 Planning][https://github.com/SF-WDI-42/project-01]                  | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01] | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]   | [Proj 1][https://github.com/SF-WDI-42/project-01]        |
+| **9:00-10:20**  | Whiteboarding; Review Tunely (ESW)     | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01) | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)        |
+| **10:30-12:30** | Personal API Presentations            | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01) | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)        |
+| **1:30-2:50**   | [Intro to Proj 1][https://github.com/SF-WDI-42/project-01) & [Git Collaboration][48] (FAQ) | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01) | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)        |
+| **3:00-4:20**   | [Proj 1 Planning][https://github.com/SF-WDI-42/project-01)                  | [Proj 1 Approvals][https://github.com/SF-WDI-42/project-01) | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)   | [Proj 1](https://github.com/SF-WDI-42/project-01)        |
 
 ## Week 3: Full-Stack JavaScript
 <table>
