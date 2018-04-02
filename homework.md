@@ -1,7 +1,7 @@
 # Week 4: Project 1
 
 ## Mon, April 2
-- OPTIONAL: Re-present Personal API project
+- OPTIONAL: Get ready to re-present Personal API project (schedule with Faisal/Esther)
 - OPTIONAL: Re-submit Personal API project for feedback
 - Continue planning and working on Project 1 with your partner
 
