@@ -63,13 +63,12 @@
 
 ## Week 5: Ruby
 
-| April 9: 13     | Monday         | Tuesday                                        | Wednesday                             | Thursday                            | Friday                               |
-| --------------- | -------------- | ---------------------------------------------- | ------------------------------------- | ----------------------------------- | ------------------------------------ |
-| **9:00-10:20**  | HOLIDAY        | Finish Proj 1                                  | [Intro to Ruby][35] (ESW)             | OOP Review and [Intro to RSpec][36] | [Ruby Practice][37] (ESW)            |
-| **10:30-12:30** | HOLIDAY        | Finish & Present Proj 1                        | [Username Generator lab][38] (ESW)    | [Go Fish lab][39] (ESW)             | [Intro SQL][40] & [ActiveRecord][41] |
-| **1:30-2:50**   | HOLIDAY        | Proj 1 Live Refactor (FAQ)                     | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (ESW)             | Finish ActiveRec & [Intro Rails][44] |
-| **3:00-4:20**   | HOLIDAY        | Final review- Node, SPA vs multi-pg apps (ESW) | [OOP Monster Lab][45] (FAQ)           | Outcomes (Andy)                     | [Rock 'n Rails][46] (FAQ)            |
-| **HW**          | [See HW pg][4] | [See HW pg][4]                                 | [See HW pg][4]                        | [See HW pg][4]                      | [See HW pg][4]                       |
+| April 9: 13     | Monday         | Tuesday                 | Wednesday      | Thursday          | Friday              |
+| --------------- | -------------- | -------------- | -------------------- | ------------- | -------------------------- |
+| **9:00-10:20**  | Finish Proj 1  | [Intro to Ruby][35] (FAQ)   | OOP Review and [Intro to RSpec][36] | [Ruby Practice][37] (FAQ)            |
+| **10:30-12:30**        | Finish & Present Proj 1                        | [Username Generator lab][38] (ESW)    | [Go Fish lab][39] (ESW)             | [Intro SQL][40] & [ActiveRecord][41] |
+| **1:30-2:50**         | Proj 1 Live Refactor (FAQ)                     | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (ESW)             | Finish ActiveRec & [Intro Rails][44] |
+| **3:00-4:20**         | Final review- Node, SPA vs multi-pg apps (ESW) | [OOP Monster Lab][45] (FAQ)           | Outcomes (Andy)                     | [Rock 'n Rails][46] (FAQ)            |                 |
 
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
