@@ -45,23 +45,25 @@
 | **1:30-2:50**   | HOLIDAY        | Proj 2: Vagabond | Proj 2: Vagabond               | Prepare for [Lightning Talks][22]                                    | Intro to [Publify Proj][23] (ESW)     |
 | **3:00-4:20**   | HOLIDAY        | Proj 2: Vagabond | Proj 2: Vagabond Presentations | Outcomes (Andy)                                                      | [Publify Proj][23]                    |
 
+
 ## Week 6: Rails
 
-| April 16: 20    | Monday                                 | Tuesday                                        | Wednesday                                     | Thursday                            | Friday      |
-| --------------- | -------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ----------------------------------- | ----------- |
-| **9:00-10:20**  | Review Rock 'n' Rails App (FAQ)        | Recap Bog App;[Migrations][24] & [Assocs.][25] | [Cookies & Sessions][26];[Cookie Monster][27] | Recap Library App; Library App Pt 2 | [Vaga.][28] |
-| **10:30-12:30** | [Views, Partials, & Helpers][29] (FAQ) | [Associations][25] & start [Pet Lab][30] (FAQ) | [Auth in Rails][31] (ESW)                     | Recap Lib App Pt 2; Security Basics | [Vaga.][28] |
-| **1:30-2:50**   | Debugging Strats; Intro [Bog App][32]  | [Rails Validations][33] (ESW)                  | Intro to [Library App: Part I][34] (FAQ)      | Intro to [Proj 2: Vagabond][28]     | [Vaga.][28] |
-| **3:00-4:20**   | [Bog App][32] (ESW)                    | Intro to [Pet Lab][30] (ESW)                   | [Library App: Part I][34] (FAQ)               | Outcomes (Andy)                     | [Vaga.][28] |
+| April 16 - 20 | Monday | Tuesday | Wednesday | Thursday | Friday |
+| --- | --- | --- | --- | --- | --- |
+| **9:00-10:20**  | Review Rock 'n' Rails App (FAQ) | Recap Bog App; [Migrations][24] & [Associations][25] | [Cookies & Sessions][26];[Cookie Monster][27] | Recap Library App Pt. 1; Library App Pt 2 | [Vagabond][28] |
+| **10:30-12:30** | [Views, Partials, & Helpers][29] (FAQ) | [Associations][25] & start [Pet Lab][30] (FAQ) | [Auth in Rails][31] (ESW)                     | Outcomes (Vanessa) | [Vagabond][28] |
+| **1:30-2:50**   | Debugging Strats; Intro [Bog App][32]  | [Rails Validations][33] (ESW)                  | Intro to [Library App: Part I][34] (FAQ)      | Recap Library App Pt 2      | [Vagabond][28] |
+| **3:00-4:20**   | [Bog App][32] (ESW)                    | Intro to [Pet Lab][30] (ESW)                   | [Library App: Part I][34] (FAQ)               |      Intro to [Project 2: Vagabond][28]                | [Vagabond][28] |
 
 ## Week 5: Ruby
 
-| April 9: 13     | Monday         | Tuesday                 | Wednesday      | Thursday          | Friday              |
-| --------------- | -------------- | -------------- | -------------------- | ------------- | -------------------------- |
-| **9:00-10:20**  | Finish & Submit Project 1  | [Intro to Ruby][35] (FAQ)   | Whiteboarding – Ruby and JavaScript; OOP Monster Lab Review; [Intro to RSpec][36] | Whiteboarding – Ruby and JavaScript  | Whiteboarding – Ruby and JavaScript
-| **10:30-12:30**   | Present Project 1; Project 1 Self-Reflection Survey | [Username Generator lab][38] (FAQ)    | [Go Fish lab][39] (FAQ)   | Outcomes (Andy)| [Rock 'n Rails][46] (FAQ)   
-| **1:30-2:50**     | Project 1 Retro; Live Refactor; Final Node Review, SPA vs Multi-Page Apps (FAQ)    | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (KB)      | [Ruby Practice][37] (FAQ)  | [Rock 'n Rails][46] (FAQ)   
-| **3:00-4:20**         | [Manatee Debug Lab](https://github.com/esthersweon/manatee-debug); EJS for server-side rendering (KB) | [OOP Monster Lab][45] (FAQ)   |      [Intro SQL][40] & [ActiveRecord][41] |       Finish ActiveRec & [Intro Rails][44] | [Rock 'n Rails][46] (FAQ)         
+| April 9 - 13 | Monday | Tuesday | Wednesday | Thursday | Friday |
+| --- | --- | --- | --- | --- | --- |
+| **9:00-10:20**  | Finish & Submit Project 1 | [Intro to Ruby][35] (FAQ) | Whiteboarding – Ruby and JavaScript; [OOP][43] (FAQ) | Whiteboarding – Ruby and JavaScript; Intro to [SQL][40] & [ActiveRecord][41]  | Whiteboarding – Ruby and JavaScript
+| **10:30-12:30** | Presentations; Project 1 Self-Reflection | [Ruby Methods][42] | [OOP Monster Lab][45] (FAQ)   | Outcomes (Vanessa)| [Rock 'n Rails][46] (FAQ)   
+| **1:30-2:50** | Project 1 Retro; Live Refactor; Final Node Review with [Manatee Debug Lab](https://github.com/esthersweon/manatee-debug) (FAQ) | [Username Generator lab][38] (FAQ) | Review OOP Monster Lab; Intro to [RSpec][36]; [Go Fish lab][39] (KB)      | Intro to [Rails][44] | [Rock 'n Rails][46] (FAQ)   
+| **3:00-4:20** | SPA vs Multi-Page Apps; EJS for Server-Side Rendering (KB) | [Ruby Practice][37] (FAQ)  | [Go Fish lab][39] | [Rails][44] | [Rock 'n Rails][46] (FAQ) 
+       
 
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
