@@ -59,7 +59,7 @@
 
 | April 9 - 13 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
-| **9:00-10:20**  | Finish & Submit Project 1 | [Intro to Ruby][35] (FAQ) | Whiteboarding – Ruby and JavaScript; [OOP][43] (FAQ) | Whiteboarding – Ruby and JavaScript; Intro to [SQL][40] & [ActiveRecord][41]  | Whiteboarding – Ruby and JavaScript
+| **9:00-10:20**  | Finish & Submit Project 1 (Make sure it's deployed) | [Intro to Ruby][35] (FAQ) | Whiteboarding – Ruby and JavaScript; [OOP][43] (FAQ) | Whiteboarding – Ruby and JavaScript; Intro to [SQL][40] & [ActiveRecord][41]  | Whiteboarding – Ruby and JavaScript
 | **10:30-12:30** | Presentations; Project 1 Self-Reflection | [Ruby Methods][42] | [OOP Monster Lab][45] (FAQ)   | Outcomes (Vanessa)| [Rock 'n Rails][46] (FAQ)   
 | **1:30-2:50** | Project 1 Retro; Live Refactor; Final Node Review with [Manatee Debug Lab](https://github.com/esthersweon/manatee-debug) (FAQ) | [Username Generator lab][38] (FAQ) | Review OOP Monster Lab; Intro to [RSpec][36]; [Go Fish lab][39] (KB)      | Intro to [Rails][44] | [Rock 'n Rails][46] (FAQ)   
 | **3:00-4:20** | SPA vs Multi-Page Apps; EJS for Server-Side Rendering (KB) | [Ruby Practice][37] (FAQ)  | [Go Fish lab][39] | [Rails][44] | [Rock 'n Rails][46] (FAQ) 
