@@ -59,9 +59,9 @@
 | April 9: 13     | Monday         | Tuesday                 | Wednesday      | Thursday          | Friday              |
 | --------------- | -------------- | -------------- | -------------------- | ------------- | -------------------------- |
 | **9:00-10:20**  | Finish & Submit Project 1  | [Intro to Ruby][35] (FAQ)   | OOP Monster Lab Review; [Intro to RSpec][36] | Whiteboarding – Same Problem in Ruby and JavaScript  | Whiteboarding – Same Problem in Ruby and JavaScript
-| **10:30-12:30**   | Present Project 1; Project 1 Self-Reflections   | [Username Generator lab][38] (FAQ)    | [Go Fish lab][39] (FAQ)   | Outcomes (Andy)| [Rock 'n Rails][46] (FAQ)   
-| **1:30-2:50**     | Project 1 Retro / Live Refactor; Final Node Review, SPA vs Multi-Page Apps (FAQ)    | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (KB)      | [Ruby Practice][37] (FAQ)  | [Rock 'n Rails][46] (FAQ)   
-| **3:00-4:20**         | EJS for server-side rendering (KB) | [OOP Monster Lab][45] (FAQ)   |      [Intro SQL][40] & [ActiveRecord][41] |       Finish ActiveRec & [Intro Rails][44] |      | [Rock 'n Rails][46] (FAQ)         
+| **10:30-12:30**   | Present Project 1; Project 1 Self-Reflection Survey | [Username Generator lab][38] (FAQ)    | [Go Fish lab][39] (FAQ)   | Outcomes (Andy)| [Rock 'n Rails][46] (FAQ)   
+| **1:30-2:50**     | Project 1 Retro; Live Refactor; Final Node Review, SPA vs Multi-Page Apps (FAQ)    | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (KB)      | [Ruby Practice][37] (FAQ)  | [Rock 'n Rails][46] (FAQ)   
+| **3:00-4:20**         | [Manatees Lab](https://github.com/esthersweon/manatee-debug); EJS for server-side rendering (KB) | [OOP Monster Lab][45] (FAQ)   |      [Intro SQL][40] & [ActiveRecord][41] |       Finish ActiveRec & [Intro Rails][44] | [Rock 'n Rails][46] (FAQ)         
 
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
