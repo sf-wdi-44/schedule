@@ -5,7 +5,6 @@
 | **10:30-12:30** | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon  | Scraping with Beautiful Soup (FAQ) | [Final Proj][3]     |
 | **1:30-2:50**   | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon  | Scraping with Beautiful Soup (FAQ) | [Final Proj][3]     |
 | **3:00-4:20**   | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon  | Outcomes (Andy)                    | [Final Proj][3]     |
-| **HW**          | [See HW pg][4]    | [See HW pg][4]    | [See HW pg][4] | [See HW pg][4]                     | [See HW pg][4]      |
 
 
 ## Week 10: Proj 3
@@ -15,8 +14,7 @@
 | **9:00-10:20**  | Proj 3         | Proj 3         | Proj 3         | Proj 3                                      | [Algos:Binary Search Trees][5] (ESW)                    |
 | **10:30-12:30** | Proj 3         | Proj 3         | Proj 3         | Proj 3: Feature Freeze & Presentation Prep. | Proj 3 Live Refactor & Code Review                      |
 | **1:30-2:50**   | Proj 3         | Proj 3         | Proj 3         | Proj 3: Presentation Prep & Presentations   | Intro Immersathon; Refactor Proj 3 based on code review |
-| **3:00-4:20**   | Proj 3         | Proj 3         | Proj 3         | Outcomes (Andy)                             | [Rails API Lab][6]                                      |
-| **HW**          | [See HW pg][4] | [See HW pg][4] | [See HW pg][4] | [See HW pg][4]                              | [See HW pg][4]                                          |
+| **3:00-4:20**   | Proj 3         | Proj 3         | Proj 3         | Outcomes (Andy)                             | [Rails API Lab][6]                                      |                                       |
 
 
 ## Week 9: More React and Proj 3
@@ -37,8 +35,6 @@
 | **10:30-12:30** | [EJS, serverside Node][13], [Chirp lab][14] | JS OOP Theory                    | [React ATM Lab][15] (FAQ)          | [React Todo App: Router][16]        | React Overview: Twit. App Arch |
 | **1:30-2:50**   | Fin. [Chirp lab][14], [Passportjs Lab][17]  | [Intro to React (ESW)][18]       | React Rev: Where does the data go  | [React Todo App: Axios][16] (FAQ)   | Todo App Rmx: Single File App  |
 | **3:00-4:20**   | [Passport.js Lab][17]                       | [Intro to React contd (ESW)][19] | [React Todo App: Router][16] (ESW) | Outcomes (Andy)                     | Todo App Rmx: Single File App  |
-| **HW**          | [See HW pg][4]                              | [See HW pg][4]                   | [See HW pg][4]                     | [See HW pg][4]                      | [See HW pg][4]                 |
-
 
 ## Week 7: More Rails; Proj 2 Week
 
@@ -48,7 +44,6 @@
 | **10:30-12:30** | HOLIDAY        | Proj 2: Vagabond | Proj 2: Vagabond               | [Asset Pipeline][20] & [Turbolinks Chal.][21]; [Lightning Talks][22] | Algos: Intro to Tech Interviews (FAQ) |
 | **1:30-2:50**   | HOLIDAY        | Proj 2: Vagabond | Proj 2: Vagabond               | Prepare for [Lightning Talks][22]                                    | Intro to [Publify Proj][23] (ESW)     |
 | **3:00-4:20**   | HOLIDAY        | Proj 2: Vagabond | Proj 2: Vagabond Presentations | Outcomes (Andy)                                                      | [Publify Proj][23]                    |
-| **HW**          | [See HW pg][4] | [See HW pg][4]   | [See HW pg][4]                 | [See HW pg][4]                                                       | [See HW pg][4]                        |
 
 ## Week 6: Rails
 
@@ -58,17 +53,15 @@
 | **10:30-12:30** | [Views, Partials, & Helpers][29] (FAQ) | [Associations][25] & start [Pet Lab][30] (FAQ) | [Auth in Rails][31] (ESW)                     | Recap Lib App Pt 2; Security Basics | [Vaga.][28] |
 | **1:30-2:50**   | Debugging Strats; Intro [Bog App][32]  | [Rails Validations][33] (ESW)                  | Intro to [Library App: Part I][34] (FAQ)      | Intro to [Proj 2: Vagabond][28]     | [Vaga.][28] |
 | **3:00-4:20**   | [Bog App][32] (ESW)                    | Intro to [Pet Lab][30] (ESW)                   | [Library App: Part I][34] (FAQ)               | Outcomes (Andy)                     | [Vaga.][28] |
-| **HW**          | [See HW pg][4]                         | [See HW pg][4]                                 | [See HW pg][4]                                | [See HW pg][4]                      | [See HW][4] |
-
 
 ## Week 5: Ruby
 
 | April 9: 13     | Monday         | Tuesday                 | Wednesday      | Thursday          | Friday              |
 | --------------- | -------------- | -------------- | -------------------- | ------------- | -------------------------- |
-| **9:00-10:20**  | Finish Proj 1  | [Intro to Ruby][35] (FAQ)   | OOP Review and [Intro to RSpec][36] | [Ruby Practice][37] (FAQ)            |
-| **10:30-12:30**        | Finish & Present Proj 1                        | [Username Generator lab][38] (ESW)    | [Go Fish lab][39] (ESW)             | [Intro SQL][40] & [ActiveRecord][41] |
-| **1:30-2:50**         | Proj 1 Live Refactor (FAQ)                     | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (ESW)             | Finish ActiveRec & [Intro Rails][44] |
-| **3:00-4:20**         | Final review- Node, SPA vs multi-pg apps (ESW) | [OOP Monster Lab][45] (FAQ)           | Outcomes (Andy)                     | [Rock 'n Rails][46] (FAQ)            |                 |
+| **9:00-10:20**  | Finish & Submit Project 1  | [Intro to Ruby][35] (FAQ)   | OOP Review and [Intro to RSpec][36] | [Ruby Practice][37] (FAQ)            |
+| **10:30-12:30**        | Present Project 1   | [Username Generator lab][38] (ESW)    | [Go Fish lab][39] (ESW)             | [Intro SQL][40] & [ActiveRecord][41] |
+| **1:30-2:50**         | Proj 1 Live Refactor; Final Review- Node, SPA vs multi-pg apps (FAQ)                     | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (ESW)             | Finish ActiveRec & [Intro Rails][44] |
+| **3:00-4:20**         | EJS for server-side rendering (KB) | [OOP Monster Lab][45] (FAQ)           | Outcomes (Andy)                     | [Rock 'n Rails][46] (FAQ)            |                 |
 
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
