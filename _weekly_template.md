@@ -59,9 +59,9 @@
 | April 9: 13     | Monday         | Tuesday                 | Wednesday      | Thursday          | Friday              |
 | --------------- | -------------- | -------------- | -------------------- | ------------- | -------------------------- |
 | **9:00-10:20**  | Finish & Submit Project 1  | [Intro to Ruby][35] (FAQ)   | OOP Review and [Intro to RSpec][36] | [Ruby Practice][37] (FAQ)            |
-| **10:30-12:30**        | Present Project 1   | [Username Generator lab][38] (ESW)    | [Go Fish lab][39] (ESW)             | [Intro SQL][40] & [ActiveRecord][41] |
-| **1:30-2:50**         | Proj 1 Live Refactor; Final Review- Node, SPA vs multi-pg apps (FAQ)                     | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (ESW)             | Finish ActiveRec & [Intro Rails][44] |
-| **3:00-4:20**         | EJS for server-side rendering (KB) | [OOP Monster Lab][45] (FAQ)           | Outcomes (Andy)                     | [Rock 'n Rails][46] (FAQ)            |                 |
+| **10:30-12:30**   | Present Project 1   | [Username Generator lab][38] (ESW)    | [Go Fish lab][39] (ESW)   | Outcomes (Andy)
+| **1:30-2:50**     | Proj 1 Live Refactor; Final Review- Node, SPA vs multi-pg apps (FAQ)                     | [Ruby Methods][42] and [OOP][43](FAQ) | [Go Fish lab][39] (ESW)      | Finish ActiveRec & [Intro Rails][44] |
+| **3:00-4:20**         | EJS for server-side rendering (KB) | [OOP Monster Lab][45] (FAQ)   |      [Intro SQL][40] & [ActiveRecord][41] |             | [Rock 'n Rails][46] (FAQ)            |                 |
 
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
