@@ -19,12 +19,12 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 
 ## Week 5: Ruby
 
-| April 9 - 13    | Monday                                                                                                                                             | Tuesday                                                                                                             | Wednesday                                                                 | Thursday                                                                                 | Friday                              |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------- |
-| **9:00-10:20**  | Whiteboarding; Finish & Submit Project 1 (Heroku and Project Submission Doc)                                                                       | [Intro to Ruby][35] ([Slides](https://drive.google.com/open?id=1aPXnhK2dstPEjTEQFUUQ7PcRQJgrs8uaQsesUbOxnfE)) (FAQ) | Whiteboarding – Ruby and JavaScript; [OOP][43] (FAQ)                      | Whiteboarding – Ruby and JavaScript (FAQ); Intro to [SQL][40] & [ActiveRecord][41] (KBB) | Whiteboarding – Ruby and JavaScript |
-| **10:30-12:30** | Presentations; Project 1 Self-Reflection                                                                                                           | [Ruby Methods][42] (FAQ)                                                                                            | [OOP Monster Lab][45] (FAQ)                                               | Outcomes (Vanessa)                                                                       | [Rock 'n Rails][46] (KBB)           |
-| **1:30-2:50**   | Project 1 Retro; Live Refactor; [SPA vs Multi-Page Apps](https://github.com/falqas/ejs); EJS for Server-Side Rendering (FAQ)                       | [Username Generator lab][38] (FAQ)                                                                                  | Review OOP Monster Lab; Intro to [RSpec][36] (KBB); [MergeSort][39] (FAQ) | Intro to [Rails][44] (JC)                                                                | [Rock 'n Rails][46] (KBB)           |
-| **3:00-4:20**   | Final Node Review with [Manatee Debug Lab](https://github.com/falqas/manatee-debug); Project 1 One-on-Ones; Project 1 Feedback Implementation | [Ruby Practice][37] (FAQ)                                                                                           | [MergeSort][39] (FAQ)                                                     | [Rails][44]    (JC)                                                                      | [Rock 'n Rails][46] (KBB)           |
+| April 9 - 13    | Monday                                                                                                                                        | Tuesday                                                                                                            | Wednesday                                                                 | Thursday                                                                                 | Friday                              |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------- |
+| **9:00-10:20**  | Whiteboarding; Finish & Submit Project 1 (Heroku and Project Submission Doc)                                                                  | [Intro to Ruby][35]([Slides](https://drive.google.com/open?id=1aPXnhK2dstPEjTEQFUUQ7PcRQJgrs8uaQsesUbOxnfE)) (FAQ) | Whiteboarding – Ruby and JavaScript; [OOP][43] (FAQ)                      | Whiteboarding – Ruby and JavaScript (FAQ); Intro to [SQL][40] & [ActiveRecord][41] (KBB) | Whiteboarding – Ruby and JavaScript |
+| **10:30-12:30** | Presentations; Project 1 Self-Reflection                                                                                                      | [Ruby Methods][42] (FAQ)                                                                                           | [OOP Monster Lab][45] (FAQ)                                               | Outcomes (Vanessa)                                                                       | [Rock 'n Rails][46] (KBB)           |
+| **1:30-2:50**   | Project 1 Retro; Live Refactor; [SPA vs Multi-Page Apps](https://github.com/falqas/ejs); EJS for Server-Side Rendering (FAQ)                  | [Username Generator lab][38] (FAQ)                                                                                 | Review OOP Monster Lab; Intro to [RSpec][36] (KBB); [MergeSort][39] (FAQ) | Intro to [Rails][44] (JC)                                                                | [Rock 'n Rails][46] (KBB)           |
+| **3:00-4:20**   | Final Node Review with [Manatee Debug Lab](https://github.com/falqas/manatee-debug); Project 1 One-on-Ones; Project 1 Feedback Implementation | [Ruby Practice][37] (FAQ)                                                                                          | [MergeSort][39] (FAQ)                                                     | [Rails][44]    (JC)                                                                      | [Rock 'n Rails][46] (KBB)           |
 
 ## Week 4: Project 1
 | April 2 - 6     | Monday                                                                                                                                                                                   | Tuesday                                                     | Wednesday                                         | Thursday                                          | Friday                                            |
@@ -289,3 +289,53 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
     </td>
   </tr>
 </table>
+
+<!-- Reference Links -->
+[1]: https://github.com/SF-WDI-42/python
+[2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
+[3]: https://github.com/SF-WDI-42/final-project
+[4]: homework.md
+[5]: https://github.com/SF-WDI-LABS/binary-search-trees
+[6]: https://github.com/SF-WDI-LABS/con-pletionist/blob/master/instructions.md
+[7]: https://git.generalassemb.ly/SF-WDI-42/project3
+[8]: https://github.com/sf-wdi-42/reddit-clone-mern
+[9]: https://github.com/SF-WDI-LABS/js-linked-list
+[10]: https://docs.google.com/document/d/1L1xh2achS6pdt2pxdn3d5q42yLR3SBMwNp_WnuUEYxI/edit?usp=sharing
+[11]: https://github.com/SF-WDI-LABS/stacks
+[12]: https://github.com/SF-WDI-LABS/react-component-lifecycle
+[13]: https://github.com/sf-wdi-40/intro-express
+[14]: https://github.com/SF-WDI-42/Chirp-Network
+[15]: https://github.com/SF-WDI-LABS/atm-react
+[16]: https://github.com/SF-WDI-LABS/react_todo_walkthrough
+[17]: https://github.com/SF-WDI-LABS/express-microblog-add-auth/tree/ejs
+[18]: https://github.com/SF-WDI-LABS/react-intro
+[19]: https://github.com/SF-WDI-LABS/react-intro-2
+[20]: https://github.com/SF-WDI-LABS/rails-asset-pipeline
+[21]: https://github.com/SF-WDI-LABS/turbolinks-challenge-2
+[22]: https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks
+[23]: https://github.com/SF-WDI-42/publify-debugging-lab
+[24]: https://github.com/SF-WDI-LABS/migrations
+[25]: https://github.com/SF-WDI-LABS/rails-associations
+[26]: https://github.com/SF-WDI-LABS/cookies-sessions
+[27]: https://github.com/sf-wdi-labs/cookie-monster-app
+[28]: https://github.com/sf-wdi-40/project-vagabond
+[29]: https://github.com/SF-WDI-LABS/rails-views-and-helpers
+[30]: https://github.com/SF-WDI-LABS/rails-pet-lab
+[31]: https://github.com/SF-WDI-LABS/rails-auth
+[32]: https://github.com/SF-WDI-LABS/rails_bog_app
+[33]: https://github.com/SF-WDI-LABS/rails-validations-errors
+[34]: https://github.com/SF-WDI-LABS/public-library-app
+[35]: https://github.com/SF-WDI-LABS/intro-ruby
+[36]: https://github.com/SF-WDI-LABS/rspec
+[37]: https://github.com/SF-WDI-LABS/idiomatic-ruby
+[38]: https://github.com/SF-WDI-LABS/username-generator
+[39]: https://github.com/sf-wdi-44/merge
+[40]: https://github.com/SF-WDI-LABS/intro-sql
+[41]: https://github.com/SF-WDI-LABS/active-record
+[42]: https://github.com/SF-WDI-LABS/ruby-methods
+[43]: https://github.com/SF-WDI-LABS/ruby-oop
+[44]: https://github.com/SF-WDI-LABS/rails-intro
+[45]: https://github.com/SF-WDI-LABS/ruby-monster-oop
+[46]: https://github.com/SF-WDI-LABS/rock-n-rails
+[47]: https://github.com/SF-WDI-42/project-01
+[48]: https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit?usp=sharing
