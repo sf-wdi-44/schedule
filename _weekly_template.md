@@ -1,5 +1,5 @@
 ## Week 11: Python / Django
-| May 21: 25      | Monday            | Tuesday           | Wednesday     | Thursday                           | Friday              |
+| May 21 - 25     | Monday            | Tuesday           | Wednesday     | Thursday                           | Friday              |
 | --------------- | ----------------- | ----------------- | ------------- | ---------------------------------- | ------------------- |
 | **9:00-10:20**  | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon | Algo: Hash Tables; Real-World Eng. | Algos: Graphs (FAQ) |
 | **10:30-12:30** | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon | Scraping with Beautiful Soup (FAQ) | [Final Proj][3]     |
@@ -9,7 +9,7 @@
 
 ## Week 10: Proj 3
 
-| May 14: 18      | Monday | Tuesday | Wednesday | Thursday                                    | Friday                                                  |
+| May 14 - 18     | Monday | Tuesday | Wednesday | Thursday                                    | Friday                                                  |
 | --------------- | ------ | ------- | --------- | ------------------------------------------- | ------------------------------------------------------- |
 | **9:00-10:20**  | Proj 3 | Proj 3  | Proj 3    | Proj 3                                      | [Algos:Binary Search Trees][5] (ESW)                    |
 | **10:30-12:30** | Proj 3 | Proj 3  | Proj 3    | Proj 3: Feature Freeze & Presentation Prep. | Proj 3 Live Refactor & Code Review                      |
@@ -19,7 +19,7 @@
 
 ## Week 9: More React and Proj 3
 
-| May 7: 11       | Monday                                     | Tuesday                                 | Wednesday       | Thursday                                                 | Friday      |
+| May 7 - 11      | Monday                                     | Tuesday                                 | Wednesday       | Thursday                                                 | Friday      |
 | --------------- | ------------------------------------------ | --------------------------------------- | --------------- | -------------------------------------------------------- | ----------- |
 | **9:00-10:20**  | Review Todo App / Algos: Sorting 1 (FAQ)   | Review Reddit MERN Stack Proj: Backend  | React Build Day | React Build Day Sci Fair; Algo Mergesort (Iter & Recurs) | [Proj 3][7] |
 | **10:30-12:30** | React Review (ESW)                         | Reddit MERN Stack Proj: Front-End       | React Build Day | [Proj 3][7] Pitches                                      | [Proj 3][7] |
@@ -29,16 +29,16 @@
 
 ## Week 8: React
 
-| April 30: May 4 | Monday                                      | Tuesday                          | Wednesday                          | Thursday                            | Friday                         |
-| --------------- | ------------------------------------------- | -------------------------------- | ---------------------------------- | ----------------------------------- | ------------------------------ |
-| **9:00-10:20**  | Algo [LinkedList][9];[Common Interv Qs][10] | Rev Passportjs Lab; LList Interv | Algos: [Stacks & Queues][11]       | Algo Trees;Rev[Lifecyc Methods][12] | Algo Trees; React Review (FAQ) |
-| **10:30-12:30** | [EJS, serverside Node][13], [Chirp lab][14] | JS OOP Theory                    | [React ATM Lab][15] (FAQ)          | [React Todo App: Router][16]        | React Overview: Twit. App Arch |
-| **1:30-2:50**   | Fin. [Chirp lab][14], [Passportjs Lab][17]  | [Intro to React (ESW)][18]       | React Rev: Where does the data go  | [React Todo App: Axios][16] (FAQ)   | Todo App Rmx: Single File App  |
-| **3:00-4:20**   | [Passport.js Lab][17]                       | [Intro to React contd (ESW)][19] | [React Todo App: Router][16] (ESW) | Outcomes (Andy)                     | Todo App Rmx: Single File App  |
+| April 30 - May 4 | Monday                                      | Tuesday                          | Wednesday                          | Thursday                            | Friday                         |
+| ---------------- | ------------------------------------------- | -------------------------------- | ---------------------------------- | ----------------------------------- | ------------------------------ |
+| **9:00-10:20**   | Algo [LinkedList][9];[Common Interv Qs][10] | Rev Passportjs Lab; LList Interv | Algos: [Stacks & Queues][11]       | Algo Trees;Rev[Lifecyc Methods][12] | Algo Trees; React Review (FAQ) |
+| **10:30-12:30**  | [EJS, serverside Node][13], [Chirp lab][14] | JS OOP Theory                    | [React ATM Lab][15] (FAQ)          | [React Todo App: Router][16]        | React Overview: Twit. App Arch |
+| **1:30-2:50**    | Fin. [Chirp lab][14], [Passportjs Lab][17]  | [Intro to React (ESW)][18]       | React Rev: Where does the data go  | [React Todo App: Axios][16] (FAQ)   | Todo App Rmx: Single File App  |
+| **3:00-4:20**    | [Passport.js Lab][17]                       | [Intro to React contd (ESW)][19] | [React Todo App: Router][16] (ESW) | Outcomes (Andy)                     | Todo App Rmx: Single File App  |
 
 ## Week 7: More Rails; Proj 2 Week
 
-| April 23: 27    | Monday  | Tuesday          | Wednesday                      | Thursday                                                             | Friday                                |
+| April 23 - 27   | Monday  | Tuesday          | Wednesday                      | Thursday                                                             | Friday                                |
 | --------------- | ------- | ---------------- | ------------------------------ | -------------------------------------------------------------------- | ------------------------------------- |
 | **9:00-10:20**  | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond               | Algos: LinkedLists (FAQ)                                             | Lightning Talk Presentations          |
 | **10:30-12:30** | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond               | [Asset Pipeline][20] & [Turbolinks Chal.][21]; [Lightning Talks][22] | Algos: Intro to Tech Interviews (FAQ) |
@@ -55,16 +55,7 @@
 | **1:30-2:50**   | Debugging Strats; Intro [Bog App](KBB) [32]                                                                                      | [Rails Validations][33] (FAQ)                                                                                                                       | Intro to [Library App: Part I][34] (FAQ)      | Recap Library App Pt 2                    | [Vagabond][28] |
 | **3:00-4:20**   | [Bog App][32] (KBB)                                                                                                              | Intro to [Pet Lab][30] (FAQ)                                                                                                                        | [Library App: Part I][34] (FAQ)               | Intro to [Project 2: Vagabond][28]        | [Vagabond][28] |
 
-## Week 5: Ruby
-
-| April 9 - 13    | Monday                                                                                                                                             | Tuesday                                                                                                             | Wednesday                                                                 | Thursday                                                                                 | Friday                              |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------- |
-| **9:00-10:20**  | Whiteboarding; Finish & Submit Project 1 (Heroku and Project Submission Doc)                                                                       | [Intro to Ruby][35] ([Slides](https://drive.google.com/open?id=1aPXnhK2dstPEjTEQFUUQ7PcRQJgrs8uaQsesUbOxnfE)) (FAQ) | Whiteboarding – Ruby and JavaScript; [OOP][43] (FAQ)                      | Whiteboarding – Ruby and JavaScript (FAQ); Intro to [SQL][40] & [ActiveRecord][41] (KBB) | Whiteboarding – Ruby and JavaScript |
-| **10:30-12:30** | Presentations; Project 1 Self-Reflection                                                                                                           | [Ruby Methods][42] (FAQ)                                                                                            | [OOP Monster Lab][45] (FAQ)                                               | Outcomes (Vanessa)                                                                       | [Rock 'n Rails][46] (KBB)           |
-| **1:30-2:50**   | Project 1 Retro; Live Refactor; SPA vs Multi-Page Apps; EJS for Server-Side Rendering (FAQ)                                                        | [Username Generator lab][38] (FAQ)                                                                                  | Review OOP Monster Lab; Intro to [RSpec][36] (KBB); [MergeSort][39] (FAQ) | Intro to [Rails][44] (JC)                                                                | [Rock 'n Rails][46] (KBB)           |
-| **3:00-4:20**   | Final Node Review with [Manatee Debug Lab](https://github.com/esthersweon/manatee-debug); Project 1 One-on-Ones; Project 1 Feedback Implementation | [Ruby Practice][37] (FAQ)                                                                                           | [MergeSort][39] (FAQ)                                                     | [Rails][44]    (JC)                                                                      | [Rock 'n Rails][46] (KBB)           |
        
-
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
 [3]: https://github.com/SF-WDI-42/final-project
