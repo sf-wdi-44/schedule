@@ -97,7 +97,7 @@
 [39]: https://github.com/sf-wdi-44/merge
 [40]: https://github.com/SF-WDI-LABS/intro-sql
 [41]: https://github.com/SF-WDI-LABS/active-record
-[42]: https://github.com/SF-WDI-LABS/ruby-methods
+[42]: https://github.com/sf-wdi-44/ruby-methods
 [43]: https://github.com/SF-WDI-LABS/ruby-oop
 [44]: https://github.com/SF-WDI-LABS/rails-intro
 [45]: https://github.com/SF-WDI-LABS/ruby-monster-oop
