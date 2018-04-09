@@ -1,5 +1,11 @@
 # Week 4: Project 1
 
+## Mon, April 9
+- Implement Project 1 feedback/fixes
+- OPTIONAL: Add Project 1 Heroku & GitHub links to your personal portfolio
+
+# Week 4: Project 1
+
 ## Mon, April 2
 - OPTIONAL: Get ready to re-present Personal API project (schedule with Faisal/Esther)
 - OPTIONAL: Re-submit Personal API project for feedback
