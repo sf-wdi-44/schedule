@@ -2,6 +2,7 @@
 
 ## Mon, April 9
 - Implement Project 1 feedback/fixes
+- Complete and submit [Project 1 Self Reflection](https://goo.gl/forms/qOjK3aQbu8WiDTgj1)
 - OPTIONAL: Add Project 1 Heroku & GitHub links to your personal portfolio
 
 # Week 4: Project 1
