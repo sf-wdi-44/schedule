@@ -94,7 +94,7 @@
 [36]: https://github.com/SF-WDI-LABS/rspec
 [37]: https://github.com/SF-WDI-LABS/idiomatic-ruby
 [38]: https://github.com/SF-WDI-LABS/username-generator
-[39]: https://github.com/sf-wdi-44/merge
+[39]: https://github.com/sf-wdi-44/bubble_sort_ruby
 [40]: https://github.com/SF-WDI-LABS/intro-sql
 [41]: https://github.com/SF-WDI-LABS/active-record
 [42]: https://github.com/sf-wdi-44/ruby-methods
