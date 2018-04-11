@@ -1,4 +1,4 @@
-# Week 4: Project 1
+# Week 5: Ruby
 
 ## Tues, April 10
 - Finish the [Username Generator Lab](https://github.com/SF-WDI-LABS/username-generator)
