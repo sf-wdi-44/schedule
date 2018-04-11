@@ -1,5 +1,8 @@
 # Week 4: Project 1
 
+## Tues, April 10
+- Finish the [Username Generator Lab](https://github.com/SF-WDI-LABS/username-generator)
+
 ## Mon, April 9
 - Implement Project 1 feedback/fixes
 - Complete and submit [Project 1 Self Reflection](https://goo.gl/forms/qOjK3aQbu8WiDTgj1)
