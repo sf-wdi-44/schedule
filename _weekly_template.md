@@ -45,16 +45,6 @@
 | **1:30-2:50**   | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond               | Prepare for [Lightning Talks][22]                                    | Intro to [Publify Proj][23] (ESW)     |
 | **3:00-4:20**   | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond Presentations | Outcomes (Andy)                                                      | [Publify Proj][23]                    |
 
-
-## Week 6: Rails
-
-| April 16 - 20   | Monday                                                                                                                           | Tuesday                                                                                                                                             | Wednesday                                     | Thursday                                  | Friday         |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------- | -------------- |
-| **9:00-10:20**  | Review Rock 'n' Rails App (FAQ)                                                                                                  | Recap Bog App; [Migrations][24] ([Slides](https://drive.google.com/open?id=11x4eYP8Zchd9XVLolKYhPOFt9cdb1-Tyku-fJqmbaXI)) & [Associations][25] (JC) | [Cookies & Sessions][26];[Cookie Monster][27] | Recap Library App Pt. 1; Library App Pt 2 | [Vagabond][28] |
-| **10:30-12:30** | [Views, Partials, & Helpers][29] ([Slides](https://drive.google.com/open?id=11x4eYP8Zchd9XVLolKYhPOFt9cdb1-Tyku-fJqmbaXI)) (FAQ) | [Associations][25] & start [Pet Lab][30] (JC)                                                                                                       | [Auth in Rails][31] (JC)                      | Outcomes (Vanessa)                        | [Vagabond][28] |
-| **1:30-2:50**   | Debugging Strats; Intro [Bog App](KBB) [32]                                                                                      | [Rails Validations][33] (FAQ)                                                                                                                       | Intro to [Library App: Part I][34] (FAQ)      | Recap Library App Pt 2                    | [Vagabond][28] |
-| **3:00-4:20**   | [Bog App][32] (KBB)                                                                                                              | Intro to [Pet Lab][30] (FAQ)                                                                                                                        | [Library App: Part I][34] (FAQ)               | Intro to [Project 2: Vagabond][28]        | [Vagabond][28] |
-
        
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop

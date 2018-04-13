@@ -1,5 +1,9 @@
 # Week 5: Ruby
 
+## Fri, April 13
+- Continue working through Ruby koans
+- Complete Rock 'n Rails stretch goals
+
 ## Tues, April 10
 - Finish the [Username Generator Lab](https://github.com/SF-WDI-LABS/username-generator)
 
