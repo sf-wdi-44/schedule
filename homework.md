@@ -1,6 +1,6 @@
 # Week 5: Ruby
 
-## Fri, April 13
+## Friday, April 13
 - Continue working through Ruby koans
 - Complete Rock 'n Rails stretch goals
 
