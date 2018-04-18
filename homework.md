@@ -1,3 +1,11 @@
+# Week 6: Rails
+
+## Tue, April 17
+- Complete [One-To-Many challenge](https://github.com/SF-WDI-LABS/rails-associations/blob/master/one_to_many_challenges.md)
+
+## Mon, April 16
+- 5.Times Bog_App do 
+
 # Week 5: Ruby
 
 ## Fri, April 13
