@@ -1,5 +1,8 @@
 # Week 6: Rails
 
+## Wed, April 18
+- Complete CookieMonsterApp up to Challenge 4 (Bonus: Complete Stretch challenge)
+
 ## Tue, April 17
 - Complete [One-To-Many challenge](https://github.com/SF-WDI-LABS/rails-associations/blob/master/one_to_many_challenges.md)
 
