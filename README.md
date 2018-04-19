@@ -327,7 +327,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [25]: https://github.com/SF-WDI-LABS/rails-associations
 [26]: https://github.com/SF-WDI-LABS/cookies-sessions
 [27]: https://github.com/sf-wdi-labs/cookie-monster-app
-[28]: https://github.com/sf-wdi-40/project-vagabond
+[28]: https://github.com/sf-wdi-44/project-vagabond
 [29]: https://github.com/sf-wdi-44/rails-views-and-helpers
 [30]: https://github.com/SF-WDI-LABS/rails-pet-lab
 [31]: https://github.com/SF-WDI-LABS/rails-auth
