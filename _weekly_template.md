@@ -29,21 +29,12 @@
 
 ## Week 8: React
 
-| April 30 - May 4 | Monday                                      | Tuesday                          | Wednesday                          | Thursday                            | Friday                         |
-| ---------------- | ------------------------------------------- | -------------------------------- | ---------------------------------- | ----------------------------------- | ------------------------------ |
-| **9:00-10:20**   | Algo [LinkedList][9];[Common Interv Qs][10] | Rev Passportjs Lab; LList Interv | Algos: [Stacks & Queues][11]       | Algo Trees;Rev[Lifecyc Methods][12] | Algo Trees; React Review (FAQ) |
-| **10:30-12:30**  | [EJS, serverside Node][13], [Chirp lab][14] | JS OOP Theory                    | [React ATM Lab][15] (FAQ)          | [React Todo App: Router][16]        | React Overview: Twit. App Arch |
-| **1:30-2:50**    | Fin. [Chirp lab][14], [Passportjs Lab][17]  | [Intro to React (ESW)][18]       | React Rev: Where does the data go  | [React Todo App: Axios][16] (FAQ)   | Todo App Rmx: Single File App  |
-| **3:00-4:20**    | [Passport.js Lab][17]                       | [Intro to React contd (ESW)][19] | [React Todo App: Router][16] (ESW) | Outcomes (Andy)                     | Todo App Rmx: Single File App  |
-
-## Week 7: More Rails; Proj 2 Week
-
-| April 23 - 27   | Monday  | Tuesday          | Wednesday                      | Thursday                                                             | Friday                                |
-| --------------- | ------- | ---------------- | ------------------------------ | -------------------------------------------------------------------- | ------------------------------------- |
-| **9:00-10:20**  | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond               | Algos: LinkedLists (FAQ)                                             | Lightning Talk Presentations          |
-| **10:30-12:30** | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond               | [Asset Pipeline][20] & [Turbolinks Chal.][21]; [Lightning Talks][22] | Algos: Intro to Tech Interviews (FAQ) |
-| **1:30-2:50**   | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond               | Prepare for [Lightning Talks][22]                                    | Intro to [Publify Proj][23] (ESW)     |
-| **3:00-4:20**   | HOLIDAY | Proj 2: Vagabond | Proj 2: Vagabond Presentations | Outcomes (Andy)                                                      | [Publify Proj][23]                    |
+| April 30 - May 4 | Monday                           | Tuesday                            | Wednesday                           | Friday                         |
+| ---------------- | -------------------------------- | ---------------------------------- | ----------------------------------- | ------------------------------ |
+| **9:00-10:20**   | Rev Passportjs Lab; LList Interv | Algos: [Stacks & Queues][11]       | Algo Trees;Rev[Lifecyc Methods][12] | Algo Trees; React Review (FAQ) |
+| **10:30-12:30**  | JS OOP Theory                    | [React ATM Lab][15] (FAQ)          | [React Todo App: Router][16]        | React Overview: Twit. App Arch |
+| **1:30-2:50**    | [Intro to React (ESW)][18]       | React Rev: Where does the data go  | [React Todo App: Axios][16] (FAQ)   | Todo App Rmx: Single File App  |
+| **3:00-4:20**    | [Intro to React contd (ESW)][19] | [React Todo App: Router][16] (ESW) | Outcomes (Andy)                     | Todo App Rmx: Single File App  |
 
        
 [1]: https://github.com/SF-WDI-42/python

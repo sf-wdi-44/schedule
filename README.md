@@ -17,6 +17,15 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md">Deploying Node + Mongoose App on Heroku</a>
 
 
+## Week 7: More Rails; Proj 2 Week
+
+| April 23 - 27   | Monday           | Tuesday          | Wednesday                                                          | Thursday                                                                                   | Friday                                                                                                     |
+| --------------- | ---------------- | ---------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **9:00-10:20**  | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | [React Intro](https://git.generalassemb.ly/sf-wdi-43/react-intro) (KBB)                    | [React Components Review](https://git.generalassemb.ly/justincastilla/monument-react-refactor)(FAQ)        |
+| **10:30-12:30** | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | Outcomes (11am)                                                                            | [React State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(KBB)                   |
+| **1:30-2:50**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React Components](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle) (FAQ) | [React State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props) (KBB)                  |
+| **3:00-4:20**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React Lab](https://github.com/SF-WDI-LABS/atm-react) (KBB)                                | [React Component Lifecycle Review](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle) (FAQ) |
+
 ## Week 6: Rails
 
 | April 16 - 20   | Monday                                                            | Tuesday                                                                                                                                             | Wednesday                                          | Thursday                                       | Friday         |
@@ -348,3 +357,4 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [46]: https://github.com/SF-WDI-LABS/rock-n-rails
 [47]: https://github.com/SF-WDI-42/project-01
 [48]: https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit?usp=sharing
+[49]: https://github.com/SF-WDI-LABS/react_es6_global
