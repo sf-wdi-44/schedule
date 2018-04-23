@@ -36,7 +36,17 @@
 | **1:30-2:50**    | [Intro to React (ESW)][18]       | React Rev: Where does the data go  | [React Todo App: Axios][16] (FAQ)   | Todo App Rmx: Single File App  |
 | **3:00-4:20**    | [Intro to React contd (ESW)][19] | [React Todo App: Router][16] (ESW) | Outcomes (Andy)                     | Todo App Rmx: Single File App  |
 
-       
+
+## Week 7 (option 2): More Rails; Proj 2 Week
+
+| April 23 - 27   | Monday           | Tuesday          | Wednesday                                                          | Thursday                                 | Friday                                                                                                     |
+| --------------- | ---------------- | ---------------- | ------------------------------------------------------------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **9:00-10:20**  | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | [React Intro 1](49) (KBB)                | [React State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(FAQ)                   |
+| **10:30-12:30** | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | Outcomes (11am)                          | [React State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(KBB)                   |
+| **1:30-2:50**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React Intro 2](50) (FAQ)                | [React Component Lifecycle](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle) (KBB)        |
+| **3:00-4:20**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React ATM Lab](51) (KBB)                | [React Component Lifecycle](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle) (FAQ)        |
+
+
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
 [3]: https://github.com/SF-WDI-42/final-project
@@ -85,3 +95,6 @@
 [46]: https://github.com/SF-WDI-LABS/rock-n-rails
 [47]: https://github.com/SF-WDI-42/project-01
 [48]: https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit?usp=sharing
+[49]: https://github.com/SF-WDI-LABS/react-intro
+[50]: https://github.com/SF-WDI-LABS/react-intro-2
+[51]: https://github.com/SF-WDI-LABS/atm-react
