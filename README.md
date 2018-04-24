@@ -21,10 +21,10 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 
 | April 23 - 27   | Monday           | Tuesday          | Wednesday                                                          | Thursday                                 | Friday                                                                                                     |
 | --------------- | ---------------- | ---------------- | ------------------------------------------------------------------ | ---------------------------------------- | --------------------------------- |
-| **9:00-10:20**  | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | [React Intro 1](49) (KBB)                | [React Todo App](50) (KBB)        |
-| **10:30-12:30** | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | Outcomes (11am)                          | [React Todo App](50) (KBB)        |
-| **1:30-2:50**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React Intro 2](50) (FAQ)                | [React Todo App](50) (FAQ)        |
-| **3:00-4:20**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React ATM Lab](51) (KBB)                | [React Todo App](50) (FAQ)        |
+| **9:00-10:20**  | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | [React Intro 1][49] (KBB)                | [React Todo App][52] (KBB)        |
+| **10:30-12:30** | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | Outcomes (11am)                          | [React Todo App][52] (KBB)        |
+| **1:30-2:50**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React Intro 2][50] (FAQ)                | [React Todo App][52] (FAQ)        |
+| **3:00-4:20**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React ATM Lab][51] (KBB)                | [React Todo App][52] (FAQ)        |
 
 ## Week 6: Rails
 
@@ -358,4 +358,6 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [47]: https://github.com/SF-WDI-42/project-01
 [48]: https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit?usp=sharing
 [49]: https://github.com/SF-WDI-LABS/react_es6_global
-[50]: https://github.com/SF-WDI-LABS/react_todo_walkthrough
+[50]: https://github.com/SF-WDI-LABS/react-intro-2
+[51]: https://github.com/SF-WDI-LABS/atm-react
+[52]: https://github.com/SF-WDI-LABS/react_todo_walkthrough
