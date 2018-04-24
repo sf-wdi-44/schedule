@@ -41,9 +41,9 @@
 
 | April 23 - 27   | Monday           | Tuesday          | Wednesday                                                          | Thursday                                 | Friday                                                                                                     |
 | --------------- | ---------------- | ---------------- | ------------------------------------------------------------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **9:00-10:20**  | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | [React Intro 1](49) (KBB)                | [React State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(FAQ)                   |
+| **9:00-10:20**  | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | [React Intro 1](49) (KBB)                | [React State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(KBB)                   |
 | **10:30-12:30** | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 (re)intro](https://www.github.com/sf-wdi-labs/es6-1) (KBB)    | Outcomes (11am)                          | [React State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(KBB)                   |
-| **1:30-2:50**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React Intro 2](50) (FAQ)                | [React Component Lifecycle](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle) (KBB)        |
+| **1:30-2:50**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React Intro 2](50) (FAQ)                | [React Component Lifecycle](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle) (FAQ)        |
 | **3:00-4:20**   | Proj 2: Vagabond | Proj 2: Vagabond | [ES6 Drills](https://github.com/SF-WDI-LABS/ES6-Deliverable) (FAQ) | [React ATM Lab](51) (KBB)                | [React Component Lifecycle](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle) (FAQ)        |
 
 
