@@ -357,7 +357,8 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [46]: https://github.com/SF-WDI-LABS/rock-n-rails
 [47]: https://github.com/SF-WDI-42/project-01
 [48]: https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit?usp=sharing
-[49]: https://github.com/SF-WDI-LABS/react_es6_global
+[49]: https://github.com/SF-WDI-LABS/react-intro
 [50]: https://github.com/SF-WDI-LABS/react-intro-2
 [51]: https://github.com/SF-WDI-LABS/atm-react
 [52]: https://github.com/SF-WDI-LABS/react_todo_walkthrough
+[53]: https://github.com/SF-WDI-LABS/react_es6_global
