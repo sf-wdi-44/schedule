@@ -1,3 +1,9 @@
+# Week 7: React
+
+## Thurs, April 26
+- Complete ATM lab
+- OPTIONAL: Add additional Account component (e.g. "Investment")
+
 # Week 6: Rails
 
 ## Wed, April 18
