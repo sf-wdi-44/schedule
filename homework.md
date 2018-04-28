@@ -1,7 +1,7 @@
 # Week 7: React
 
 ## Fri, April 27
-- Complete the [react-counters](https://github.com/sf-wdi-44/react-state-and-props) lab at least 1 time on your own.
+- Complete the [react-counters](https://github.com/sf-wdi-44/react-state-and-props#exercise-react-counters-5-min--040) lab at least 1 time on your own.
 
 
 ## Thurs, April 26
