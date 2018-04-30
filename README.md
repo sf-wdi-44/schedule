@@ -23,7 +23,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 | ---------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------- |
 | **9:00-10:20**   | [Rev State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(FAQ)              | [React Router](https://github.com/SF-WDI-LABS/react-router-intro) (KBB)                                                 | Algo Trees; Rev[Lifecyc Methods][12] (FAQ) | Algo Trees (FAQ); Lightning Talks(KBB)                          |
 | **10:30-12:30**  | [Rev State & Props](https://git.generalassemb.ly/sf-wdi-43/react-state-and-props)(FAQ)              | [React Router](https://github.com/SF-WDI-LABS/react-router-intro) (KBB)                                                 | Outcomes (11am)                            | [React Giphy](https://github.com/SF-WDI-LABS/react-giphy) (FAQ) |
-| **1:30-2:50**    | [React Component Lifecycles](https://git.generalassemb.ly/sf-wdi-43/react-component-lifecycle)(KBB) | [React Todo App: up to Containers][16] (FAQ)                                                                            | [React Todo App: Axios & CRUD][16] (KBB)   | [React Giphy](https://github.com/SF-WDI-LABS/react-giphy) (FAQ) |
+| **1:30-2:50**    | [React Component Lifecycles](https://github.com/sf-wdi-44/react-component-lifecycle)(KBB)           | [React Todo App: up to Containers][16] (FAQ)                                                                            | [React Todo App: Axios & CRUD][16] (KBB)   | [React Giphy](https://github.com/SF-WDI-LABS/react-giphy) (FAQ) |
 | **3:00-4:20**    | [React Component Lifecycles][12](KBB)                                                               | [React Todo App: up to Containers][16] (FAQ)                                                                            | [React Todo App: Axios & CRUD][16] (KBB)   | React Review (FAQ)                                              |
 | Homework         |                                                                                                     | [Complete React Router Stock Trader Lab II](https://github.com/SF-WDI-LABS/react-router-intro/blob/master/stock_api.md) |                                            |                                                                 |
 
@@ -331,7 +331,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [9]: https://github.com/SF-WDI-LABS/js-linked-list
 [10]: https://docs.google.com/document/d/1L1xh2achS6pdt2pxdn3d5q42yLR3SBMwNp_WnuUEYxI/edit?usp=sharing
 [11]: https://github.com/SF-WDI-LABS/stacks
-[12]: https://github.com/SF-WDI-LABS/react-component-lifecycle
+[12]: https://github.com/sf-wdi-44/react-component-lifecycle
 [13]: https://github.com/sf-wdi-40/intro-express
 [14]: https://github.com/SF-WDI-42/Chirp-Network
 [15]: https://github.com/SF-WDI-LABS/atm-react
