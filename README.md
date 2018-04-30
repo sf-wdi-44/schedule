@@ -16,8 +16,6 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 - <a href="homework.md">Homework</a>
 - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md">Deploying Node + Mongoose App on Heroku</a>
 
-## Week 9: PassportJS, React Build Day, JS OOP
-
 ## Week 8: React
 
 | April 30 - May 4 | Monday                                                                                    | Tuesday                                                                                                                 | Wednesday                                | Thursday                                                        | Friday                                        |
