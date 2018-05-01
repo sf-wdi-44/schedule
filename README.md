@@ -334,7 +334,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [13]: https://github.com/sf-wdi-40/intro-express
 [14]: https://github.com/SF-WDI-42/Chirp-Network
 [15]: https://github.com/SF-WDI-LABS/atm-react
-[16]: https://github.com/SF-WDI-LABS/react_todo_walkthrough
+[16]: https://github.com/sf-wdi-44/react_todo_walkthrough
 [17]: https://github.com/SF-WDI-LABS/express-microblog-add-auth/tree/ejs
 [18]: https://github.com/SF-WDI-LABS/react-intro
 [19]: https://github.com/SF-WDI-LABS/react-intro-2
