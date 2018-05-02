@@ -1,3 +1,8 @@
+# Week 8: More React
+
+## Wed, May 2
+- Review Algos - [Big O Notation](https://docs.google.com/presentation/d/1raZx8K8cWmQkwmjxJ3qZ-GG6zEAawtsmtGgxnd-DXfU/edit#slide=id.p)
+
 # Week 7: React
 
 ## Fri, April 27
