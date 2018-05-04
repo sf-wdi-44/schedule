@@ -1,5 +1,11 @@
 # Week 8: More React
 
+
+## Thu, May 3 
+- Review Big O Notation
+- Complete React Giphy Lab (incl. Bonus)
+- Clone down [supercrud repo](https://github.com/SF-WDI-LABS/super-crud-api) and ensure it runs locally (`npm i`)
+
 ## Wed, May 2
 - Review Algos - [Big O Notation](https://docs.google.com/presentation/d/1raZx8K8cWmQkwmjxJ3qZ-GG6zEAawtsmtGgxnd-DXfU/edit#slide=id.p)
 
