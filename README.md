@@ -337,7 +337,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [5]: https://github.com/SF-WDI-LABS/binary-search-trees
 [6]: https://github.com/SF-WDI-LABS/con-pletionist/blob/master/instructions.md
 [7]: https://git.generalassemb.ly/SF-WDI-42/project3
-[8]: https://github.com/sf-wdi-42/reddit-clone-mern
+[8]: https://github.com/sf-wdi-44/reddit-clone-mern
 [9]: https://github.com/SF-WDI-LABS/js-linked-list
 [10]: https://docs.google.com/document/d/1L1xh2achS6pdt2pxdn3d5q42yLR3SBMwNp_WnuUEYxI/edit?usp=sharing
 [11]: https://github.com/SF-WDI-LABS/stacks
