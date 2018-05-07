@@ -1,5 +1,9 @@
 # Week 8: More React
 
+## Fri, May 4
+- Fill out controllers for Reddit Clone - MERN
+- Test routes using Postman to make API calls
+- Stretch: Complete back-end, including routes; save Postman calls to a [collection](https://www.getpostman.com/docs/v6/postman/collections/creating_collections) for future testing & sharing.
 
 ## Thu, May 3 
 - Review Big O Notation
