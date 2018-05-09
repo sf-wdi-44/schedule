@@ -1,3 +1,10 @@
+# Week 9: React & Project 3
+
+## Tue, May 8:
+- Watch video: What on Earth is Recursion? - Computerphile (10 min): https://www.youtube.com/watch?v=Mv9NEXX1VHc
+- Finish up Reddit Clone project using solution reviewed in class (fix bugs, push to github)
+- Read MDN - OOP in JS: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
 # Week 8: More React
 
 ## Fri, May 4
