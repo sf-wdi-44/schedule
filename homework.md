@@ -1,13 +1,17 @@
 # Week 9: React & Project 3
 
 ## Wed, May 9:
-- Watch video: Prototypes in JavaScript: https://www.youtube.com/watch?v=riDVvXZ_Kb4
-- Stretch: Complete Linked List methods
+- Homework: 
+	- Complete Linked List methods
+- Other resources: 
+	- Watch video - Prototypes in JavaScript: https://www.youtube.com/watch?v=riDVvXZ_Kb4
 
 ## Tue, May 8:
-- Watch video: What on Earth is Recursion? - Computerphile (10 min): https://www.youtube.com/watch?v=Mv9NEXX1VHc
-- Finish up Reddit Clone project using solution reviewed in class (fix bugs, push to github)
-- Read MDN - OOP in JS: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+- Homework:
+	- Finish up Reddit Clone project using solution reviewed in class (fix bugs, push to github)
+- Other resources 
+	- Watch video: What on Earth is Recursion? - Computerphile (10 min): https://www.youtube.com/watch?v=Mv9NEXX1VHc
+	- Read MDN - OOP in JS: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
 # Week 8: More React
 
