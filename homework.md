@@ -1,5 +1,21 @@
 # Week 9: React & Project 3
 
+## Thu, May 10:
+- Homework: 
+	- Read through this code. Before running it, think about what you expect the value of x to be? Why?
+	```js
+	var x = 5;
+	function tricky() {
+	console.log('the value of x is', x);
+	var x = 10;
+	}
+	tricky();
+	```
+	- Confused? Here's a video that might explain more: https://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092
+- Other resources:
+	- Read the MDN article on Hoisting https://developer.mozilla.org/en-US/docs/Glossary/Hoisting, and paste the examples into your browser console.
+
+
 ## Wed, May 9:
 - Homework: 
 	- Complete Linked List methods
