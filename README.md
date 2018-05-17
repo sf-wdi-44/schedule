@@ -22,7 +22,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 | --------------- | ------ | ------- | --------- | ------------------------------------------------------------ | ------------------------------------------------------- |
 | **9:00-10:20**  | Proj 3 | Proj 3  | Proj 3    | Proj 3                                                       | Callbacks & Promises (FAQ)                              |
 | **10:30-12:30** | Proj 3 | Proj 3  | Proj 3    | Outcomes (11am)                                              | Callbacks & Promises (KBB)                              |
-| **1:30-2:50**   | Proj 3 | Proj 3  | Proj 3    | [Algos:Binary Search Trees][5] (FAQ)                         | [Python Installfest & Intro][55] (FAQ)                  |
+| **1:30-2:50**   | Proj 3 | Proj 3  | Proj 3    | [Intro to Trees](https://github.com/SF-WDI-LABS/trees) (FAQ)                         | [Python Installfest & Intro][55] (FAQ)                  |
 | **3:00-4:20**   | Proj 3 | Proj 3  | Proj 3    | [Algos:Binary Search Trees][5] (FAQ)                         | [Python Installfest & Intro][55] (FAQ)                  |
 
 ## Week 9: More React and Proj 3
