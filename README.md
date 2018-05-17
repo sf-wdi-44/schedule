@@ -20,10 +20,10 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 
 | May 14 - 18     | Monday | Tuesday | Wednesday | Thursday                                                     | Friday                                                  |
 | --------------- | ------ | ------- | --------- | ------------------------------------------------------------ | ------------------------------------------------------- |
-| **9:00-10:20**  | Proj 3 | Proj 3  | Proj 3    | Proj 3                                                       | [Algos:Binary Search Trees][5] (FAQ)                    |
-| **10:30-12:30** | Proj 3 | Proj 3  | Proj 3    | Outcomes (11am)                                              | Proj 3 Live Refactor & Code Review                      |
-| **1:30-2:50**   | Proj 3 | Proj 3  | Proj 3    | Proj 3: Feature Freeze & Presentation Prep.                  | Callbacks & Promises                                    |
-| **3:00-4:20**   | Proj 3 | Proj 3  | Proj 3    | Proj 3: Presentation Prep & Presentations                    | Callbacks & Promises                                    |
+| **9:00-10:20**  | Proj 3 | Proj 3  | Proj 3    | Proj 3                                                       | Callbacks & Promises (FAQ)                              |
+| **10:30-12:30** | Proj 3 | Proj 3  | Proj 3    | Outcomes (11am)                                              | Callbacks & Promises (KBB)                              |
+| **1:30-2:50**   | Proj 3 | Proj 3  | Proj 3    | [Algos:Binary Search Trees][5] (FAQ)                         | [Python Installfest & Intro][55] (FAQ)                  |
+| **3:00-4:20**   | Proj 3 | Proj 3  | Proj 3    | [Algos:Binary Search Trees][5] (FAQ)                         | [Python Installfest & Intro][55] (FAQ)                  |
 
 ## Week 9: More React and Proj 3
 
@@ -393,3 +393,4 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [52]: https://github.com/SF-WDI-LABS/react_todo_walkthrough
 [53]: https://github.com/SF-WDI-LABS/react_es6_global
 [54]: https://git.generalassemb.ly/ga-wdi-lessons/cs-workshop
+[55]: https://github.com/SF-WDI-42/python

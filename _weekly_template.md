@@ -1,10 +1,10 @@
 ## Week 11: Python / Django
-| May 21 - 25     | Monday            | Tuesday           | Wednesday     | Thursday                           | Friday              |
-| --------------- | ----------------- | ----------------- | ------------- | ---------------------------------- | ------------------- |
-| **9:00-10:20**  | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon | Algo: Hash Tables; Real-World Eng. | Algos: Graphs (FAQ) |
-| **10:30-12:30** | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon | Scraping with Beautiful Soup (FAQ) | [Final Proj][3]     |
-| **1:30-2:50**   | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon | Scraping with Beautiful Soup (FAQ) | [Final Proj][3]     |
-| **3:00-4:20**   | [Python][1] (ESW) | [Django][2] (FAQ) | Immers-a-thon | Outcomes (Andy)                    | [Final Proj][3]     |
+| May 21 - 25     | Monday                    | Tuesday                         | Wednesday                  | Thursday                                   | Friday              |
+| --------------- | ------------------------- | ------------------------------- | -------------------------- | ------------------------------------------ | ------------------- |
+| **9:00-10:20**  | [Intro Python][52] (ESW)  | [Python Inheritance][2] (FAQ)   | [Django Walk Through][56]    | [Scraping with Beautiful Soup][] (FAQ)     | [Final Proj][3]     |
+| **10:30-12:30** | [Intro Python][52] (ESW)  | [Python Inheritance][2] (FAQ)   | [Django Walk Through][56]    | [Scraping with Beautiful Soup][] (FAQ)     | [Final Proj][3]     |
+| **1:30-2:50**   | [Python Classes][1] (ESW) | [Python Algos][2] (FAQ)         | [Django Walk Through][56]    | [Scraping with Beautiful Soup][] (FAQ)     | [Final Proj][3]     |
+| **3:00-4:20**   | [Python Classes][1] (ESW) | [Python Algos][2] (FAQ)         | [Django Walk Through][56]    | [Scraping with Beautiful Soup][] (FAQ)     | [Final Proj][3]     |
 
 
 ## Week 10: Proj 3
@@ -14,7 +14,7 @@
 | **9:00-10:20**  | Proj 3 | Proj 3  | Proj 3    | Proj 3                                      | [Algos:Binary Search Trees][5] (ESW)                    |
 | **10:30-12:30** | Proj 3 | Proj 3  | Proj 3    | Proj 3: Feature Freeze & Presentation Prep. | Proj 3 Live Refactor & Code Review                      |
 | **1:30-2:50**   | Proj 3 | Proj 3  | Proj 3    | Proj 3: Presentation Prep & Presentations   | Intro Immersathon; Refactor Proj 3 based on code review |
-| **3:00-4:20**   | Proj 3 | Proj 3  | Proj 3    | Outcomes (Andy)                             | [Rails API Lab][6]                                      |  |
+| **3:00-4:20**   | Proj 3 | Proj 3  | Proj 3    | Outcomes (Andy)                             | [Rails API Lab][6]                                      |
 
 
 ## Week 9: More React and Proj 3
@@ -98,3 +98,8 @@
 [49]: https://github.com/SF-WDI-LABS/react-intro
 [50]: https://github.com/SF-WDI-LABS/react-intro-2
 [51]: https://github.com/SF-WDI-LABS/atm-react
+[52]: https://github.com/SF-WDI-42/python
+[53]: https://github.com/justincastilla/python
+[54]: https://github.com/justincastilla/python-classes
+[55]: https://github.com/justincastilla/python-class-inheritance
+[56]: https://github.com/justincastilla/catcollectr-lesson
