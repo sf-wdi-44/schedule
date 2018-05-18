@@ -1,3 +1,9 @@
+# Week 10: Project 3 & Asynchronous JS
+
+## Fri  May 18:
+- Other resources:
+	- Watch the Fun Fun Function video on Promises: https://www.youtube.com/watch?v=2d7s3spWAzo. There is a repo associated with the video which you can code along with if you'd like, but it isn't necessary.
+
 # Week 9: React & Project 3
 
 ## Thu, May 10:
