@@ -4,7 +4,7 @@
 - Other resources:
 	- Watch the Fun Fun Function video on Promises: https://www.youtube.com/watch?v=2d7s3spWAzo. There is a repo associated with the video which you can code along with if you'd like, but it isn't necessary.
 	- Watch the Philip Roberts video, What the heck is the event loop anyway? https://www.youtube.com/watch?v=8aGhZQkoFbQ
-	- Get some more practice writing promises by completing the first 5 exercises of the "Promise it won't hut" training repo: https://github.com/stevekane/promise-it-wont-hurt
+	- Get some more practice writing promises by completing the first 5 exercises of the "Promise it won't hurt" training repo: https://github.com/stevekane/promise-it-wont-hurt
 
 # Week 9: React & Project 3
 
