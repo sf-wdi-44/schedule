@@ -16,24 +16,33 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 - <a href="homework.md">Homework</a>
 - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md">Deploying Node + Mongoose App on Heroku</a>
 
+## Week 11: Python / Django
+| May 21 - 25     | Monday              | Tuesday                 | Wednesday                 | Thursday                     | Friday          |
+| --------------- | ------------------- | ----------------------- | ------------------------- | ---------------------------- | --------------- |
+| **9:00-10:20**  | [Intro Python][52]  | [Python Inheritance][2] | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+| **10:30-12:30** | [Intro Python][52]  | [Python Inheritance][2] | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+| **1:30-2:50**   | [Python Classes][1] | [Python Algos][2]       | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+| **3:00-4:20**   | [Python Classes][1] | [Python Algos][2]       | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+
+
 ## Week 10: Proj 3
 
-| May 14 - 18     | Monday | Tuesday | Wednesday | Thursday                                                     | Friday                            |
-| --------------- | ------ | ------- | --------- | ------------------------------------------------------------ | --------------------------------- |
-| **9:00-10:20**  | Proj 3 | Proj 3  | Proj 3    | Proj 3                                                       | [Callbacks & Promises][56] (FAQ)  |
-| **10:30-12:30** | Proj 3 | Proj 3  | Proj 3    | Outcomes (11am)                                              | [Callbacks & Promises][56] (KBB)  |
-| **1:30-2:50**   | Proj 3 | Proj 3  | Proj 3    | [Intro to Trees](https://github.com/SF-WDI-LABS/trees) (FAQ) | React Auth (KBB)                  |
-| **3:00-4:20**   | Proj 3 | Proj 3  | Proj 3    | [Algos:Binary Search Trees][5] (FAQ)                         | React Auth (KBB)                  |
+| May 14 - 18     | Monday | Tuesday | Wednesday | Thursday                                                     | Friday                           |
+| --------------- | ------ | ------- | --------- | ------------------------------------------------------------ | -------------------------------- |
+| **9:00-10:20**  | Proj 3 | Proj 3  | Proj 3    | Proj 3                                                       | [Callbacks & Promises][56] (FAQ) |
+| **10:30-12:30** | Proj 3 | Proj 3  | Proj 3    | Outcomes (11am)                                              | [Callbacks & Promises][56] (KBB) |
+| **1:30-2:50**   | Proj 3 | Proj 3  | Proj 3    | [Intro to Trees](https://github.com/SF-WDI-LABS/trees) (FAQ) | React Auth (KBB)                 |
+| **3:00-4:20**   | Proj 3 | Proj 3  | Proj 3    | [Algos:Binary Search Trees][5] (FAQ)                         | React Auth (KBB)                 |
 
 ## Week 9: More React and Proj 3
 
-| May 7 - 11      | Monday                                              | Tuesday                                                                                                       | Wednesday (Classroom 3!)                                                              | Thursday                                                 | Friday                         |
-| --------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------ |
-| **9:00-10:20**  | OOP & the prototype chain in JS (FAQ)               | Whiteboarding (FAQ)                                                                                           | [LinkedLists](https://github.com/SF-WDI-LABS/js-linked-list)                          | [Proj 3][7]                                              | Algo Mergesort (Iter & Recurs) |
-| **10:30-12:30** | [Reddit MERN Stack Project][8] (FAQ)                | [Review Reddit MERN Stack Project][8] (FAQ)                                                                   | [LinkedLists](https://github.com/SF-WDI-LABS/js-linked-list) (& lunch with UXDI)      | Outcomes (11am)                                          | [Proj 3][7]                    |
-| **1:30-2:50**   | [Reddit MERN Stack Project][8] (FAQ)                | [Flower Power: Object Oriented Programming in JavaScript](https://github.com/SF-WDI-LABS/js-oop-flower-power) | React Build Day                                                                       | [Proj 3][7] Pitches                                      | [Proj 3][7]                    |
-| **3:00-4:20**   | [Reddit MERN Stack Project][8] (FAQ)                | [Flower Power: Object Oriented Programming in JavaScript](https://github.com/SF-WDI-LABS/js-oop-flower-power) | React Build Day                                                                       | [Proj 3][7] Proposals and Approvals                      | [Proj 3][7]                    |
-| **HW**          | [See HW pg][4]                                      | [See HW pg][4]                                                                                                | [See HW pg][4]                                                                        | [See HW pg][4]                                           | [See HW][4]                    |
+| May 7 - 11      | Monday                                | Tuesday                                                                                                       | Wednesday (Classroom 3!)                                                         | Thursday                            | Friday                         |
+| --------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------ |
+| **9:00-10:20**  | OOP & the prototype chain in JS (FAQ) | Whiteboarding (FAQ)                                                                                           | [LinkedLists](https://github.com/SF-WDI-LABS/js-linked-list)                     | [Proj 3][7]                         | Algo Mergesort (Iter & Recurs) |
+| **10:30-12:30** | [Reddit MERN Stack Project][8] (FAQ)  | [Review Reddit MERN Stack Project][8] (FAQ)                                                                   | [LinkedLists](https://github.com/SF-WDI-LABS/js-linked-list) (& lunch with UXDI) | Outcomes (11am)                     | [Proj 3][7]                    |
+| **1:30-2:50**   | [Reddit MERN Stack Project][8] (FAQ)  | [Flower Power: Object Oriented Programming in JavaScript](https://github.com/SF-WDI-LABS/js-oop-flower-power) | React Build Day                                                                  | [Proj 3][7] Pitches                 | [Proj 3][7]                    |
+| **3:00-4:20**   | [Reddit MERN Stack Project][8] (FAQ)  | [Flower Power: Object Oriented Programming in JavaScript](https://github.com/SF-WDI-LABS/js-oop-flower-power) | React Build Day                                                                  | [Proj 3][7] Proposals and Approvals | [Proj 3][7]                    |
+| **HW**          | [See HW pg][4]                        | [See HW pg][4]                                                                                                | [See HW pg][4]                                                                   | [See HW pg][4]                      | [See HW][4]                    |
 
 
 ## Week 8: React
