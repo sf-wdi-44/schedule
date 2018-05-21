@@ -17,12 +17,12 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md">Deploying Node + Mongoose App on Heroku</a>
 
 ## Week 11: Python / Django
-| May 21 - 25     | Monday              | Tuesday                 | Wednesday                 | Thursday                     | Friday          |
-| --------------- | ------------------- | ----------------------- | ------------------------- | ---------------------------- | --------------- |
-| **9:00-10:20**  | [Intro Python][52]  | [Python Inheritance][2] | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
-| **10:30-12:30** | [Intro Python][52]  | [Python Inheritance][2] | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
-| **1:30-2:50**   | [Python Classes][1] | [Python Algos][2]       | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
-| **3:00-4:20**   | [Python Classes][1] | [Python Algos][2]       | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+| May 21 - 25     | Monday                                                        | Tuesday                                                                     | Wednesday                 | Thursday                     | Friday          |
+| --------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------- | ---------------------------- | --------------- |
+| **9:00-10:20**  | [Intro Python](https://github.com/sf-wdi-44/python)           | [Python Inheritance](https://github.com/sf-wdi-44/python-class-inheritance) | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+| **10:30-12:30** | [Intro Python](https://github.com/sf-wdi-44/python)           | [Python Inheritance](https://github.com/sf-wdi-44/python-class-inheritance) | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+| **1:30-2:50**   | [Python Classes](https://github.com/sf-wdi-44/python-classes) | [Python Algos](https://github.com/sf-wdi-44/Python_Algorithms)              | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
+| **3:00-4:20**   | [Python Classes](https://github.com/sf-wdi-44/python-classes) | [Python Linked Lists](https://github.com/sf-wdi-44/python-linked-lists)     | [Django Walk Through][56] | Scraping with Beautiful Soup | [Final Proj][3] |
 
 
 ## Week 10: Proj 3
@@ -350,7 +350,7 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 <!-- Reference Links -->
 [1]: https://github.com/SF-WDI-42/python
 [2]: https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
-[3]: https://github.com/SF-WDI-42/final-project
+[3]: https://github.com/SF-WDI-44/final-project
 [4]: homework.md
 [5]: https://github.com/SF-WDI-LABS/binary-search-trees
 [6]: https://github.com/SF-WDI-LABS/con-pletionist/blob/master/instructions.md
