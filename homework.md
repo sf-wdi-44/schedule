@@ -2,7 +2,7 @@
 
 ## Tue May 22:
 - Complete Python Movies lab up to exercise 5. Skip the "Expert" questions for now.
-- Watch this summary of Merge Sort. Think about how you might put the theory to code, based on the "simple merge" whiteboarding problem we covered this morning...
+- Watch this [summary of Merge Sort](https://www.youtube.com/watch?v=Pr2Jf83_kG0). Think about how you might put the theory to code, based on the "simple merge" whiteboarding problem we covered this morning...
 
 # Week 10: Project 3 & Asynchronous JS
 
