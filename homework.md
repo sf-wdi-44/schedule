@@ -1,8 +1,19 @@
 # Week 11: Python
 
+## Thu May 24
+- Homework:
+ 	- Come up with an idea for your [Final Project](https://github.com/sf-wdi-44/final-project/blob/master/README.md)!
+- Other resources:
+	- Review the solution to today's whiteboarding: [maximum contiguous sum in a subarray](https://medium.com/@marcellamaki/finding-the-maximum-contiguous-sum-in-an-array-and-kadanes-algorithm-e303cd4eb98c)
+
+## Wed May 23
+- Homework:
+	- Complete Django Catcollectr assignment up to Part 4
+
 ## Tue May 22:
-- Complete Python Movies lab up to exercise 5. Skip the "Expert" questions for now.
-- Watch this [summary of Merge Sort](https://www.youtube.com/watch?v=Pr2Jf83_kG0). Think about how you might put the theory to code, based on the "simple merge" whiteboarding problem we covered this morning...
+- Homework:
+	- Complete Python Movies lab up to exercise 5. Skip the "Expert" questions for now.
+	- Watch this [summary of Merge Sort](https://www.youtube.com/watch?v=Pr2Jf83_kG0). Think about how you might put the theory to code, based on the "simple merge" whiteboarding problem we covered this morning...
 
 # Week 10: Project 3 & Asynchronous JS
 
