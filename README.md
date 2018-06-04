@@ -406,3 +406,28 @@ Schedule one-on-ones with your instructors as needed – keeping them updated o
 [57]: https://github.com/sf-wdi-44/Python_Algorithms
 [58]: https://github.com/sf-wdi-44/python-linked-lists
 [59]: https://github.com/sf-wdi-44/python-scraping
+
+<!-- Additional resources: -->
+
+<!-- Python -->
+[60]: https://github.com/SF-WDI-LABS/python-django-todo
+[61]: https://github.com/ladydangerdame/Python_Algorithms
+[62]: https://git.generalassemb.ly/faisal/pep8
+[63]: https://git.generalassemb.ly/faisal/auth-api-pep8
+
+<!-- React -->
+[64]: https://github.com/SF-WDI-LABS/React-And-Passport
+[65]: https://github.com/SF-WDI-labs/project-wayfarer
+
+<!-- Interview prep -->
+[66]: https://github.com/SF-WDI-LABS/js-algorithms-drills
+[67]: https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes
+[68]: https://github.com/SF-WDI-LABS/stacks
+[69]: https://github.com/SF-WDI-LABS/queues
+[70]: https://github.com/SF-WDI-LABS/trees
+[71]: https://github.com/SF-WDI-LABS/binary-search
+[72]: https://github.com/SF-WDI-LABS/bubble-sort
+[73]: https://github.com/SF-WDI-LABS/merge
+[74]: https://github.com/SF-WDI-LABS/mergesort
+[75]: https://github.com/SF-WDI-LABS/hash-map-lab
+[76]: https://github.com/SF-WDI-LABS/interview-prep
